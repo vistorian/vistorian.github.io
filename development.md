@@ -5,9 +5,9 @@ The Vistorian has a set of repositories and has undergone different versions. Th
 ## Highlevel structure
 
 The Vistorian is modular, in that is has
-* `networkcube.js`: which contains core functionality on loading and querying dynamic networks. This is managed by it's own repository: [Vistorian-core](https://github.com/networkcube/vistorian-core).
-* A set of visualizations, which query network data from `networkcube.js` and visualize them. Each visualization is its own project and independent from any other visualization. 
-* A web-application, _Vistorian_ that manages uploading data and creates a website with differnt visualizations.
+* A __libary `networkcube.js`__ which contains core functionality on loading and querying dynamic networks. This is managed by it's own repository: [Vistorian-core](https://github.com/networkcube/vistorian-core).
+* A __set of visualizations__, which query network data from `networkcube.js` and visualize them. Each visualization is its own project and independent from any other visualization. 
+* A __web-application, _Vistorian_,__ that manages uploading data and creates a website with differnt visualizations.
 
 ## Repositoriss
 
