@@ -28,7 +28,7 @@ Vistorian-bookmarkbrowser](https://github.com/networkcube/vistorian-browser): th
   * search box
   * legends for node and link colors (and shapes)
 * __[Vistorian-map](https://github.com/networkcube/vistorian-map):__ the network map visualiztion
-* __[Vistorian-dynamicego](https://github.com/networkcube/vistorian-dynamicego): the timeline visualization with functionality to show the dynamic network.
+* __[Vistorian-dynamicego](https://github.com/networkcube/vistorian-dynamicego):__ the timeline visualization with functionality to show the dynamic network.
 * __[Vistorian-web](https://github.com/networkcube/vistorian-web):__ web-application including 
   * landing page (e.g., http://vistorian.net)
   * data view for uploading and mapping data
