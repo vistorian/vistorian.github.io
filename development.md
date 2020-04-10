@@ -22,13 +22,18 @@ The following repositories are involved in the vistorian.
   * network measures
   * util packages (colors, motifs, search)
   * inter-view messages.
+
 * __[Vistorian-nodelink](https://github.com/networkcube/vistorian-nodelink):__ the nodelink visualization 
+
 * __[Vistorian-matrix](https://github.com/networkcube/vistorian-matrix):__ the matrix visualization 
 Vistorian-bookmarkbrowser](https://github.com/networkcube/vistorian-browser): the sidebar containing 
   * search box
   * legends for node and link colors (and shapes)
+
 * __[Vistorian-map](https://github.com/networkcube/vistorian-map):__ the network map visualiztion
+
 * __[Vistorian-dynamicego](https://github.com/networkcube/vistorian-dynamicego):__ the timeline visualization with functionality to show the dynamic network.
+
 * __[Vistorian-web](https://github.com/networkcube/vistorian-web):__ web-application including 
   * landing page (e.g., http://vistorian.net)
   * data view for uploading and mapping data
