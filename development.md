@@ -34,8 +34,9 @@ Vistorian-bookmarkbrowser](https://github.com/networkcube/vistorian-browser): th
   * data view for uploading and mapping data
   * individual websites for each view (nodelink, matrix, combined view, etc..)
   * functionality for obtaining geo coordinates
+
+
+## Local development
   
-  ## Local development
-  
-  To setup the code locally, read the instructions in the README in the [vistorian-web](https://github.com/networkcube/vistorian-web) repository.
+To setup the code locally, read the instructions in the README in the [vistorian-web](https://github.com/networkcube/vistorian-web) repository.
 
