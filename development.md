@@ -17,19 +17,19 @@ All repositories are hosted here [https://github.com/networkcube](https://github
 
 The following repositories are involved in the vistorian.
 
-* [Vistorian-core](https://github.com/networkcube/vistorian-core): core functionalities for all the underlying functions, except he individual visualizations. This includes  
+* __[Vistorian-core](https://github.com/networkcube/vistorian-core):__ core functionalities for all the underlying functions, except he individual visualizations. This includes  
   * dynamic network data structure
   * network measures
   * util packages (colors, motifs, search)
   * inter-view messages.
-*[Vistorian-nodelink](https://github.com/networkcube/vistorian-nodelink): the nodelink visualization 
-*[Vistorian-matrix](https://github.com/networkcube/vistorian-matrix): the matrix visualization 
+* __[Vistorian-nodelink](https://github.com/networkcube/vistorian-nodelink):__ the nodelink visualization 
+* __[Vistorian-matrix](https://github.com/networkcube/vistorian-matrix):__ the matrix visualization 
 Vistorian-bookmarkbrowser](https://github.com/networkcube/vistorian-browser): the sidebar containing 
   * search box
   * legends for node and link colors (and shapes)
-*[Vistorian-map](https://github.com/networkcube/vistorian-map): the network map visualiztion
-*[Vistorian-dynamicego](https://github.com/networkcube/vistorian-dynamicego): the timeline visualization with functionality to show the dynamic network.
-*[Vistorian-web](https://github.com/networkcube/vistorian-web): web-application including 
+* __[Vistorian-map](https://github.com/networkcube/vistorian-map):__ the network map visualiztion
+* __[Vistorian-dynamicego](https://github.com/networkcube/vistorian-dynamicego): the timeline visualization with functionality to show the dynamic network.
+* __[Vistorian-web](https://github.com/networkcube/vistorian-web):__ web-application including 
   * landing page (e.g., http://vistorian.net)
   * data view for uploading and mapping data
   * individual websites for each view (nodelink, matrix, combined view, etc..)
