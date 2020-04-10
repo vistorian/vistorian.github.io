@@ -9,7 +9,7 @@ Contact: [vistorian@inria.fr](vistorian@inria.fr)
 Mailing List: vistorian@googlegroups.com
 
 ## Contacts
-Benjamin Bach, University of Edinburgh, UK
-Jean-Daniel Fekete, Inria, France
-Nathalie Henry Riche, Microsoft Research, US
-Nicole Dufournaud, EHESS, France
+* [Benjamin Bach](http://benjbach.me), University of Edinburgh, UK
+* Jean-Daniel Fekete, Inria, France
+* Nathalie Henry Riche, Microsoft Research, US
+* Nicole Dufournaud, EHESS, France
