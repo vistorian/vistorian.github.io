@@ -1,4 +1,5 @@
 # Vistorian Lab
+![picture](/assets/Images/VistorianLabLogo.png)
 
 ## What is Vistorian Lab?
 
