@@ -11,7 +11,6 @@ After you agree to participate a Bookmark feature will be added to the Vistorian
 To relate logged events to the same user, the Vistorian will create a unique random ID for you in your browser cache, independent from your IP address and other potentially identifiable personal information. No cookies are used and emptying your browser cache will erase your ID. 
 
 
-
 ## What are the events' being logged?
 Here is an example of the nature of the events being logged:
 * Logging-related events: ex. enable/disable bookmark, consent approval, navigating through Vistorian's pages, .. 
@@ -64,8 +63,5 @@ inf-ethics@inf.ed.ac.uk. When you contact us, please provide the study title and
 
 ## Updated information.
 If the research project changes in any way, an updated Participant Information Sheet will be made available on https://web.inf.ed.ac.uk/infweb/research/study-updates. 
-
-
-
-
-
+*  [Participant Information Sheet](https://drive.google.com/file/d/1LC9UyQ_UoWUodObLCFrxVlbl92thmEtB/view?usp=sharing)
+* [Participant Consent Form](https://drive.google.com/file/d/1G0V_QpwJ-cz7EA73dptGV-H-li0QAQYZ/view?usp=sharing)
