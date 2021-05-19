@@ -13,9 +13,9 @@ Node-link diagrams show nodes in the network as points (dots) and (multiple) rel
 
 ### Visual Encoding
 
-Layout = Connectivity: The node-link diagram uses the simple default force-directed layout, implemented in D3. Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
+Layout = Connectivity: The node-link diagram uses the simple default [force-directed](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) layout, implemented in [D3](https://bl.ocks.org/mbostock/4062045). Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
 
-* Node size = Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections (node degree)
+* Node size = Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections ([node degree](https://mathworld.wolfram.com/VertexDegree.html))
 * Multiple lines = multiple relations: Multiple straight lines between two nodes indicate multiple links, e.g. different letters or different types of relationships.
 * Line thickness = relation weight: lines of different thickness indicate relations of different strength (or weight).
 * Line color = relation type: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
