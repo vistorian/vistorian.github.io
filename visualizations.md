@@ -7,13 +7,15 @@
 
 ## Node Link
 
+![image](/assets/Images/nodeLinkDiagram.png)
+
 Node-link diagrams show nodes in the network as points (dots) and (multiple) relations between nodes as straight lines. Moving the time slider on the top of the visualization filters links between nodes according to their presence in time.
 
 ### Visual Encoding
 
-Layout = Connectivity: The node-link diagram uses the simple default force-directed layout, implemented in D3. Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
+Layout = Connectivity: The node-link diagram uses the simple default [force-directed](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) layout, implemented in [D3](https://bl.ocks.org/mbostock/4062045). Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
 
-* Node size = Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections (node degree)
+* Node size = Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections ([node degree](https://mathworld.wolfram.com/VertexDegree.html))
 * Multiple lines = multiple relations: Multiple straight lines between two nodes indicate multiple links, e.g. different letters or different types of relationships.
 * Line thickness = relation weight: lines of different thickness indicate relations of different strength (or weight).
 * Line color = relation type: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
@@ -29,12 +31,18 @@ Layout = Connectivity: The node-link diagram uses the simple default force-dir
 
 Often, we look at visualizations with preconceptions. That means, we're seeing just what we want to see. That also means that we do not see new things. Exploring a network means to see new things. The network below shows letter correspondences between persons. Colors indicate types of letters.
 
+![image](/assets/Images/nodeLinkDiagram2.png)
+
 Below, a list of patterns we can find in this network.
 
-* Cluster: Group of densely connected nodes.
-* Central nodes, highly connected nodes with many connections.
-* Triangle motif with multiple connections.
-* Fan: central node connected to many individual nodes.
+* ![image](/assets/Images/nodeLinkDiagram3.png)
+ Cluster: Group of densely connected nodes.
+* ![image](/assets/Images/nodeLinkDiagram4.png)
+ Central nodes, highly connected nodes with many connections.
+* ![image](/assets/Images/nodeLinkDiagram5.png)
+ Triangle motif with multiple connections.
+* ![image](/assets/Images/nodeLinkDiagram6.png)
+ Fan: central node connected to many individual nodes.
 
 
 ## Adjacency Matrix
@@ -45,33 +53,35 @@ The above picture shows a cluster of connections of the same type (red). The fir
 Node labels are shown for rows and columns. A small overview on the left shows the entire matrix and the currently visible part when panning and zooming.
 
 ### Visual Encodings
-* Squared cells = connections: Squared cells indicate connections with a positive weight. If no connection weight is specified in the data, the default weight is set to 1.
-* Diamond cells = connections with negative weight: e.g. to show negative correlation between brain regions.
-* Split cells = multiple connections between nodes: some squared matrix cells are split into vertical bars. This means that more than one connection exists between the two nodes represented by the row and column.
-* Cell color = connection type: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
+* **Squared cells = connections**: Squared cells indicate connections with a positive weight. If no connection weight is specified in the data, the default weight is set to 1.
+* **Diamond cells = connections with negative weight**: e.g. to show negative correlation between brain regions.
+* **Split cells = multiple connections between nodes**: some squared matrix cells are split into vertical bars. This means that more than one connection exists between the two nodes represented by the row and column.
+* **Cell color = connection type**: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
 
 ### Interaction
-* Zoom :mouse wheel
-* Pan: drag and drop on matrix
-* Show connection weight: hover cell
+* **Zoom** :mouse wheel
+* **Pan**: drag and drop on matrix
+* **Show connection weight**: hover cell
 
 ### Parameters
 * Label Ordering: Defines the ordering of rows and columns
-* Alphanumerical: Order by name
-* Reverse Alphanumerical: by name, reversed
-* Node degree: according to number of connections, descending
-* Similarity: groups nodes with similar connectivity to reveal patterns in the matrix.
+    * **Alphanumerical**: Order by name
+    * **Reverse Alphanumerical**: by name, reversed
+    * **Node degree**: according to number of connections, descending
+    * **Similarity**: groups nodes with similar connectivity to reveal patterns in the matrix.
 
 ### Visual Patterns
 
-Visual patterns inside the matrix are defined by a reordering algorithm, optimizing row and column ordering of the matrix. Vistorian uses one of these algorithms called Leaf-ordering, implemented in reorder.js. Choosing 'Similarity' from the order menu optimizes row and column ordering, based no the currently visible links. I.e., only links present in the current temporal selection will be taken as basis for the reordering. That means that the ordering can be optimized for individual time periods as clusters might be present at specific periods only.
+Visual patterns inside the matrix are defined by a [reordering algorithm](https://hal.inria.fr/hal-01326759/document), optimizing row and column ordering of the matrix. Vistorian uses one of these algorithms called Leaf-ordering, implemented in [reorder.js](https://github.com/jdfekete/reorder.js/). Choosing 'Similarity' from the order menu optimizes row and column ordering, based no the currently visible links. I.e., only links present in the current temporal selection will be taken as basis for the reordering. That means that the ordering can be optimized for individual time periods as clusters might be present at specific periods only.
 
-Matrices contain potentially a variety of patterns. The four most important are the following ones:
+Matrices contain potentially a [variety of patterns](https://hal.inria.fr/hal-01326759/document). The four most important are the following ones:
 
-* Squares along the diagonal of the matrix indicate groups of densely connected nodes in the network; each node indicated in the rows is connected to each node in the column.
-* Incomplete squares along the diagonal are almost squares but are missing some cells, i.e. not all nodes in the rows are connected to all nodes in the columns. Such incomplete squares are clusters of densely connected nodes. 
-* Complete or incomplete squares off the diagonal indicate bigraphs. In bigraphs nodes from one set are only connected to nodes from the other set. In the figure from the left (almost all) nodes in the rows are connected to (almost all) nodes in the columns.
-* The last of the main patterns are dense rows or columns: a row or column with lots of cells indicates a highly connected node. In the figure just above, the node Hubert Antheaume is connected almost all the nodes in the visible columns. The node can be called a hub.
+* ![image](/assets/Images/matrixDiagram1.png) **Squares along the diagonal** of the matrix indicate groups of densely connected nodes in the network; each node indicated in the rows is connected to each node in the column.
+* ![image](/assets/Images/matrixDiagram2.png) **Incomplete squares along the diagonal** are almost squares but are missing some cells, i.e. not all nodes in the rows are connected to all nodes in the columns. Such incomplete squares are **clusters of densely connected nodes**. 
+* ![image](/assets/Images/matrixDiagram3.png) **Complete or incomplete squares off the diagonal indicate bigraphs**. In bigraphs nodes from one set are only connected to nodes from the other set. In the figure from the left (almost all) nodes in the rows are connected to (almost all) nodes in the columns.
+* The last of the main patterns are **dense rows or columns**: 
+![image](/assets/Images/matrixDiagram4.png)
+a row or column with lots of cells indicates a highly connected node. In the figure just above, the node Hubert Antheaume is connected almost all the nodes in the visible columns. The node can be called a **hub**.
 
 ## Time Arcs
 
