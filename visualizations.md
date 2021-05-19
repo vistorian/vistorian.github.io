@@ -7,6 +7,8 @@
 
 ## Node Link
 
+![image](/assets/Images/nodeLinkDiagram.png)
+
 Node-link diagrams show nodes in the network as points (dots) and (multiple) relations between nodes as straight lines. Moving the time slider on the top of the visualization filters links between nodes according to their presence in time.
 
 ### Visual Encoding
@@ -29,12 +31,18 @@ Layout = Connectivity: The node-link diagram uses the simple default force-dir
 
 Often, we look at visualizations with preconceptions. That means, we're seeing just what we want to see. That also means that we do not see new things. Exploring a network means to see new things. The network below shows letter correspondences between persons. Colors indicate types of letters.
 
+![image](/assets/Images/nodeLinkDiagram2.png)
+
 Below, a list of patterns we can find in this network.
 
-* Cluster: Group of densely connected nodes.
-* Central nodes, highly connected nodes with many connections.
-* Triangle motif with multiple connections.
-* Fan: central node connected to many individual nodes.
+* ![image](/assets/Images/nodeLinkDiagram3.png)
+ Cluster: Group of densely connected nodes.
+* ![image](/assets/Images/nodeLinkDiagram4.png)
+ Central nodes, highly connected nodes with many connections.
+* ![image](/assets/Images/nodeLinkDiagram5.png)
+ Triangle motif with multiple connections.
+* ![image](/assets/Images/nodeLinkDiagram6.png)
+ Fan: central node connected to many individual nodes.
 
 
 ## Adjacency Matrix
