@@ -4,5 +4,5 @@
 * Jean-Daniel Fekete, INRIA, France (Jean-Daniel.Fekete@inria.fr )
 * Catherine Plaisant, University of Maryland, US (plaisant@umd.edu )
 * Vanesssa Serrano, Ramon Llull University, Spain (vanessaserr@gmail.com )
-* Nathalie Henry Riche, Microsoft Research, US
+* [Nathalie Henry Riche](https://www.microsoft.com/en-us/research/people/nath/), Microsoft Research, US
 * Nicole Dufournaud, EHESS, France

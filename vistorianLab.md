@@ -1,9 +1,9 @@
 # Vistorian Lab
-![picture](/assets/Images/VistorianLabLogo.png)
+![image](/assets/Images/VistorianLabLogo.png)
 
 ## What is Vistorian Lab?
 
-VistorianLab is a tool that will assist you in your work, research, exploration, and any other scientific goals. It will assist you in creating your own bookmarks while creating Vistorian visualizations.  
+Vistorian Lab is a tool that will assist you in your work, research, exploration, and any other scientific goals. It will assist you in creating your own bookmarks while creating Vistorian visualizations.  
 
 ### What is a bookmark in Vistorian Lab?
 Through the Vistorian Lab you can create new bookmarks. Each created bookmark holds the state of the currently-selected dataset and chosen network upon the time of creation. It enables you also to add your own notes and classify them based on their purpose. 
