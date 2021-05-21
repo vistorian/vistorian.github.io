@@ -1,5 +1,5 @@
 
-# Welcome to the **Vistorian Activity Logging Study** wiki!
+# The Vistorian Activity Logging Study
 
 This study was certified according to the Informatics Research Ethics Process, RT number 2019/20353. Please take time to read the following information carefully. You should keep this page for your records. 
 

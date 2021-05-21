@@ -1,9 +1,12 @@
+<link rel="stylesheet" type="text/css" href="assets/styles/style.css">
+
 [The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. It is a research project. If you're using the Vistorian for your work, please cite our poster and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data.
 
 
-![alttext](assets/Images/Marie_Boucher_2.png "Marie Boucher dataset explored using The Vistorian")
+![alttext](assets/Images/Marie_Boucher_2.png "")
 
->[Marie Boucher Paper](https://hal.archives-ouvertes.fr/hal-02508730/document)
+
+<a href="https://hal.archives-ouvertes.fr/hal-02508730/document" style="display: block;text-align:center;"> Marie Boucher Dataset Explored Using The Vistorian _Paper_</a>
 
 
 

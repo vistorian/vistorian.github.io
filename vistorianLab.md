@@ -16,7 +16,9 @@ Through the Vistorian Lab you can create new bookmarks. Each created bookmark ho
 4. You can easily share the bookmarks with your colleagues to review and discuss your work and progress. 
 
 
-## What about Vistorian Lab and privacy?
-Vistorian Lab is a tool that serves both users and research to enhance the visualization process and provide a better environment to users. To know more about data privacy, please choose the phase you are participatig in:
+## What about Vistorian Lab and data privacy?
+Vistorian Lab is a tool that serves both users and research to enhance the visualization process and provide a better environment to users. The project invloves logging the users' engagement and interactions with the The Vistorian platform. Our application does not keep any of your data in our tracking logs. 
+
+To know more about data privacy, tracking and consents, please choose the phase you are participatig in:
 1. Phase 1 :  <a href="https://vistorian.github.io/studyPhase1_activityLogging.html">Vistorian Activity Logging Study</a> 
 2. Phase 2 :  <a href="https://vistorian.github.io/studyPhase2_LongitudinalCaseStudy.html">Longitudinal Case Study Evaluation of The Vistorian</a> 
