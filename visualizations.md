@@ -7,7 +7,7 @@
 
 ## Node Link
 
-![image](/assets/Images/nodeLinkDiagram.png)
+![image](assets/Images/nodeLinkDiagram.png)
 
 Node-link diagrams show nodes in the network as points (dots) and (multiple) relations between nodes as straight lines. Moving the time slider on the top of the visualization filters links between nodes according to their presence in time.
 
@@ -31,18 +31,14 @@ Layout = Connectivity: The node-link diagram uses the simple default [force-di
 
 Often, we look at visualizations with preconceptions. That means, we're seeing just what we want to see. That also means that we do not see new things. Exploring a network means to see new things. The network below shows letter correspondences between persons. Colors indicate types of letters.
 
-![image](/assets/Images/nodeLinkDiagram2.png)
+![image](assets/Images/nodeLinkDiagram2.png)
 
 Below, a list of patterns we can find in this network.
 
-* ![image](/assets/Images/nodeLinkDiagram3.png)
- Cluster: Group of densely connected nodes.
-* ![image](/assets/Images/nodeLinkDiagram4.png)
- Central nodes, highly connected nodes with many connections.
-* ![image](/assets/Images/nodeLinkDiagram5.png)
- Triangle motif with multiple connections.
-* ![image](/assets/Images/nodeLinkDiagram6.png)
- Fan: central node connected to many individual nodes.
+* <img src="assets/Images/nodeLinkDiagram3.png" width="50" height="50">    Cluster: Group of densely connected nodes.
+* <img src="assets/Images/nodeLinkDiagram4.png" width="50" height="50">    Central nodes, highly connected nodes with many connections.
+* <img src="assets/Images/nodeLinkDiagram5.png" width="50" height="50">     Triangle motif with multiple connections.
+* <img src="assets/Images/nodeLinkDiagram6.png" width="50" height="50">    Fan: central node connected to many individual nodes.
 
 
 ## Adjacency Matrix
@@ -76,12 +72,14 @@ Visual patterns inside the matrix are defined by a [reordering algorithm](https:
 
 Matrices contain potentially a [variety of patterns](https://hal.inria.fr/hal-01326759/document). The four most important are the following ones:
 
-* ![image](/assets/Images/matrixDiagram1.png) **Squares along the diagonal** of the matrix indicate groups of densely connected nodes in the network; each node indicated in the rows is connected to each node in the column.
-* ![image](/assets/Images/matrixDiagram2.png) **Incomplete squares along the diagonal** are almost squares but are missing some cells, i.e. not all nodes in the rows are connected to all nodes in the columns. Such incomplete squares are **clusters of densely connected nodes**. 
-* ![image](/assets/Images/matrixDiagram3.png) **Complete or incomplete squares off the diagonal indicate bigraphs**. In bigraphs nodes from one set are only connected to nodes from the other set. In the figure from the left (almost all) nodes in the rows are connected to (almost all) nodes in the columns.
+* <img src="assets/Images/matrixDiagram1.png" width="100" height="100">  **Squares along the diagonal** of the matrix indicate groups of densely connected nodes in the network; each node indicated in the rows is connected to each node in the column.
+* <img src="assets/Images/matrixDiagram2.png" width="100" height="100">   **Incomplete squares along the diagonal** are almost squares but are missing some cells, i.e. not all nodes in the rows are connected to all nodes in the columns. Such incomplete squares are **clusters of densely connected nodes**. 
+* <img src="assets/Images/matrixDiagram3.png" width="100" height="100">   **Complete or incomplete squares off the diagonal indicate bigraphs**. In bigraphs nodes from one set are only connected to nodes from the other set. In the figure from the left (almost all) nodes in the rows are connected to (almost all) nodes in the columns.
 * The last of the main patterns are **dense rows or columns**: 
-![image](/assets/Images/matrixDiagram4.png)
-a row or column with lots of cells indicates a highly connected node. In the figure just above, the node Hubert Antheaume is connected almost all the nodes in the visible columns. The node can be called a **hub**.
+
+    ![image](assets/Images/matrixDiagram4.png)
+
+    a row or column with lots of cells indicates a highly connected node. In the figure just above, the node Hubert Antheaume is connected almost all the nodes in the visible columns. The node can be called a **hub**.
 
 ## Time Arcs
 
@@ -109,7 +107,11 @@ One common problem with geographic positions is, that multiple nodes are present
 The visual encoding of the network is otherwise the same as for the node link visualization.
 
 ### Visual encodings
-* Node Transparency: Transparent nodes are free, i.e. they do not have geographic positions associated with them.
-* Node Overlap: defines the spatial distance between nodes with the same position. If set to 0, all nodes in the same place will completely overlap. Setting the slider to a higher value will show nodes in the same place in a circle for better readability.
+* **Node Transparency**: Transparent nodes are free, i.e. they do not have geographic positions associated with them.
+* **Node Overlap**: defines the spatial distance between nodes with the same position. If set to 0, all nodes in the same place will completely overlap. Setting the slider to a higher value will show nodes in the same place in a circle for better readability.
 
 
+## Browser
+If you have multiple types of links, the browser contains a legend for each type of link. You can hide and recolor links.
+
+The browser has also a search option.
