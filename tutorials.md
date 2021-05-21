@@ -5,7 +5,7 @@
 ## First Tutorial : Walkthrough The Vistorian & Vistorian Lab 
 _3rd June 2021, 4:00-6:00 PM UK Time_
 
-* Live Tutorial Link to join: https://ed-ac-uk.zoom.us/j/86565723021
+* Live Tutorial Link to join: (https://ed-ac-uk.zoom.us/j/86565723021) 
 <br/>Meeting ID: 865 6572 3021
 <br/>Passcode: zCh64MpW
 

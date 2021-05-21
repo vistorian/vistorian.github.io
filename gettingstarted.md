@@ -8,6 +8,8 @@ The Vistorian is a research prototype to build better visualizations for multiva
 ## A quick start guide:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0VE5X2GS3AE" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br/>
+
 ## Demo Datasets:
 * [Marie Boucher CSV File](https://drive.google.com/file/d/1Os_1D7xQEQHN_hujn8lf1qRVTwHTl8yV/view?usp=sharing)
 * [les miserables CSV File](https://drive.google.com/file/d/11cSkZ9TYX7B1mq8gSIuKwEjahlEEmRH8/view?usp=sharing)
@@ -17,7 +19,7 @@ The Vistorian is a research prototype to build better visualizations for multiva
 
 ## Contents Table:
 * [Starting with the Tutorial](#Starting-with-the-Tutorial)
-    * [Introducing the Vistorian & VistorianLab Interfaces](https://vistorian.github.io/vistorian_Interface.html)
+* [Introducing the Vistorian & VistorianLab Interfaces](https://vistorian.github.io/vistorian_Interface.html)
 * [Ensuring your data is in the correct format ](https://vistorian.github.io/formattingdata.html)
 * [Loading Data](#Loading-Data)
 * [Extracting Geo-coordinates](#Extracting-Geo-coordinates)
@@ -63,7 +65,7 @@ This section explains how to import (load) data into the Vistorian. The Vistoria
 
 1. Open Google Chrome and get to http://vistorian.net
 
-    <img src="assets/Images/loadData_2.png" width="50%" height="50%" class="center"> 
+    <img src="assets/Images/loadData_2.png" width="30%" height="50%" class="center"> 
 
 2. To explore a new network or continue with a previously imported one, click on ‘My Session’ at the top of the home page (symbol has changed).
 
@@ -168,7 +170,7 @@ Of course, you can use the [map visualization](https://vistorian.github.io/visua
 ### Saving and using existing location tables
 As creating clean and correct location tables can be tedious, you can export your table with the Export as CSV button at the right in the gray area.
 
- <img src="assets/Images/ExtractGeoCord_7.png" width="50%" height="50%" class="center"> 
+ <img src="assets/Images/ExtractGeoCord_7.png" width="30%" height="30%" class="center"> 
 
 To import an existing location table, chose Upload from the Vistorian menu, next to Data Tables (figure right). Select your csv and it will show under the Data Tables headline in the menu (e.g., userLocationTable.csv).
 
