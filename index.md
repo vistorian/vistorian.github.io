@@ -5,7 +5,9 @@
 
 [Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document) Explored Using The Vistorian, courtesy of Dr. Nicole Dufournaud
 
-[The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. It is a research project. If you're using the Vistorian for your work, please cite our poster and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data.
+[The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. Interactive exploration means to discover and scrutinize your data through interactive queries and multiple complementary perspectives (visualizations). The idea of exploratory data analysis (EDA) goes back to the [American statisticiian John Tukey](https://en.wikipedia.org/wiki/John_Tukey).
+
+The Vistorian is a research project. If you're using the Vistorian for your work, please cite our poster and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data.
 
 
 
