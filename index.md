@@ -15,12 +15,23 @@
 ## Why the Vistorian?
 
 The Vistorian provides four [interactive visualizations](visualizations.html) to help you explore your networks: 
-* [Node-link diagram](visualizations.html#node-link)
-* [Adjacency matrix](visualizations.html#adjacency-matrix)
-* [Timeline](visualizations.html#time-arcs)
-* [Map](visualizations.html#map)
+* [Node-link diagram](visualizations.html#node-link): shows networks in the traditional force-directed layout.
+* [Adjacency matrix](visualizations.html#adjacency-matrix): shows your network in a compact table format to help visulize very dense networks.
+* [Timeline](visualizations.html#time-arcs): shows you network over time
+* [Map](visualizations.html#map): shows your network on an interactive map.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0VE5X2GS3AE" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+## What kinds of networks?
+
+![image](assets/images/multiple-links.png)
+
+## Upload data in simple CSV
+
+Your data needs to be formatted in tables like so: 
+![image](assets/Images/loadData_1.png)
+
+Learn more about [formatting data for The Vistorian](formattingdata).
 
 ## Learn
 
