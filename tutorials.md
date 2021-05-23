@@ -1,6 +1,71 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Live Tutorials
+## Open Tutorial on Interactive Network Visualization
+Quick Navigation: [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#qa-session) | [Face-to-face sessions]()
+
+**Starting date**: _June 3rd_
+
+The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian] (https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
+
+The tutorial is aimed for everyone wanting to visualize and visually explore complex network data. The Vistorian can help with geographic, temporal and multivariate networks. There is a size limit of around 1000 links. The Vistorian is tool created in close relationship with our [research in data visualization](http://visualinteractivedata.github.io) and aims to both provide novel and powerful visualizations for complex networks and help making these visualizations more accessible. We are keen to learn from your experience and improve our tool.
+
+Our tutorial is build around the following parts and will run on June 3rd, with optional Q&A and drop-in sessions over the summer.
+
+## Overview:
+ _Thursday, June 3rd  2021, 4-5pm UK time_
+
+This intro covers:  
+* overviewing visualization techniques for dynamic, geographic, and multivariate networks, 
+* giving an overview over The Vistorian,
+* explain how to format data, 
+
+Please register here: https://forms.office.com/r/JB7wT7nD82
+
+The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
+
+Link to join:https://ed-ac-uk.zoom.us/j/86565723021
+Meeting ID: 865 6572 3021
+Passcode: zCh64MpW
+
+The agenda of our tutorial session on the 3rd of June will be as following:
+
+
+## Live Tutorial:
+_Thursday, June 3rd  2021, 5-6pm UK time_
+
+Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
+
+Link to join:https://ed-ac-uk.zoom.us/j/86565723021
+Meeting ID: 865 6572 3021
+Passcode: zCh64MpW
+
+## Web tutorials:
+
+Our website (https://vistorian.github.io) will feature tutorial material, including short videos and a complete documentation of our interactions and the note-taking tool. We will add new tutorials and examples over the coming days.
+
+## Drop-in Q&A sessions:
+
+We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
+
+You can book an appointment with The Vistorian team: [https://www.picktime.com/TheVistorian](https://www.picktime.com/TheVistorian) 
+
+
+# FAQs
+
+### Who is eligible?
+While the tutorial is open to anyone with an interest in data visualization (especially dynamic networks), most benefits will be to those with question(s) in mind who would like to address through interactivity, bookmarks, states restoration , notes and states exchange.
+
+
+
+
+
+
+
+
+
+
+
+<!-- # Live Tutorials
 
 ## First Tutorial : Walkthrough The Vistorian & Vistorian Lab 
 _3rd June 2021, 4:00-6:00 PM UK Time_
@@ -8,20 +73,20 @@ _3rd June 2021, 4:00-6:00 PM UK Time_
 * Live Tutorial Link to join: (https://ed-ac-uk.zoom.us/j/86565723021) 
 <br/>Meeting ID: 865 6572 3021
 <br/>Passcode: zCh64MpW
+ -->
 
 
-
-We seek anyone interested in creating interactive dynamic networks and logging their progress through states and notetaking (https://vistorian.github.io/ ) to join our tutorial: learn how to create interactive dynamic networks with The Vistorian and give us feedback to improve it. The live tutorial will be held on June 3rd , 4pm UK time (a video recording will be made available) to get you started, and then you will be able to create your own visualization with your own dataset(s), at your own pace. We will be available for questions and help and to gather feedback and answer your questions on a weekly basis (10th June, 17th June) 4-6 PM with a pre-booked timeslots.
+<!-- We seek anyone interested in creating interactive dynamic networks and logging their progress through states and notetaking (https://vistorian.github.io/ ) to join our tutorial: learn how to create interactive dynamic networks with The Vistorian and give us feedback to improve it. The live tutorial will be held on June 3rd , 4pm UK time (a video recording will be made available) to get you started, and then you will be able to create your own visualization with your own dataset(s), at your own pace. We will be available for questions and help and to gather feedback and answer your questions on a weekly basis (10th June, 17th June) 4-6 PM with a pre-booked timeslots.
 
 No preparation is required prior to the tutorial session. Demo dataset(s) will be provided at the start of the session. If you wish to create visualizations with your own dataset(s), please take a look at how to prepare your data by clicking on Formatting Data  .
 
 
 All you need to participate is eagerness to explore or present data visually and interactively. Ideally, come with a dataset and a question or even set of questions that you would like to find an answer for through your data exploration. Through this journey you will enjoy the ability to log your progress by creating states and taking notes encapsulated in which we call bookmarks!  if you agree to use VistorianLab - our newly helpful tool- you will not only be able to create bookmarks, but also export them to return to them at a later time or even share them with a colleague!
  
-We are  looking forward to hearing from you and learning more from you through your feedback on The Vistorian visualizations and Vistorian Lab bookmarks. (What  do you like the most? What was difficult? How can we improve it?). We would also like to feature your feedback —with your permission—for our research.  This research is not for profit, and it obtained approval  from the ethics board of the School of Informatics, University of Edinburgh, UK. Participation requires consent based on the study phase you are participating in.  In this tutorial session, you will be participating in phase (1) of our study titled: Vistorian Activity Logging Study, Click here to know more about it. If you wish to know more about our project and next phases please read below.
+We are  looking forward to hearing from you and learning more from you through your feedback on The Vistorian visualizations and Vistorian Lab bookmarks. (What  do you like the most? What was difficult? How can we improve it?). We would also like to feature your feedback —with your permission—for our research.  This research is not for profit, and it obtained approval  from the ethics board of the School of Informatics, University of Edinburgh, UK. Participation requires consent based on the study phase you are participating in.  In this tutorial session, you will be participating in phase (1) of our study titled: Vistorian Activity Logging Study, Click here to know more about it. If you wish to know more about our project and next phases please read below. -->
 
 
-## In a nutshell 
+<!-- ## In a nutshell 
 Vistorian Lab is part of our ongoing research on understanding users’ exploration and interaction with dynamic multivariate and geographic networks (https://vistorian.github.io/publications.html). 
 
 In the tutorial, we will help you learn: 
@@ -54,8 +119,8 @@ Direct any questions to:
 * Benjamin Bach, University of Edinburgh, UK (bbach@ed.ac.uk)
 
 PS: Find complete information about this research and tutorial below.
-
-****
+ -->
+<!-- ****
 
 ## What is this tutorial about?
 The tutorial is part of our ongoing research on the usage of dynamic networks and their interactivity. We are interested in improving visualization' interactivity and enhancing the note-taking tool to offer the user a better exploration environment. The tutorial might be of use to you if you are planning to create and explore dynamic and interactive networks (e.g. node-link, matrix, dynamic-ego, and maps) for your research, emphasize findings through interactivity, log your progress, take notes, and/or share your logs with your colleagues.
@@ -65,9 +130,9 @@ Visualizations interactivity and note-taking are a powerful means to communicate
 To solicit feedback on our research and help you build interactive data networks, we run a tutorial with consultation sessions over the next weeks. Our tutorial will cover the different types of interactions and help you explore your data better through interactive visualizations using The Vistorian.
 
 ## Who is eligible?
-While the tutorial is open to anyone with an interest in data visualization (especially dynamic networks), most benefits will be to those with question(s) in mind who would like to address through interactivity, bookmarks, states restoration , notes and states exchange.
+While the tutorial is open to anyone with an interest in data visualization (especially dynamic networks), most benefits will be to those with question(s) in mind who would like to address through interactivity, bookmarks, states restoration , notes and states exchange. -->
 
-
+<!-- 
 ## What to expect?
 The tutorial is split into several parts to accommodate for your personal schedule: 
 
@@ -94,8 +159,8 @@ Our website (https://vistorian.github.io/) will feature tutorial material, inclu
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
 
 You can book an appointment with The Vistorian team here: https://www.picktime.com/TheVistorian 
-
-### Participation's Consents:
+ -->
+<!-- ### Participation's Consents:
 Consent is not required for participation in the live tutorial, unless you wish to use the Vistorian Lab tool. In such a case,  once you turn on the Vistorina Lab mode through our website https://vistorian.net a consent form will appear requesting your approval to be used. More information on the consent and information about Vistorian Lab can be found here: 
 Participant Information Sheet
 Participant Consent Form
@@ -106,8 +171,8 @@ Meeting ID: 865 6572 3021
 
 Passcode: zCh64MpW
 
-
-## What will you learn?
+ -->
+<!-- ## What will you learn?
 During the period of the tutorial, we will teach you how to create interactive dynamic networks along with bookmarks. The tutorial features asynchronous learning with weekly drop-in Q&A sessions. 
 
 The agenda of our tutorial session on the 3rd of June will be as following:
@@ -155,8 +220,8 @@ Explain visualizations and interaction with other types of networks:
     * **Open ended**: people explore the matrix visualization and report on what they see in the matrix.
 
     * Repeat exploration exercises using features provided (e.g. timeline) 
-
-## What do we hope to learn? 
+ -->
+<!-- ## What do we hope to learn? 
 Our research focuses on improving the way we communicate data and understand how users use visualizations to explore their data. This particular project seeks to investigate user’s usage of interactivity, note-taking and networks to explore their data. Through the tutorial we hope to learn: 
 * How are using interactive dynamic networks to explore your data?
 * What was difficult/easy for you?
@@ -170,4 +235,4 @@ Our research focuses on improving the way we communicate data and understand how
 These findings will inform our research on enhancing visualization platforms in matter of their interactivity and note-taking features.
 
 ## How can I know more about The Vistorian project and following study-phases?
-To know more about our project and our next phase, you can read our second phase study wiki titled: Longitudinal Case Study Evaluation of The Vistorian
+To know more about our project and our next phase, you can read our second phase study wiki titled: Longitudinal Case Study Evaluation of The Vistorian -->
