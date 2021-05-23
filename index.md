@@ -3,16 +3,17 @@
 # The Vistorian 
 ![image](assets/Images/Marie_Boucher_2.png)
 
-<a href="https://hal.archives-ouvertes.fr/hal-02508730/document" style="display: block;text-align:center;"> Marie Boucher Dataset Explored Using The Vistorian</a>, courtesy of Dr. Nicole Dufournaud
+[Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document) Explored Using The Vistorian, courtesy of Dr. Nicole Dufournaud
 
 [The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. It is a research project. If you're using the Vistorian for your work, please cite our poster and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data.
 
 
 
 
-![image](figures/vistorian-visualizations.png)
 
 ## Why the Vistorian?
+
+![image](figures/vistorian-visualizations.png)
 
 The Vistorian provides four [interactive visualizations](visualizations.html) to help you explore your networks: 
 * [Node-link diagram](visualizations.html#node-link): shows networks in the traditional force-directed layout.
@@ -22,9 +23,10 @@ The Vistorian provides four [interactive visualizations](visualizations.html) to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0VE5X2GS3AE" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-## What kinds of networks?
+## What kinds of networks does it visualize?
 
-![image](assets/images/multiple-links.png)
+![image](assets/Images/multiple-links.png)
+
 
 ## Upload data in simple CSV
 
