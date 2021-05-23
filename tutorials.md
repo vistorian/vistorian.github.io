@@ -1,14 +1,12 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
 # Open Workshop on Interactive Network Visualization
-
-**Quick Navigation:** 
-
-[Overview](#overeview) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+ 
+[Overview Session](#overeview) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
 **Starting date**: _June 3rd, 2021, 4pm UK time.
 
-The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian] (https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
+The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian](https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
 The tutorial is aimed for everyone wanting to visualize and visually explore complex network data. The Vistorian can help with geographic, temporal and multivariate networks. There is a size limit of around 1000 links. The Vistorian is tool created in close relationship with our [research in data visualization](http://visualinteractivedata.github.io) and aims to both provide novel and powerful visualizations for complex networks and help making these visualizations more accessible. We are keen to learn from your experience and improve our tool.
 
@@ -22,11 +20,11 @@ This intro covers:
 * giving an overview over The Vistorian,
 * explain how to format data, 
 
-Please register here: https://forms.office.com/r/JB7wT7nD82
+Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
 
 The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
 
-Link to join:https://ed-ac-uk.zoom.us/j/86565723021
+Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
 
@@ -38,13 +36,13 @@ _Thursday, June 3rd  2021, 5-6pm UK time_
 
 Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
 
-Link to join:https://ed-ac-uk.zoom.us/j/86565723021
+Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
 
 ## Web tutorials:
 
-Our website (https://vistorian.github.io) will feature tutorial material, including short videos and a complete documentation of our interactions and the note-taking tool. We will add new tutorials and examples over the coming days.
+Our [website](gettingstarted.html) will feature tutorial material, including short videos and a complete documentation of our interactions and the note-taking tool. We will add new tutorials and examples over the coming days.
 
 ## Drop-in Q&A sessions:
 
