@@ -2,9 +2,10 @@
 
 # Open Workshop on Interactive Network Visualization
 
-Quick Navigation: [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-session) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+**Quick Navigation:** 
+[Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-session) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
-**Starting date**: _June 3rd_
+**Starting date**: _June 3rd, 2021, 4pm UK time.
 
 The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian] (https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
