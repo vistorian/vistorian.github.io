@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Open Tutorial on Interactive Network Visualization
+# Open Workshop on Interactive Network Visualization
 
 Quick Navigation: [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-session) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
