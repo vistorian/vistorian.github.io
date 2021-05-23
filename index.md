@@ -2,7 +2,7 @@
 
 # The Vistorian 
 
-[The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. Interactive exploration means to discover and scrutinize your data through interactive queries and multiple complementary perspectives (visualizations). The idea of exploratory data analysis (EDA) goes back to the [American statisticiian John Tukey](https://en.wikipedia.org/wiki/John_Tukey).
+[The Vistorian](http://vistorian.net) is an online tool for interactive exploration of dynamic multivariate and geographic networks. **Interactive exploration means to discover and scrutinize your data through interactive queries and multiple complementary perspectives (visualizations).** The idea of exploratory data analysis (EDA) goes back to the [American statisticiian John Tukey](https://en.wikipedia.org/wiki/John_Tukey).
 
 ![image](assets/Images/Marie_Boucher_2.png)
 
@@ -33,7 +33,7 @@ The Vistorian provides visualiztions for the following data in networks:
 
 ## Upload data in simple CSV
 
-Your data needs to be formatted in tables like so: 
+Your data needs to be formatted in tables like shown below. All your data will remain securly on your machine. No data will be send to our server. 
 <br/>
 
 ![image](assets/Images/loadData_1.png)
