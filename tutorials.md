@@ -1,7 +1,8 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-## Open Tutorial on Interactive Network Visualization
-Quick Navigation: [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#qa-session) | [Face-to-face sessions]()
+# Open Tutorial on Interactive Network Visualization
+
+Quick Navigation: [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-session) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
 **Starting date**: _June 3rd_
 
@@ -27,7 +28,7 @@ Link to join:https://ed-ac-uk.zoom.us/j/86565723021
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
 
-The agenda of our tutorial session on the 3rd of June will be as following:
+The agenda of our tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 
 ## Live Tutorial:
@@ -47,13 +48,21 @@ Our website (https://vistorian.github.io) will feature tutorial material, includ
 
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
 
-You can book an appointment with The Vistorian team: [https://www.picktime.com/TheVistorian](https://www.picktime.com/TheVistorian) 
+## Individual sessions
+
+You can book an individual appointment with The Vistorian team to discuss your data and visualizations: [https://www.picktime.com/TheVistorian](https://www.picktime.com/TheVistorian) 
 
 
 # FAQs
 
 ### Who is eligible?
 While the tutorial is open to anyone with an interest in data visualization (especially dynamic networks), most benefits will be to those with question(s) in mind who would like to address through interactivity, bookmarks, states restoration , notes and states exchange.
+
+### How does the Vistorian handle my data? 
+While The Vistorian is a web application, i.e., it runs in your browser, your data will remain on your machine and will not be transmitted to any other machine. Consequently, you do not need any login but also you cannot share your visualizations with colleagues. 
+
+### Are you gathering any usage data?
+By default, we do not track your usage of the system. As part of our ongoing research, we we provide an opt-in option for us to anonymously track your usage and anoymously analyze these usage data. This does not include your network data. More information can be found on our [research page](vistorianLab.html). 
 
 
 
