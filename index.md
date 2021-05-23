@@ -47,9 +47,9 @@ We provide [detailed tutorials](gettingstarted.html) as well as a [live workshop
 ## Cite the Vistorian
 `Benjamin Bach, Nathalie Henry Riche, Roland Fernandez, Emmanoulis Giannisakis, Bongshin Lee, Jean-Daniel Fekete. NetworkCube: Bringing Dynamic Network Visualizations to Domain Scientists. Posters of the Conference on Information Visualization (InfoVis), Oct 2015, Chicago, United States. 2015.`
 
-## Team
+## Support
 
-If you experience issues, please get in contact with us.
+The Vistorian is an ongoing reserch project. It is open source. If you wish to contribute or find issues, get in contact with us.
 
 * Contact: [vistorian@inria.fr](vistorian@inria.fr)
 * sign up for the mailing List: vistorian@googlegroups.com
