@@ -3,6 +3,7 @@
 # Open Workshop on Interactive Network Visualization
 
 **Quick Navigation:** 
+
 [Overview](#overeview) [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-session) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
 **Starting date**: _June 3rd, 2021, 4pm UK time.
