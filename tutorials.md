@@ -2,36 +2,36 @@
 
 # Open Workshop on Interactive Network Visualization
  
-[Overview Session](#overeview) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+[Overview Session](#overeview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
-**Starting date**: _June 3rd, 2021, 4pm UK time.
+**Next live introduction**: _June 3rd, 2021, 4pm UK time_.
 
 The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian](https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
-The tutorial is aimed for everyone wanting to visualize and visually explore complex network data. The Vistorian can help with geographic, temporal and multivariate networks. There is a size limit of around 1000 links. The Vistorian is tool created in close relationship with our [research in data visualization](http://visualinteractivedata.github.io) and aims to both provide novel and powerful visualizations for complex networks and help making these visualizations more accessible. We are keen to learn from your experience and improve our tool.
+The tutorial is aimed for everyone wanting to visualize and visually explore complex network data. The Vistorian can help with geographic, temporal and multivariate networks. There is a size limit of around 1000 links for the time being.  
+
+The Vistorian is tool created in close relationship with our [research in data visualization](http://visualinteractivedata.github.io) and aims to both provide novel and powerful visualizations for complex networks and help making these visualizations more accessible. We are keen to learn from your experience and improve our tool.
 
 Our tutorial is build around the following parts and will run on June 3rd, with optional Q&A and drop-in sessions over the summer.
 
-## Overview:
+## Overview session (1h):
  _Thursday, June 3rd  2021, 4-5pm UK time_
 
 This intro covers:  
 * overviewing visualization techniques for dynamic, geographic, and multivariate networks, 
 * giving an overview over The Vistorian,
-* explain how to format data, 
-
-Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
+* explain how to format data 
 
 The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
 
+Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
 Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
 
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
-
-## Live Tutorial:
+## Live Tutorial (1h):
 _Thursday, June 3rd  2021, 5-6pm UK time_
 
 Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
