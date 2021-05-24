@@ -28,7 +28,7 @@ Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
 
-The agenda of our tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
+The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 
 ## Live Tutorial:
@@ -39,6 +39,8 @@ Following the Intro and Overview, this live tutorial helps you using the Vistori
 Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 Meeting ID: 865 6572 3021
 Passcode: zCh64MpW
+
+The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Web tutorials:
 
