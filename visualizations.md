@@ -5,7 +5,7 @@
 * [Adjacency Matrix](#adjacency-matrix)
 * [Map](#map)
 
-## 1 Node Link
+# Node Link
 
 ![image](assets/Images/nodeLinkDiagram.png)
 
@@ -49,7 +49,7 @@ Below, a list of patterns we can find in this network.
 * <img src="assets/Images/nodeLinkDiagram6.png" width="50" height="50">    **Fan:** central node connected to many individual nodes.
 
 
-## 2 Adjacency Matrix
+# 2 Adjacency Matrix
 
 ![image](assets/Images/matrix.png)
 
@@ -95,7 +95,7 @@ Matrices contain potentially a [variety of patterns](https://hal.inria.fr/hal-01
 
 
 
-## Time Arcs
+# Time Arcs
 
 ![image](assets/Images/timeline.png)
 
@@ -110,7 +110,7 @@ Time arcs shows nodes as vertical list (top left) and time along the horizontal 
 * **Set ego node:** click node label. Clicking the ego node label twice brings in all previously removed nodes.
 * **Scroll:** rotate mouse wheel
 
-## Map
+# Map
 
 The map visualization shows a dynamic network with nodes having geographic node positions. This requires that nodes have geographic coordinates associated with them in the data model. Every dot-node on the map represents a position of an actual node in the network. In other words, for every geographical position that one node occupies during its lifetime, there is one node rendered on the map. Hovering a node on the map, shows all the nodes belonging to the same node in the network. For example, if a person in a social network moves between threedifferent positions over time, there will be three nodes rendered on the map and highlighted if one of them is hovered.
 
@@ -127,7 +127,7 @@ The visual encoding of the network is otherwise the same as for the node link v
 * **Node Overlap**: defines the spatial distance between nodes with the same position. If set to 0, all nodes in the same place will completely overlap. Setting the slider to a higher value will show nodes in the same place in a circle for better readability.
 
 
-## Browser
+# Element Browser
 If you have multiple types of links, the browser contains a legend for each type of link. You can hide and recolor links.
 
 The browser has also a search option.
