@@ -6,7 +6,7 @@
 
 3. Start using **VistorianLab**: In the home page click on **[My Session]**. The link will open a new window with the data view page.
 Switch on the **[VistorianLab toggol] button** on the left side to start creating and using bookmarks. The consent form will appear:
-<img src="assets/Images/visLabOff.jpeg" width="40%" height="40%" class="center"> ⇒ <img src="assets/Images/visLabOn.jpeg" width="40%" height="40%" class="center"> 
+<img src="../assets/Images/visLabOff.jpeg" width="40%" height="40%" class="center"> ⇒ <img src="../assets/Images/visLabOn.jpeg" width="40%" height="40%" class="center"> 
 
     * Check on **[Don't show consent-approval form again]** if you wish not to see it again..
     * Download a copy of the consent form by clicking on the download link **[Download this Consent Form for your Records]**.
@@ -18,7 +18,7 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
 
 
 4. **The bookmarks pane will show-up**: As a start it will show the message of (No bookmarks yet!).  You can minimize it if you wish to.
-<img src="assets/Images/visLabPane.jpeg" width="50%" height="80%" class="center"> 
+<img src="../assets/Images/visLabPane.jpeg" width="50%" height="80%" class="center"> 
 
 5. **Create a new network**: Now, create a new network by clicking on the **[New]** button next to **[Networks]** section on the left side of the screen.(L)
     * Under the **Link Table**: click on the **[upload new link table]** button and select the file of MarieBoucher.csv (L)
@@ -27,11 +27,11 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
             * For **[Name 1]**  column: select **[Source Node]** from the dropdown menu at the top of the table.
             * For **[Name 2]**  column: select **[Target Node]** from the dropdown menu at the top of the table
 
-            <img src="assets/Images/visLab18.jpeg" width="80%" height="80%" class="center"> 
+            <img src="../assets/Images/visLab18.jpeg" width="80%" height="80%" class="center"> 
 
             _As soon as you specify the source and target nodes, a green bar will show stating (Ready for visualization. Select a visualization from the menu on the top.)_
 
-            <img src="assets/Images/visLab17.jpeg" width="80%" height="80%" class="center"> 
+            <img src="../assets/Images/visLab17.jpeg" width="80%" height="80%" class="center"> 
             
             Now, continue by specifying the rest of the columns as following:
             * For **[Content]** column: select as the **[Link Type]** from dropdown menu at the top of the table
@@ -48,7 +48,7 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
 
 
 6. **Changing the network name**: update the network name with any name of your choice (e.g. Marie Network) and click on **[Save Network]** button on your right side of the screen (L).
-<img src="assets/Images/networkName.jpeg" width="60%" height="50%" class="center"> 
+<img src="../assets/Images/networkName.jpeg" width="60%" height="50%" class="center"> 
     * You must click on the **[Save Network]** button before creating the visualizations. If you don’t click on the **[Save Network]** button, your data might not be stored correctly. That is once you upload your data, the data will be shaped in a format that allows it to be visualized correctly. Thus, to ensure that the data’s format and/or any changes the user has made to the data/network has been stored correctly. The user should click the **[Save Network]** button.
 
 
@@ -62,7 +62,7 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
     3. **Characterize your current activity**: (required field) for example, choose [Analyze Data] ⇒ then, a group of checkboxes will appear, choose any of them (ex. Review Data Quality + Compare different visualizations).
     4. Then click on the **[Add Bookmark]  button**.
 
-<img src="assets/Images/visLab8.jpeg" width="80%" height="50%" class="center"> 
+<img src="../assets/Images/visLab8.jpeg" width="80%" height="50%" class="center"> 
 
 9. It might be helpful to minimize the bookmarks pane and change its position to perform the following steps. You can do such a thing by clicking on the orange bar and dragging the pane to your preferred location.
 
@@ -96,11 +96,11 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
     3. Characterize your current activity:  [Other] ⇒an additional textbox will appear, enter any type of your choice: (e.g proposing exploring methodology )
     4. Then click on the **[Add Bookmark]**  button.
 
-    <img src="assets/Images/visLab22.jpeg"  width="90%" height="80%" class="center">
+    <img src="../assets/Images/visLab22.jpeg"  width="90%" height="80%" class="center">
 <br/>
 
 14. **Switching between states**: Now, try to click on the **[Restore]**   button on each of the bookmarks you have created and observe the states you have saved.
-<img src="assets/Images/visLab26.jpg" style="dispaly:block-inline;" width="10%" height="10%" class="center">
+<img src="../assets/Images/visLab26.jpg" style="dispaly:block-inline;" width="10%" height="10%" class="center">
     
     You can observe and see **how the network’s state changes** each time you click the [Restore] button located in the bookmark header. This is based on the selected bookmark values such as what the following images shows:
     <img src="assets/Images/visLab25.jpeg"  width="90%" height="80%" class="center">
@@ -111,8 +111,8 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
 
 
 15. **Provide general feedback [Feedback] button**: on the bottom-right corner below, click on the **[Feedback]** button and provide your feedback by selecting what characterizes your work and/or written feedback.
-<img src="assets/Images/feedback_button.jpeg"  width="20%" height="20%" class="center">⇒ 
-<img src="assets/Images/feedback_pane.jpeg"  width="30%" height="30%" class="center">
+<img src="../assets/Images/feedback_button.jpeg"  width="20%" height="20%" class="center">⇒ 
+<img src="../assets/Images/feedback_pane.jpeg"  width="30%" height="30%" class="center">
 Try the following:
 * Select the **type** to be : Asking for help
 * Enter any feedback of your own on the textarea provided. For example, please add an exit survey to provide you with more feedback about our experience.
@@ -122,12 +122,12 @@ Try the following:
     * Minimize the bookmarks’ pane to have a large view of the current page.
     * Scroll down in the dataview page and click on the **[Update Location Coordinates]** button in the location table populated below.(L)
     * P.S. if longitude and latitude values don't show-up in the location table. Refresh the page by clicking on the browser’s **[Reload]** button to fill the table with the location values ias the figure below shows.
-<img src="assets/Images/visLab14.jpeg"  width="90%" height="80%" class="center">
+<img src="../assets/Images/visLab14.jpeg"  width="90%" height="80%" class="center">
     * It will show the following screen: with a notice of (Retrieving and updating location coordinates). Click anywhere in the page and refresh the page if it doesn’t disappear and populate your location table with coordinates.
-<img src="assets/Images/visLab20.jpeg"  width="90%" height="80%" class="center">
+<img src="../assets/Images/visLab20.jpeg"  width="90%" height="80%" class="center">
 
 17. **Map Networks**: now click on the map link in the upper part of the dataview page. A new window will open showing your network map such as in: 
- <img src="assets/Images/visLab10.jpeg"  width="90%" height="80%" class="center">
+ <img src="../assets/Images/visLab10.jpeg"  width="90%" height="80%" class="center">
 
 18. **Create your fourth bookmark**:  In the map network page, click on [Add new] button to add a new bookmark with the values (This will capture the initial state of your network automatically) : 
     1. Title: Map bookmark 
@@ -152,7 +152,7 @@ The bookmarks’ pane will look something like this:
 
 
 21. **Changing the bookmarks’ view**: At the top of the bookmarks’ pane you have two radio buttons that you can select from: the first one will display all of your saved bookmarks, the second one will display the bookmarks of the current view only. You can toggle between those two views at any time.(L) Try this on any of the Vistorian pages (e.g. Node-Link, map, .. )
-<img src="assets/Images/show_options.jpeg"  width="50%" height="80%" class="center">
+<img src="../assets/Images/show_options.jpeg"  width="50%" height="80%" class="center">
 
 22. **Creating the TimeArchs (DynamicEgo) Visualization**: return to the dataview page and click on the Time Arcs link:
 This will open a new page of the Time Arcs, you can hover over links and change the order of the labels (Choose the value of: Alphanumerical)
@@ -167,7 +167,7 @@ Set time to : Jan 1 1975 to Jan 1 1980
 24. **Click on the [Report a Technical Bug/Email Us & Consult An Expert] button**: by clicking on this button, an email template will popup through your email client. You can also use the keyboard shortcut combinations [Ctrl+Shift+U] / [Ctrl+Shift+E] to start these tasks.  Complete the email by describing your request and email us. 
     * P.S. For any further support, upon your wishes you can provide the team with the session ID. This will help to identify the log of events of your session and provide you with the suitable support upon your request and needs.
 
-    <img src="assets/Images/email_report.jpeg"  width="50%" height="80%" class="center">
+    <img src="../assets/Images/email_report.jpeg"  width="50%" height="80%" class="center">
 
 
 25. **Creating the Matrix Visualization**: return to the dataview page and click on the matrix  link
@@ -184,7 +184,7 @@ Set start-end date: Jun 20 1967 to Mon 18 1964
 
 27. **Export your bookmarks**: click on the **[Export Bookmarks]** button. This will automatically download a copy of your bookmarks in a JSON format file into your default download path.
 
-<img src="assets/Images/import_export.jpeg"  width="50%" height="80%" class="center">
+<img src="../assets/Images/import_export.jpeg"  width="50%" height="80%" class="center">
 
 28. **Recreating the network and bookmarks**:
     1. Return to the Data view.
