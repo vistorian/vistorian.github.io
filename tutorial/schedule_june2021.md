@@ -27,7 +27,7 @@
 * Link tables
 * Node tables
 
-**Q&A
+**Q&A**
 
 ## Break (5 mins)
 
