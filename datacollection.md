@@ -31,3 +31,6 @@ We do not log any data beyond the above stated. For example:
 * We do not access your camera, keyboard or any other device.
 * We do not log any other open tabs or windows in your browser or computer
 * We do not store or install any software, cookies, or other files or programs on your computer. The Vistorian runs entirely in your browser. 
+
+
+If you have any questions, please [contact us](m.alkadi@sms.ed.ac.uk).
