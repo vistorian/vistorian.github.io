@@ -1,5 +1,8 @@
 # Data Formats
 
+[Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](formatting-time)
+
+
 The Vistorian imports data formatted in tables in `csv` format (**c**omma **s**eparated **v**alues, https://en.wikipedia.org/wiki/Comma-separated_values) files. Each csv contains one table. You can export `csv`-files from 
 * MS Excel ([File > Save As > Select file type 'CSV'](https://support.office.com/en-ie/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)) 
 * Apple's Numbers (File -> Export to -> CSV),
@@ -284,9 +287,7 @@ The following cases are currently under development. If you are interested in a 
 * Link Directionality
 * Multiple node types in node table
 
-## General Formatting Information
-
-### Formatting Time
+## Formatting Time
 
 | INPUT | EXAMPLE | DESCRIPTION |
 | ------| ------- | ------------- |
