@@ -23,10 +23,10 @@
 
 ## Tutorials:
 * [Ensuring your data is in the correct format ](https://vistorian.github.io/formattingdata.html)
-* [Loading and Importing Data](tutorials/loading-data.md)
-* [Extracting Geo-coordinates](tutorials/geocoordinates.md)
+* [Loading and Importing Data](tutorials/loading-data.html)
+* [Extracting Geo-coordinates](tutorials/geocoordinates.html)
 * [Introducing the Vistorian & VistorianLab Interfaces](https://vistorian.github.io/vistorian_Interface.html)
-* [A Step-by-Step Guide to Create your First set of Visualizations and Bookmarks](tutorials/bookmarks.md)
+* [A Step-by-Step Guide to Create your First set of Visualizations and Bookmarks](tutorials/bookmarks.html)
 
 
 
