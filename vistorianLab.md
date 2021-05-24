@@ -2,9 +2,18 @@
 
 ![image](assets/Images/VistorianLabLogo.png)
 
+## Project Pitch
+
+The Vistorian is a platform that aims to bring novel network visualizations to domain experts. The Vistorian focuses on geographic, temporal, and multivariate networks. Our goals are
+* to design novel interactive visualizations for complex networks, 
+* to create a communmity of domain scientists and visualization researchers to tackle challenges in visualizing complex networks,
+* to understand problems of our users in using network visualizations. 
+
+
 ## What is Vistorian Lab?
 
-Vistorian Lab is a tool that will assist you in your work, research, exploration, and any other scientific goals. It will assist you in creating your own bookmarks while creating Vistorian visualizations.  
+VistorianLab is a section of The Vistorian that enables for advanced features in beta-version such as bookmarks. At the same time, Vistorian Labs 
+...
 
 ### What is a bookmark in Vistorian Lab?
 Through the Vistorian Lab you can create new bookmarks. Each created bookmark holds the state of the currently-selected dataset and chosen network upon the time of creation. It enables you also to add your own notes and classify them based on their purpose. 
