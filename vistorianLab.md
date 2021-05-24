@@ -16,7 +16,7 @@ Enabling VistorianLabs gives you access to novel features we are currently testi
 
 To inform our research and improve The Vistorian, it is essential that we understand how people use visualizations and interactive features in the Vistorian. When enabling istorianLabs, we gather _anonymous interaction data_ to understand how users use The Vistorian and its interactive features. **At no point will any private and identifiable information or data be forwarded to our side.**
 
-By enabling the Vistorian Lab, you consent to the terms and conditions below and enable anonymous logging of your interactions for our research purposes as detailed [here](). You can disable and enable VistorianLabs at any point.
+By enabling the Vistorian Lab, you consent to the terms and conditions below and enable anonymous logging of your interactions for our research purposes as detailed [here](../datacollection.md). You can disable and enable VistorianLabs at any point.
 
 Enabling VistorianLabs currently allows for the following:
 * Create bookmarks that capture your current state of analysis. 
