@@ -1,4 +1,4 @@
-# Vistorian Lab
+# Vistorian Labs
 
 ![image](assets/Images/VistorianLabLogo.png)
 
