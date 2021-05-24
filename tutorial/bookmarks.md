@@ -13,7 +13,7 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
     * Accept the consent form by clicking on the **[Enabling Bookmarks & Logging]** button. 
     * Note: in the dataview page, you will not be able to create any bookmark as there aren’t any states to be captured/restored.
 
-    <img src="assets/Images/visLab6.jpeg" width="80%" height="80%" class="center"> 
+    <img src="../assets/Images/visLab6.jpeg" width="80%" height="80%" class="center"> 
 
 
 
