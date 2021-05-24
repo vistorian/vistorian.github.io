@@ -3,26 +3,26 @@
 ## Overview session (1h)
 **When**: _June 3rd, 2021, 4-6pm UK time_.
 
-**Welcome** (5min):
+**Welcome (5min)**
 
 * Tutorial outline
 * Goals 
 * Resources 
 * Schedule over the next weeks with drop-in sessions (2h weekly with 15 mins time slots)
 
-**Why network visualization?** (15min, recorded)
+**Why network visualization? (15min, recorded)**
 
 * Brief lecture about network visualizations
 * Q&A
 
-**Vistorian demo** (15min, recorded): 
+**Vistorian demo** (15min, recorded)** 
 
 * What are the available visualizations: https://vistorian.github.io/visualizations.html
 * Showing features and how vistorian supports interactive network visualization 
 * Introduce traces: explain our research goals and methods, and ask for consent.
 * Q&A
 
-**How to format my data (15min)?
+**How to format my data (15min)?**
 
 * Link tables
 * Node tables
