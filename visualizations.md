@@ -5,7 +5,7 @@
 * [Adjacency Matrix](#adjacency-matrix)
 * [Map](#map)
 
-## Node Link
+## 1 Node Link
 
 ![image](assets/Images/nodeLinkDiagram.png)
 
@@ -13,21 +13,29 @@ Node-link diagrams show nodes in the network as points (dots) and (multiple) rel
 
 ### Visual Encoding
 
-Layout = Connectivity: The node-link diagram uses the simple default [force-directed](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) layout, implemented in [D3](https://bl.ocks.org/mbostock/4062045). Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
+Layout: The node-link diagram uses the simple default [force-directed](https://en.wikipedia.org/wiki/Force-directed_graph_drawing) layout, implemented in [D3](https://bl.ocks.org/mbostock/4062045). Nodes with many common neighbors are drawn closer to each other, while nodes with few connections are drawn at the periphery of the layout.
 
-* Node size = Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections ([node degree](https://mathworld.wolfram.com/VertexDegree.html))
-* Multiple lines = multiple relations: Multiple straight lines between two nodes indicate multiple links, e.g. different letters or different types of relationships.
-* Line thickness = relation weight: lines of different thickness indicate relations of different strength (or weight).
-* Line color = relation type: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
+* **Node size:** Number of connections: Larger nodes indicate nodes with more connections, smaller nodes have less connections ([node degree](https://mathworld.wolfram.com/VertexDegree.html))
+* **Multiple lines:** multiple relations: Multiple straight lines between two nodes indicate multiple links, e.g. different letters or different types of relationships.
+* **Line thickness:** relation weight: lines of different thickness indicate relations of different strength (or weight).
+* **Line color:** relation type: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
 
 ### Interaction
-* Zoom: Move mouse wheel (or use the specific zooming gesture on your device)
-* Pan: Drag on the empty plane with the mouse
-* Show node label by hovering over a node
-* Fix or hide the node label by clicking on the node
-* Hide/show relation type by clicking onto the colored circle in the legend. The circle is filled if relations of that type are shown in the visualization and empty (white) when the relations of this type are not shown.
+* **Zoom:** Move mouse wheel (or use the specific zooming gesture on your device)
+* **Pan:** Drag on the empty plane with the mouse
+* **Show node label** by hovering over a node
+* **Fix or hide the node label** by clicking on the node
+* **Hide/show relation type** by clicking onto the colored circle in the legend. The circle is filled if relations of that type are shown in the visualization and empty (white) when the relations of this type are not shown.
 
-## Visual Patterns
+### Visual Patterns
+* Relative node size 
+* Link transparency
+* Link width
+* Gap between multiple links (between same nodes)
+
+
+
+### Visual Patterns
 
 Often, we look at visualizations with preconceptions. That means, we're seeing just what we want to see. That also means that we do not see new things. Exploring a network means to see new things. The network below shows letter correspondences between persons. Colors indicate types of letters.
 
@@ -35,14 +43,17 @@ Often, we look at visualizations with preconceptions. That means, we're seeing j
 
 Below, a list of patterns we can find in this network.
 
-* <img src="assets/Images/nodeLinkDiagram3.png" width="50" height="50">    Cluster: Group of densely connected nodes.
-* <img src="assets/Images/nodeLinkDiagram4.png" width="50" height="50">    Central nodes, highly connected nodes with many connections.
-* <img src="assets/Images/nodeLinkDiagram5.png" width="50" height="50">     Triangle motif with multiple connections.
-* <img src="assets/Images/nodeLinkDiagram6.png" width="50" height="50">    Fan: central node connected to many individual nodes.
+* <img src="assets/Images/nodeLinkDiagram3.png" width="50" height="50">    **Cluster**: Group of densely connected nodes.
+* <img src="assets/Images/nodeLinkDiagram4.png" width="50" height="50">    **Central nodes**, highly connected nodes with many connections.
+* <img src="assets/Images/nodeLinkDiagram5.png" width="50" height="50">    **Triangle** motif with multiple connections.
+* <img src="assets/Images/nodeLinkDiagram6.png" width="50" height="50">    **Fan:** central node connected to many individual nodes.
 
 
-## Adjacency Matrix
-Adjacency matrices (or simply matrices) are table representations of network. Nodes are represented both as rows and columns, connections are shown as marks in the corresponding cells at the intersection of row and column. Contrary to node-link representations, matrices do not suffer from visual clutter if the network is dense (i.e. contains many links). Matrices help you exploring dense networks that would look too cluttered with node-link diagrams.
+## 2 Adjacency Matrix
+
+![image](assets/Images/matrix.png)
+
+[Adjacency matrices](https://visualizationcheatsheets.github.io/matrix.html) (or simply _matrices_) are table representations of networks. Nodes are represented both as rows and columns, connections are shown as marks in the corresponding cells at the intersection of row and column. Contrary to node-link representations, matrices do not suffer from visual clutter if the network is dense (i.e. contains many links). Matrices help you exploring dense networks that would look too cluttered with node-link diagrams.
 
 The above picture shows a cluster of connections of the same type (red). The first row in the matrix, featuring cells of different types (colors), indicates a highly connected node.
 
@@ -60,7 +71,7 @@ Node labels are shown for rows and columns. A small overview on the left shows t
 * **Show connection weight**: hover cell
 
 ### Parameters
-* Label Ordering: Defines the ordering of rows and columns
+* **Label Ordering:** Defines the ordering of rows and columns
     * **Alphanumerical**: Order by name
     * **Reverse Alphanumerical**: by name, reversed
     * **Node degree**: according to number of connections, descending
@@ -81,18 +92,23 @@ Matrices contain potentially a [variety of patterns](https://hal.inria.fr/hal-01
 
     a row or column with lots of cells indicates a highly connected node. In the figure just above, the node Hubert Antheaume is connected almost all the nodes in the visible columns. The node can be called a **hub**.
 
+
+
+
 ## Time Arcs
+
+![image](assets/Images/timeline.png)
 
 Time arcs shows nodes as vertical list (top left) and time along the horizontal axis. Arcs represent links between two nodes at different locations. Clicking a node label on the left side, enters into the ego mode. A ego network shows a node in a network (ego) and its immediate neighbors (alters), as well as connections between the alters. A dynamic ego network shows only these connections over time.  Clicking the ego node a second time, returns to the full view.
 
 ### Visual Encoding
-
-* Arc colors: Different colors mean different types of relation. A color legend is presented in the Browser (see below).
-* Numbers in brackets at node labels: Node degree (number of connections).
+* **Arc:** Link between two persons at a given moment in time.
+* **Arc colors:** Different colors mean different types of relation. A color legend is presented in the Browser (see below).
+* **Numbers in brackets at node labels:** Node degree (number of connections).
 
 ### Interaction
-* Set ego node: click node label. Clicking the ego node label twice brings in all previously removed nodes.
-* Scroll: rotate mouse wheel
+* **Set ego node:** click node label. Clicking the ego node label twice brings in all previously removed nodes.
+* **Scroll:** rotate mouse wheel
 
 ## Map
 
