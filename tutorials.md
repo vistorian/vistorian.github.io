@@ -50,6 +50,11 @@ Our [website](gettingstarted.html) will feature tutorial material, including sho
 
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
 
+* June 10, 2021: 2am UK time
+* June 17, 2021: 2am UK time
+* June 21, 2021: 2am UK time
+* tbc...
+
 ## Individual sessions
 
 You can book an individual appointment with The Vistorian team to discuss your data and visualizations: [https://www.picktime.com/TheVistorian](https://www.picktime.com/TheVistorian) 
