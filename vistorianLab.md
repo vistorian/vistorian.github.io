@@ -18,6 +18,8 @@ To inform our research and improve The Vistorian, it is essential that we unders
 
 By enabling the Vistorian Lab, you consent to the terms and conditions below and enable anonymous logging of your interactions for our research purposes as detailed [here](../datacollection.md). You can disable and enable VistorianLabs at any point.
 
+Before enabling VistorianLabs, you will be informed about your data collection practices, which have obtained ethics approval from the Ethics Board at the University of Edinburgh. You can find the consent form [here](studyPhase1_activityLogging.html)
+
 Enabling VistorianLabs currently allows for the following:
 * Create bookmarks that capture your current state of analysis. 
 * Add comments to bookmarks
