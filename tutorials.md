@@ -24,7 +24,7 @@ This intro covers:
 
 The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
 
-* Please sign-up here [through our meetup](https://www.meetup.com/meetup-group-vBHbCmgh/events/278396088/) so we get an estimate of attendees.
+* Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
 * Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 * Meeting ID: 865 6572 3021
 * Passcode: zCh64MpW
@@ -36,7 +36,7 @@ _Thursday, June 3rd  2021, 5-6pm UK time_
 
 Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
 
-* Please sign-up here [through our meetup](https://www.meetup.com/meetup-group-vBHbCmgh/events/278396088) so we get an estimate of attendees.
+* Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
 * Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 * Meeting ID: 865 6572 3021
 * Passcode: zCh64MpW
