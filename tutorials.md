@@ -27,7 +27,6 @@ The short session will be recorded and can then be found on our website. We conc
 * Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
 * Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 * Meeting ID: 865 6572 3021
-* Passcode: zCh64MpW
 
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
@@ -39,7 +38,6 @@ Following the Intro and Overview, this live tutorial helps you using the Vistori
 * Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
 * Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
 * Meeting ID: 865 6572 3021
-* Passcode: zCh64MpW
  
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
