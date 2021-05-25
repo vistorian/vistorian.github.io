@@ -24,10 +24,10 @@ This intro covers:
 
 The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
 
-Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
-Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
-Meeting ID: 865 6572 3021
-Passcode: zCh64MpW
+* Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
+* Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
+* Meeting ID: 865 6572 3021
+* Passcode: zCh64MpW
 
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
@@ -36,10 +36,11 @@ _Thursday, June 3rd  2021, 5-6pm UK time_
 
 Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
 
-Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
-Meeting ID: 865 6572 3021
-Passcode: zCh64MpW
-
+* Please register here: [https://forms.office.com/r/JB7wT7nD82](https://forms.office.com/r/JB7wT7nD82)
+* Link to join: [https://ed-ac-uk.zoom.us/j/86565723021](https://ed-ac-uk.zoom.us/j/86565723021)
+* Meeting ID: 865 6572 3021
+* Passcode: zCh64MpW
+* 
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Web tutorials:
