@@ -26,7 +26,7 @@
 * [Loading and Importing Data](tutorials/loading-data.html)
 * [Extracting Geo-coordinates](tutorials/geocoordinates.html)
 * [Introducing the Vistorian & VistorianLab Interfaces](https://vistorian.github.io/vistorian_Interface.html)
-* [A Step-by-Step Guide to Create your First set of Visualizations and Bookmarks](tutorials/bookmarks.html)
+* [A Step-by-Step Guide to Create your First set of Visualizations and Bookmarks](tutorial/bookmarks.html)
 
 
 
