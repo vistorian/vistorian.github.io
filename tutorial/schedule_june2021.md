@@ -46,7 +46,7 @@ Participants will be provided with a demo dataset (marie boucher dataset) and wi
   * How to  manage, export, import, and share bookmarks with others.
 
 
-**Open Exploration / General Q&A** (45 mins, not record):
+**Open Exploration / General Q&A** (30 mins, not record):
 
 Explain visualizations and interaction with other types of networks:
 * Matrix: explain matrices
