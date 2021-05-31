@@ -7,6 +7,20 @@
 
 <br/>
 
+## Introduction to The Vistorian
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o3187iLUqGI" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Creating your First Network and Visualization
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eXIDFK2vJ6Y" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Introducing The Vistorian Lab Features
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dhzYcJM9FGg" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Demo Datasets:
 * [Marie Boucher CSV File](https://drive.google.com/file/d/1Os_1D7xQEQHN_hujn8lf1qRVTwHTl8yV/view?usp=sharing)
 * [les miserables CSV File](https://drive.google.com/file/d/11cSkZ9TYX7B1mq8gSIuKwEjahlEEmRH8/view?usp=sharing)
