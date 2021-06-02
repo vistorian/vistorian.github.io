@@ -37,8 +37,8 @@
 
 ## Tutorials:
 * [Ensuring your data is in the correct format ](https://vistorian.github.io/formattingdata.html)
-* [Loading and Importing Data](tutorials/loading-data.html)
-* [Extracting Geo-coordinates](tutorials/geocoordinates.html)
+* [Loading and Importing Data](tutorial/loading-data.html)
+* [Extracting Geo-coordinates](tutorial/geocoordinates.html)
 * [Introducing the Vistorian & VistorianLab Interfaces](https://vistorian.github.io/vistorian_Interface.html)
 * [A Step-by-Step Guide to Create your First set of Visualizations and Bookmarks](https://vistorian.github.io/tutorial/bookmarks.html)
 
