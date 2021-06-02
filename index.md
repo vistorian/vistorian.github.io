@@ -59,4 +59,4 @@ We provide [detailed tutorials](gettingstarted.html) as well as a [live workshop
 The Vistorian is an ongoing reserch project. It is open source. If you wish to contribute or find issues, get in contact with us.
 
 * Contact: [vistorian@inria.fr](vistorian@inria.fr)
-* sign up for the mailing List: vistorian@googlegroups.com
+* sign up for the mailing List: [vistorian@googlegroups.com](https://groups.google.com/forum/#!forum/vistorian/join)
