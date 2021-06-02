@@ -9,6 +9,7 @@
 * Nicole Dufournaud, EHESS, France
 
 
+# Mailing lists
 
 * General contact: [vistorian@inria.fr](vistorian@inria.fr)
 * Sign up for the mailing List: [vistorian@googlegroups.com](https://groups.google.com/forum/#!forum/vistorian/join)
