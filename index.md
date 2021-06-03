@@ -11,7 +11,7 @@ _[Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document)
 
 The Vistorian is an active research project at the [Vishub at the University of Edinburgh](http://visualinteractivedata.github.io) and [Inria, France](http://aviz.fr/). If you're using the Vistorian for your work, please cite our [poster](#cite-the-vistorian) and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data.
 
-# [>> Launch the Vistorian](http://vistorian.net)
+# [>> Launch the Vistorian](http://vistorian.online)
 
 <br/>
 ## Why the Vistorian?
