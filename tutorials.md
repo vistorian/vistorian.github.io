@@ -28,7 +28,7 @@ The short session will be recorded and can then be found on our website. We conc
 * Topic: Vistorian Time: Jun 3, 2021 03:30 PM London
 * Join Zoom Meeting https://ed-ac-uk.zoom.us/j/84414651028
 * Meeting ID: 844 1465 1028
-Passcode: Gv5dsnvW
+* Passcode: Gv5dsnvW
 
 The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
