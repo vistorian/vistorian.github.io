@@ -4,7 +4,7 @@
  
 [Overview Session](#overeview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
-**Next live introduction**: _June 3rd, 2021, 4pm UK time_.
+**Next live Drop-in Session**: _June 10th, 2021, 3pm UK time_.
 
 The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian](https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
@@ -15,35 +15,26 @@ The Vistorian is tool created in close relationship with our [research in data v
 Our tutorial is build around the following parts and will run on June 3rd, with optional Q&A and drop-in sessions over the summer.
 
 ## Overview session (1h):
- _Thursday, June 3rd  2021, 4-5pm UK time_
+has taken place on:  _Thursday, June 3rd  2021, 4-5pm UK time_
 
-This intro covers:  
+This intro covered:  
 * overviewing visualization techniques for dynamic, geographic, and multivariate networks, 
 * giving an overview over The Vistorian,
 * explain how to format data 
 
-The short session will be recorded and can then be found on our website. We conclude with a Q&A session (not recorded). 
+The short session recording be found below. We concluded with a Q&A session (not recorded). 
 
-* Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
-* Topic: Vistorian Time: Jun 3, 2021 03:30 PM London
-* Join Zoom Meeting https://ed-ac-uk.zoom.us/j/84414651028
-* Meeting ID: 844 1465 1028 
-Passcode: Gv5dsnvW
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/niXrK6lRzBY" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
+The agenda of the overview and live tutorial session given on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Live Tutorial (1h):
 _Thursday, June 3rd  2021, 5-6pm UK time_
 
-Following the Intro and Overview, this live tutorial helps you using the Vistorian with a hands-on example and data provided by us. 
+Following the Intro and Overview, a live tutorial has taken place. 
 
-* Please sign-up [here](https://forms.office.com/pages/responsepage.aspx?id=sAafLmkWiUWHiRCgaTTcYdq3SNqISWFIlXnF7WoUW-RURUJPOElJTzU0NEpHOEszVUwyWTlOUkYyRy4u) so we get an estimate of attendees.
-** Topic: Vistorian Time: Jun 3, 2021 03:30 PM London
-* Join Zoom Meeting https://ed-ac-uk.zoom.us/j/84414651028
-* Meeting ID: 844 1465 1028 
-* Passcode: Gv5dsnvW
+For those who are intrested can go through the [Step-by-Step Guide](https://vistorian.github.io/tutorial/bookmarks.html )It will help you to use the Vistorian with a hands-on example and [data provided by us](https://vistorian.github.io/gettingstarted.html#-Demo-Data). 
  
-The agenda of the overview and live tutorial session on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Web tutorials:
 
