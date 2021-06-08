@@ -48,9 +48,9 @@ Our [website](gettingstarted.html) will feature tutorial material, including sho
 
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
 
-**Please sign-up for the drop-in session here : https://forms.office.com/r/Az7FAQQWh0** 
+**Please sign-up for the drop-in session here : (https://forms.office.com/r/Az7FAQQWh0)** 
 
-You can join our meeting through our Zoom Meeting https://ed-ac-uk.zoom.us/j/88505785817
+You can join our meeting through our Zoom Meeting (https://ed-ac-uk.zoom.us/j/88505785817)
 _Password will be emailed to participants through the email they signed-up with._
 
 * June 10, 2021: 3 pm UK time
