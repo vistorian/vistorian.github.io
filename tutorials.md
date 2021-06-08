@@ -4,7 +4,11 @@
  
 [Overview Session](#overeview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
-**Next live Drop-in Session**: _June 10th, 2021, 3pm UK time_.
+**Next live Drop-in Session**: _June 10th, 2021, 3:00-4:00 pm UK time_.
+
+* Please sign-up for the drop-in session here : https://forms.office.com/r/Az7FAQQWh0 
+* You can join our meeting through our Zoom Meeting https://ed-ac-uk.zoom.us/j/88505785817
+* Password will be emailed to participants through the email they signed-up with.
 
 The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian](https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
@@ -43,6 +47,11 @@ Our [website](gettingstarted.html) will feature tutorial material, including sho
 ## Drop-in Q&A sessions:
 
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. 
+
+**Please sign-up for the drop-in session here : https://forms.office.com/r/Az7FAQQWh0** 
+
+You can join our meeting through our Zoom Meeting https://ed-ac-uk.zoom.us/j/88505785817
+_Password will be emailed to participants through the email they signed-up with._
 
 * June 10, 2021: 3 pm UK time
 * June 17, 2021: 3 pm UK time
