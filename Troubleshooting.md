@@ -7,7 +7,7 @@ If you experience technical issues or bug, please check this site or let us know
 ## Issues related to Data Formats and Dataset Filename:
 * File name should not include special characters nor to be lengthy.
 * Id column should start with zero '0' not '1'.
-* Dates in the date column should be consistent. Meaning that all cells in the date column should be ine the same format.
+* Dates in the date column should be consistent. Meaning that all cells in the date column should be in the same format.
 
 
 ## Browser:
