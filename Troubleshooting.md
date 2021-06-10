@@ -8,7 +8,7 @@ If you experience technical issues or bug, please check this site or let us know
 * File name should not include special characters nor to be lengthy.
 * Id column should start with zero '0' not '1'.
 * Dates in the date column should be consistent. Meaning that all cells in the date column should be ine the same format.
-*
+
 
 ## Browser:
 The Vistorian is optimized for Chrome. Through other browses might work well, e.g. Mozilla Firefox, visualizations might not show as expected as each browser interprets website a little differnetly. Chrome is small, fast, free, and runs on all major platforms: https://www.google.com/chrome.
