@@ -10,7 +10,7 @@
 https://forms.office.com/r/Az7FAQQWh0 
 * You can join our meeting through our Zoom Meeting
 https://ed-ac-uk.zoom.us/j/88505785817
-* Password will be emailed to participants through the email they signed-up with.
+* Password : N8kRNsXz
 
 The University of Edinburgh is running an open workshop to help visualize your networks with [The Vistorian](https://vistorian.github.io). The Vistorian is an application that provides a set of interactive network visualizations (node-link diagram, matrix, timeline, and map) to visualize geographical, temporal, and multivariate networks. No coding or download is required. The Vistorian runs in your web browser with your data stored securely on your machine.
 
@@ -53,7 +53,7 @@ We would like to help you with your personal data visualization and exploration 
 **Please sign-up for the drop-in session here :**  https://forms.office.com/r/Az7FAQQWh0
 You can join our meeting through our Zoom Meeting 
 https://ed-ac-uk.zoom.us/j/88505785817
-_Password will be emailed to participants through the email they signed-up with._
+_Password : N8kRNsXz _
 
 * June 10, 2021: 3 pm UK time
 * June 17, 2021: 3 pm UK time
