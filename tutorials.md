@@ -30,7 +30,6 @@ This intro covered:
 
 The short session recording be found below. We concluded with a Q&A session (not recorded). 
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/niXrK6lRzBY" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The agenda of the overview and live tutorial session given on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
