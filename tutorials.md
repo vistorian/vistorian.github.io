@@ -53,7 +53,7 @@ We would like to help you with your personal data visualization and exploration 
 **Please sign-up for the drop-in session here :**  https://forms.office.com/r/Az7FAQQWh0
 You can join our meeting through our Zoom Meeting 
 https://ed-ac-uk.zoom.us/j/88505785817
-_Password : N8kRNsXz _
+_Password : N8kRNsXz_
 
 * June 10, 2021: 3 pm UK time
 * June 17, 2021: 3 pm UK time
