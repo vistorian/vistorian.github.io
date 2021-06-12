@@ -2,6 +2,8 @@
 
 ## The Vistorian 
 * [The Vistorian Wiki](https://github.com/networkcube/vistorian/wiki)
+
+
 ## Visualizations Cheatsheets
 * [Visualizations Cheatsheet By Zezong Wang](https://visualizationcheatsheets.github.io/)
 
