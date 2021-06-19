@@ -4,7 +4,7 @@
  
 [Overview Session](#overeview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
-**Next live Drop-in Session**: _June 17th, 2021, 3:00-4:00 pm UK time_.
+**Next live Drop-in Session**: _June 24th, 2021, 3:00-4:00 pm UK time_.
 
 * Please sign-up for the drop-in session here : 
 (https://forms.office.com/r/Az7FAQQWh0)
@@ -56,7 +56,7 @@ _Password : N8kRNsXz_
 
 * June 10, 2021: 3 pm UK time
 * June 17, 2021: 3 pm UK time
-* June 21, 2021: 3 pm UK time
+* June 24, 2021: 3 pm UK time
 * tbc...
 
 ## Individual sessions
