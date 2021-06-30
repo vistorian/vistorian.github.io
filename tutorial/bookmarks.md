@@ -5,9 +5,9 @@
 2. Go to [The Vistorian](https://www.vistorian.online/). The consent form will appear: 
     * Check on **[Don't show consent-approval form again]** if you wish not to see it again.
     * Download a copy of the consent form by clicking on the download link **[Download this Consent Form for your Records]**.
-    * By clicking the 'OK' button, you accept the consent.
+    * By clicking the 'OK' button, you accept the consent. Please refer to the consent and for further details about what we annonymously log refer to [study page](https://vistorian.github.io/studyPhase1_activityLogging.html)
      
-      <img src="../assets/Images/consentForm.jpg" width="40%" height="40%" class="center"> 
+      <img src="../assets/Images/consentForm.jpg" width="50%" height="50%" class="center"> 
 
 
 
