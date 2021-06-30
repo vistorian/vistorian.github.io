@@ -2,18 +2,20 @@
 
 1. Make your **dataset** ready: Now you are set to start using the Vistorian along with the bookmarks and states: For testing purposes you can use the [MarieBoucher.csv](https://drive.google.com/file/d/1Os_1D7xQEQHN_hujn8lf1qRVTwHTl8yV/view?usp=sharing) file, a demo dataset, or any dataset of your own.  
 
-2. Go to [The Vistorian](https://www.vistorian.net/) 
+2. Go to [The Vistorian](https://www.vistorian.online/). The consent form will appear: 
+    * Check on **[Don't show consent-approval form again]** if you wish not to see it again.
+    * Download a copy of the consent form by clicking on the download link **[Download this Consent Form for your Records]**.
+    * By clicking the 'OK' button, you accept the consent.
+     
+      <img src="../assets/Images/consentForm.jpg" width="40%" height="40%" class="center"> 
+
+
 
 3. Start using **VistorianLab**: In the home page click on **[My Session]**. The link will open a new window with the data view page.
-Switch on the **[VistorianLab toggol] button** on the left side to start creating and using bookmarks. The consent form will appear:
+Switch on the **[VistorianLab toggol] button** on the left side to start creating and using bookmarks. 
 <img src="../assets/Images/visLabOff.jpeg" width="40%" height="40%" class="center"> ⇒ <img src="../assets/Images/visLabOn.jpeg" width="40%" height="40%" class="center"> 
-
-    * Check on **[Don't show consent-approval form again]** if you wish not to see it again..
-    * Download a copy of the consent form by clicking on the download link **[Download this Consent Form for your Records]**.
-    * Accept the consent form by clicking on the **[Enabling Bookmarks & Logging]** button. 
     * Note: in the dataview page, you will not be able to create any bookmark as there aren’t any states to be captured/restored.
 
-    <img src="../assets/Images/visLab6.jpeg" width="80%" height="80%" class="center"> 
 
 
 
