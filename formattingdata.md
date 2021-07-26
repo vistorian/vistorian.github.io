@@ -121,9 +121,9 @@ The additional columns / attributes can express the following information about 
 * **Target Node Location** - name of the geographic location of the target node, at the time of the link.
 
 When specifying geographic locations, the application searches for their coordinates online. In order to retrieve the correct coordinates, the following guideline helps the visualization finding the right geocoordinates: 
-     ***Uniqueness**: `Brest, France` instead of `Brest` (which exists in Belarus, too) 
-     ***Existence**: `Charles' Drugstore, Alfama, Lisbon` instead of `Charles' Drugstore`, which may not have any geocoordinates associated to it
-     ***Contemporaneity**: `St. Petersburgh` instead of the old name `Leningrad`.
+     * **Uniqueness** : `Brest, France` instead of `Brest` (which exists in Belarus, too.
+     * **Existence** : `Charles' Drugstore, Alfama, Lisbon` instead of `Charles' Drugstore`, which may not have any geocoordinates associated to it
+     * **Contemporaneity** : `St. Petersburgh` instead of the old name `Leningrad`.
 
 There is a workaround to allow you specify antique or imprecise names, using location tables (see below).
 
