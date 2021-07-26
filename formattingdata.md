@@ -1,6 +1,6 @@
 # Data Formats
 
-[Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](#formatting-time) | [Issues with Data Files and Formating](https://vistorian.github.io/Troubleshooting.html#Troubleshooting-Issues-with-Data-Formatting-and-Dataset-Files)
+[Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](#formatting-time) | [Issues with Data Files and Formating](https://vistorian.github.io/formattingdata.html#Troubleshooting-Issues-with-Data-Formatting-and-Dataset-Files)
 
 
 The Vistorian imports data formatted in tables in `csv` format (**c**omma **s**eparated **v**alues, https://en.wikipedia.org/wiki/Comma-separated_values) files. Each csv contains one table. You can export `csv`-files from 
