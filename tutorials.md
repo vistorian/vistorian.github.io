@@ -28,9 +28,20 @@ The short session recording be found below. We concluded with a Q&A session (not
 The agenda of the overview and live tutorial session given on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Live Tutorial (1h):
-_Thursday, June 3rd  2021, 5-6pm UK time_
+* _Thursday, Aug 5th   2021, 3-4pm UK time_
+* _Thursday, Aug 12th  2021, 3-4pm UK time_
+* _Thursday, Aug 19th   2021, 3-4pm UK time_
 
-Following the Intro and Overview, a live tutorial has taken place. 
+###Zoom Link: 
+  Join Zoom Meeting
+  https://ed-ac-uk.zoom.us/j/87095048853
+
+  Meeting ID: 870 9504 8853
+  Passcode: T6wqttcy
+
+Live Tutorial will run as following:
+* 3:00-3:15 Intro and Overview on The Vistorian
+* 3:15-4:00 Discussions and Technical Support (e.g. How to use The Vistorian, How to format your data? ).
 
 For those who are intrested can go through the [Step-by-Step Guide](https://vistorian.github.io/tutorial/bookmarks.html )It will help you to use the Vistorian with a hands-on example and [data provided by us](https://vistorian.github.io/gettingstarted.html#-Demo-Data). 
  
