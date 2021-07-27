@@ -2,7 +2,7 @@
 
 # Open Workshop on Interactive Network Visualization
  
-[Overview Session](#overview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-q&a-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+[Overview Session](#overview-session) | [Live Tutorial](#live-utorial) | [Drop-in Q&A sessions](#drop-in-q&a-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
 **Currently we are offering 1-to-1 sessions per request. Please check below for more details**.
 
