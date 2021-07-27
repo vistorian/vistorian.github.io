@@ -41,3 +41,5 @@ R Packages for Social Network Analysis : igraph (http://igraph.org/r/)
 * Krempel L., s. d. « Network Visualization », dans The SAGE handbook of social network analysis.
 * Cristofoli P., 2015. « Principes et usages des dessins de réseaux », dans La visualisation des données en histoire, Berne, Ed. Chronos (Histoire et Informatique / Geschichte und Informatik), p. 23‑58.
 
+## Examples of SN Visualization and Analysis
+* [Social Network Analysis: ‘How to guide’ by the Home Office about how to analyze gangs networks](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf)
