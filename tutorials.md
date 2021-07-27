@@ -2,7 +2,7 @@
 
 # Open Workshop on Interactive Network Visualization
  
-[Overview Session](#overeview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-qa-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+[Overview Session](#overview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-q&a-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
 
 **Currently we are offering 1-to-1 sessions per request. Please check below for more details**.
 
@@ -14,7 +14,7 @@ The Vistorian is tool created in close relationship with our [research in data v
 
 Our tutorial is build around the following parts and will run on June 3rd, with optional Q&A and drop-in sessions over the summer.
 
-## Overview session (1h):
+## Overview session
 has taken place on:  _Thursday, June 3rd  2021, 4-5pm UK time_
 
 This intro covered:  
@@ -27,7 +27,7 @@ The short session recording be found below. We concluded with a Q&A session (not
 
 The agenda of the overview and live tutorial session given on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
-## Live Tutorial (1h):
+## Live Tutorial
 * _Thursday, Aug 5th   2021, 3-4pm UK time_
 * _Thursday, Aug 12th  2021, 3-4pm UK time_
 * _Thursday, Aug 19th   2021, 3-4pm UK time_
@@ -46,11 +46,11 @@ Live Tutorial will run as following:
 For those who are intrested can go through the [Step-by-Step Guide](https://vistorian.github.io/tutorial/bookmarks.html )It will help you to use the Vistorian with a hands-on example and [data provided by us](https://vistorian.github.io/gettingstarted.html#-Demo-Data). 
  
 
-## Web tutorials:
+## Web tutorials
 
 Our [website](gettingstarted.html) will feature tutorial material, including short videos and a complete documentation of our interactions and the note-taking tool. We will add new tutorials and examples over the coming days.
 
-## Drop-in Q&A sessions:
+## Drop-in Q&A sessions
 
 We would like to help you with your personal data visualization and exploration through a set of Q&A sessions where you can share with us your visualization and discuss any issues you may have. If you cannot make these Q&As, please get in touch with us to book a specific appointment. The sessions have taken place on: 
 * June 10, 2021: 3 pm UK time
