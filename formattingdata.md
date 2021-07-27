@@ -1,6 +1,6 @@
 # Data Formats
 
-[Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](#formatting-time) | [Issues with Data Files and Formating](#Troubleshooting-Issues-with-Data-Formatting-and-Dataset-Files)
+[Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](#formatting-time) | [Issues with Data Files and Formating](https://vistorian.github.io/formattingdata.html#Troubleshooting-Issues-with-Data-Formatting-and-Dataset-Files)
 
 
 The Vistorian imports data formatted in tables in `csv` format (**c**omma **s**eparated **v**alues, https://en.wikipedia.org/wiki/Comma-separated_values) files. Each csv contains one table. You can export `csv`-files from 
@@ -57,7 +57,7 @@ Both, node and link tables can express the same network, but in many cases havin
 Link tables are the most common way to format network information. Each row represents a link in the network with the link's _attributes_ in columns. Using link tables you can specify a variety of link attributes such as 
 * link weight
 * link type
-* link time (read [how to format links with time](https://github.com/networkcube/networkcube/wiki/Data-Preparation#links-in-dynamic-networks))
+* link time (read [how to format links with time](#links-in-dynamic-networks))
 * geolocation of source node
 * geolocation of target node
 * direction (_coming soon_)
@@ -120,10 +120,10 @@ The additional columns / attributes can express the following information about 
 * **Source Node Location** - name of the geographic location of the source node, at the time of the link.
 * **Target Node Location** - name of the geographic location of the target node, at the time of the link.
 
-When specifying geographic locations, the application searches for their coordinates online. In order to retrieve the correct coordinates, the following guideline helps the visualization finding the right geocoordinates: 
-     * **Uniqueness**: `Brest, France` instead of `Brest` (which exists in Belarus, too) 
-     * **Existence**: `Charles' Drugstore, Alfama, Lisbon` instead of `Charles' Drugstore`, which may not have any geocoordinates associated to it
-     * **Contemporaneity**: `St. Petersburgh` instead of the old name `Leningrad`.
+When specifying geographic locations, the application searches for their coordinates online. In order to retrieve the correct coordinates, the following guideline helps the visualization finding the right geocoordinates:
+* **Uniqueness** : `Brest, France` instead of `Brest` (which exists in Belarus, too.
+* **Existence** : `Charles' Drugstore, Alfama, Lisbon` instead of `Charles' Drugstore`, which may not have any geocoordinates associated to it
+* **Contemporaneity** : `St. Petersburgh` instead of the old name `Leningrad`.
 
 There is a workaround to allow you specify antique or imprecise names, using location tables (see below).
 
