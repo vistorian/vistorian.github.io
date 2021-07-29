@@ -43,3 +43,7 @@ R Packages for Social Network Analysis : igraph (http://igraph.org/r/)
 
 ## Examples of SN Visualization and Analysis
 * [Social Network Analysis: ‘How to guide’ by the Home Office about how to analyze gangs networks](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/491572/socnet_howto.pdf)
+
+## Workshops Slides 
+* [Exploring Networks using the Vistorian Workshop Slides - 28th July 2021](https://drive.google.com/file/d/1L2l_CLgsrV6YyJgx6zcMP_F5RFMgQUrn/view?usp=sharing)
+
