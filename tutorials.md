@@ -31,7 +31,7 @@ The short session recording be found below. We concluded with a Q&A session (not
 The agenda of the overview and live tutorial session given on the 3rd of June can be [found here](tutorial/schedule_june2021.html).
 
 ## Live Tutorial
-* _Thursday, Aug 5th   2021, 3-4pm UK time_
+* _Tuesday, Aug 3rd 2021, 3-4pm UK time_
 * _Thursday, Aug 12th  2021, 3-4pm UK time_
 * _Thursday, Aug 19th   2021, 3-4pm UK time_
 
