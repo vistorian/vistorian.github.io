@@ -2,7 +2,7 @@
 
 # Open Workshop on Interactive Network Visualization
  
-[Overview Session](#overview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-q&a-sessions) | [Individual sessions](#individual-sessions) | [FAQs](#faqs)
+[Overview Session](#overview-session) | [Live Tutorial](#live-tutorial) | [Drop-in Q&A sessions](#drop-in-q&a-sessions) | [Individual sessions](#individual-sessions)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 
 **Currently we are offering** (_Please check below for more details_):
@@ -63,6 +63,10 @@ We would like to help you with your personal data visualization and exploration 
 ## Individual sessions
 
 You can book an individual appointment with The Vistorian team to discuss your data and visualizations by <a href="mailto: m.alkadi@sms.ed.ac.uk">emailing us</a>
+
+## Slack Channel
+
+We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-tlf3g2rp-I3WVfEYRwBmgp~DEMY4ubw">The Vistorian Slack Channel</a> 
 
 
 # FAQs
