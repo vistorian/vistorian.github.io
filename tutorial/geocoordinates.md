@@ -43,7 +43,7 @@ For example, for Orléans, write Orléans France, then click Update location coo
 
 ![image](../assets/Images/ExtractGeoCord_6.png)
 
-Of course, you can use the [map visualization](https://vistorian.github.io/visualizations.html/#map) to verify all your locations, then return to the data view, fix the coordinates, and reload the map visualization.
+Of course, you can use the [map visualization](https://vistorian.github.io/visualizations.html#map) to verify all your locations, then return to the data view, fix the coordinates, and reload the map visualization.
 
 ### Saving and using existing location tables
 As creating clean and correct location tables can be tedious, you can export your table with the Export as CSV button at the right in the gray area.
