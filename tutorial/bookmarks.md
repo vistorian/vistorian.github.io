@@ -105,11 +105,11 @@ Switch on the **[VistorianLab toggol] button** on the left side to start creatin
 <img src="../assets/Images/visLab26.jpg" style="dispaly:block-inline;" width="10%" height="10%" class="center">
     
     You can observe and see **how the network’s state changes** each time you click the [Restore] button located in the bookmark header. This is based on the selected bookmark values such as what the following images shows:
-    <img src="assets/Images/visLab25.jpeg"  width="90%" height="80%" class="center">
-    <br/>
-    <img src="assets/Images/visLab15.jpeg"  width="90%" height="80%" class="center">
-    <br/>
-    <img src="assets/Images/visLab19.jpeg"  width="90%" height="80%" class="center">
+   <img src="../assets/Images/visLab25.jpeg"  width="90%" height="80%" class="center">
+   <br/>
+   <img src="../assets/Images/visLab15.jpeg"  width="90%" height="80%" class="center">
+   <br/>
+   <img src="../assets/Images/visLab19.jpeg"  width="90%" height="80%" class="center">
 
 
 15. **Provide general feedback [Feedback] button**: on the bottom-right corner below, click on the **[Feedback]** button and provide your feedback by selecting what characterizes your work and/or written feedback.
