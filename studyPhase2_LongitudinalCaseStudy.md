@@ -42,7 +42,7 @@ The University of Edinburgh is a Data Controller for the information you provide
 For general information about how we use your data, go to: edin.ac/privacy-research
 
 ## Who can I contact?
-If you have any further questions about the study, please contact the lead researcher, [Mashael AlKadi](m.alkadi@sms.ed.ac.uk). 
+If you have any further questions about the study, please contact the lead researcher, [Mashael AlKadi](mailto:m.alkadi@sms.ed.ac.uk). 
 If you wish to make a complaint about the study, please contact 
 inf-ethics@inf.ed.ac.uk. When you contact us, please provide the study title and detail the nature of your complaint.
 
