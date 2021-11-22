@@ -9,7 +9,7 @@ _[Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document)
 
 **Interactive exploration means to discover and scrutinize your data through interactive queries and multiple complementary perspectives (visualizations).** The idea of exploratory data analysis (EDA) goes back to the [American statistician John Tukey](https://en.wikipedia.org/wiki/John_Tukey).
 
-The Vistorian is an active research project at the [Vishub at the University of Edinburgh](http://visualinteractivedata.github.io) and [Inria, France](http://aviz.fr/). The Vistorian is free to use by everyone. If you're using the Vistorian for work, please cite our [poster](#cite-the-vistorian) and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data. The Vistorian is open source.
+The Vistorian is an active research project at the [Vishub at the University of Edinburgh](http://vishub.net) and [Inria, France](http://aviz.fr/). The Vistorian is free to use by everyone. If you're using the Vistorian for work, please cite our [poster](#cite-the-vistorian) and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data. The Vistorian is open source.
 
 # [>> Launch the Vistorian](http://vistorian.online)
 
