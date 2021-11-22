@@ -18,7 +18,7 @@ The Vistorian is an active research project at the [Vishub at the University of 
 
 The Vistorian provides four [interactive visualizations](visualizations.html) to help explore networks: 
 
-![image](figures/vistorian-visualizations.png)
+![The four visualizations provided by the Vistorian: a node-link diagram, timeline, adjacency matrix, and map view.](figures/vistorian-visualizations.png)
 
 * [Node-link diagram](visualizations.html#node-link): shows networks in the traditional force-directed layout. This visualization is a great start to gain an overview and see the network changing over time. 
 * [Adjacency matrix](visualizations.html#adjacency-matrix): shows your network in a compact table format to help visulize very dense networks. It allows you understand clusters using differnet [matrix serialization methods](https://hal.inria.fr/hal-01326759/document).
@@ -31,7 +31,7 @@ The Vistorian provides four [interactive visualizations](visualizations.html) to
 ## What kinds of networks does it visualize?
 The Vistorian provides visualiztions for the following data in networks:
 
-![image](assets/Images/multiple-links.png)
+![Diagram shwoing how multiple links, link types, link weights, geography, and changes over time are represented in the Vistorian.](assets/Images/multiple-links.png)
 
 
 <br/>
@@ -40,7 +40,7 @@ The Vistorian provides visualiztions for the following data in networks:
 Your data needs to be formatted in tables like shown below. All your data will remain securly on your machine. No data will be send to our server. 
 <br/>
 
-![image](assets/Images/loadData_1.png)
+![Screenshot showing a table of data, with columns labelled "Index", "Sender", "Location_sender", "Qualification", "Receiver", "Location_receiver" and "Date"](assets/Images/loadData_1.png)
 
 Learn more about [formatting data for The Vistorian](formattingdata).
 
