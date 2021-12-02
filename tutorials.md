@@ -78,7 +78,7 @@ While the tutorial is open to anyone with an interest in data visualization (esp
 While The Vistorian is a web application, i.e., it runs in your browser, your data will remain on your machine and will not be transmitted to any other machine. Consequently, you do not need any login but also you cannot share your visualizations with colleagues. 
 
 ### Are you gathering any usage data?
-By default, we do not track your usage of the system. As part of our ongoing research, we we provide an opt-in option for us to anonymously track your usage and anoymously analyze these usage data. This does not include your network data. More information can be found on our [research page](vistorianLab.html). 
+As part of our ongoing research, we anonymously track your usage and analyze these usage data. This does not include your network data. More information can be found on our [research page](vistorianLab.html). 
 
 
 
