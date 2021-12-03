@@ -1,33 +1,29 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Free 5-Week Visual Course on Network Exploration (Online)
- 
-[Key Information](#key-information) | [Info Session](#info-session) | [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+# Online Course on Visual Network Exploration
+
+[Key Information](#key-information)[Info Session](#info-session) | [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 
-**The University of Edinburgh is running a _free 5-weeks_ online course that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive visualizations in [The Vistorian](https://vistorian.github.io). This course will not assist you only in your visual network exploration but also in your network data prepration.**
+The Vistorian team is running a free online course that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.
+Exploratory network analysis is suitable for participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process. 
+We will be using [The Vistorian](https://vistorian.github.io), an online tool that provides four visualizations for networks: node-link diagrams, adjacency matrices, a timeline, and a map. Each visualization provides a complementary view of your network data. This course will assist you in visual network exploration as well as in prepareing your network data.
 
-**The Vistorian provides a set of four dedicated visualizations for network visualizations: the node-link diagram, adjacency matrix, timeline, and map. Each visualization provides a complementary view of your network data.**
-
-_Exploratory network analysis_ is suitable for _participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process._ This course provides a hands-on overview of exploratory network analysis techniques including interactive data visualizations with The Vistorian.
-
-The course is focused on researchers - beginners - who have a network dataset they want to explore and visualize. You can still participate if you cannot bring your own data. We can provide you with demo data to use during the sessions, and you can apply what you have learned to your data later. 
+The course includes **one 2-hour long session per week for 5 weeks (Jan 12-Feb 9, 2022)** and potentially more time at home to prepare and work with your own data.
 
 By the end of the course, you will be able to:
-* Structure your network data and prepare it for visualization with the Vistorian.
-* Define goals of your exploration and what you aim to learn about your network data using visualizations.
-* Conduct basic exploratory analysis using different types of interactive visualizations.
-* Learn the difference between different visualization types and their use in an exploration process.
+* **Structure your network data** and prepare it for visualization with the Vistorian.
+* **Define goals of your exploration** and what you aim to learn about your network data using visualizations.
+* **Know a range of network visualization techniques**, throug theory and exploration. 
+* **Use different types of interactive visualizations** and conduct basic exploratory analysis.
 
+The course combines **brief lectures** with **hands-on activities** and space for **discussions** and individual support**. The course will include case-studies and discussions about exploratory network research.
 
-The course combines brief lectures with workshop-style activities and space for discussions and individual support The course will include case-studies and discussions about exploratory network research.
-
-
-## Prerequisites and requirements. 
-* No technical or programming skills. The course is primarily tailored towards scholars in the humanities.
-* No pre-knowledge in network analysis of terminology. We start with the very basics and introduce all terminology necessary for the course. 
-* We expect participants to be working with their own network data during the duration of the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
-* Your data should not be too large as any visualization of large data sets is challenging in itself. An ideal size for the course is up to 500 links in your network. Ideally, your networks has fewer links to make best use of the activities and visualizations.
+## Prerequisites and requirements: 
+* **No technical or programming** skills are required. The course is primarily tailored towards scholars in the humanities.
+* **No pre-knowledge in network analysis** of terminology is required. We start with the very basics and introduce all terminology necessary for the course. 
+* We expect participants to be **working with their own network** data during the duration of the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
+* Your **data should not be too large** as any visualization of large data sets is challenging in itself. An ideal size for the course is up to 500 links in your network. Ideally, your networks has fewer links to make best use of the activities and visualizations.
 * Your dataset can contain any of the following aspects: 
     * Geographic information (such as place names). No coordinates are required. 
     * Temporal information such as the precise time a relationship is active (e.g., a day) or their start and end date. 
@@ -36,21 +32,21 @@ The course combines brief lectures with workshop-style activities and space for 
     * Weighted links (such as strength of a social relationship)
     * Different types links (such as different types of social relationships) 
     * Different types of nodes.
-* Software requirements: 
+* **Software** requirements: 
     * No specific software needs to be installed
     * Any software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
     * For visualization, we will use a web application that runs in your browser. 
 
 
-## Key Information
-* The course is free of charge and open to everybody to register. 
-* We have a limited number of seats of  20 participants and priority for those who have their own dataset to explore; even if it isn’t fully prepared and formatted.
-* For 5 weeks, we meet every Wednesday from 3:00 to 5:00 PM UK time.
+## Key Information:
+* The course is free of charge and open to everybody to register. You do not have to be based in the UK. 
+* We have a limited number of 20 places. Priority will be given to those who bring their own dataset to explore; even if it isn’t fully prepared and formatted.
+* For 5 weeks, we meet **every Wednesday from 3pm to 5pm (UK time)**.
 * Each of these sessions consists of some theoretical explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
-* The course is run online, using MS Teams [(download here)](https://www.microsoft.com/en-gb/microsoft-teams/download-app).
+* The course runs online, using Zoom
 * We encourage everyone to bring their own data they want to create networks from.
 * We will explain how to format your data if you want to use your own data in the subsequent sessions.
-* If you do not have own data at the moment, we can provide you with 
+* If you do not have own data at the moment, we can provide you with demo data. However, you will get the most out of this course if you bring own data. 
 * Between sessions, there might be smaller homework tasks to last the pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for this before committing to the course As the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
 
 ## Info session
@@ -66,26 +62,33 @@ This info session will run as following:
 ### Info Session Zoom Link: 
 Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:[click here](https://ed-ac-uk.zoom.us/j/83741473017)
 Meeting ID: 837 4147 3017
-Meeting password will be sent to  registered participants. To attend this info session please sign-up for it through this [form link](https://forms.office.com/r/Wh019m3NNa) 
+Meeting password: XXXXXXXXXXXXXXX
 
-## Registeration
-* Registeration will open on _Thursday 9th December 2021 at 6 pm UK time_ after the info session and link will be provided here.
+## Course Registeration
+* Registration link here: XXXXXXX. Registration may take between 5-15min.
 * Applicants who have their own data to visualize will be prioritized.
 * The course might be offered again in future. 
 * By registering to the course you:
     * consent to the ethics form provided both here and in the registeration form.
-    * commit to attend to all 5 sessions.
+    * plan to attend to all 5 sessions.
     * ensure that you have read all of the key information mentioned above.
+
+## What to prepare before the course? 
+* You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. 
+* We would ask each participant to prepare a 3min pitch to introduce themself to the other participants and the course organisers. Please prepare around 3 slides with the following information
+  * Your general background and research
+  * The data set you are working with (we acknowledge that you may not want to disclose too much information about this. In that case, keep this part short and high level)
+  * Any challenges you have faced working with the data set (e.g., previous tools you have used) and your specific research questions. 
 
 
 ## Course Schedule
 
 1. Week (1) - **Network Data Preparation** _12th Jan 2022_, covers the following topics:
-    * Role of Visualizations in Networks’ Exploration
-    * Set of exercises and hands-on experience on:
+    * Role of Visualizations in Network Exploration
+    * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
         * What is your network about?
         * Your network's data model  
-        * Creating your network tables
+        * Properly format your data tables
     * How to choose your exploration varaibles?
 
 2. Week (2) - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
@@ -102,8 +105,8 @@ Meeting password will be sent to  registered participants. To attend this info s
     * Learn how to:
         * read topological structures in node-link diagrams, 
         * explore the temporal evolution of your network, 
-        * multiple links, l
-        * inkweight, 
+        * multiple links, 
+        * linkweight, 
         * link direction, 
         * as well as link and node types.
 
@@ -131,12 +134,10 @@ Meeting password will be sent to  registered participants. To attend this info s
 
 
 
-
-
-
 ## Who are we?
 
-We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
+If you have any questions, don't hestitate to reach out. We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
+
 * [Mashael AlKadi](http://www.mashael.me/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
 * [Benjamin Bach](https://vishub.net/bach), Reader, VisHub, University of Edinburgh
 * [Uta Hinrichs](http://utahinrichs.de/), Reader, VisHub, University of Edinburgh
@@ -145,7 +146,7 @@ We are a group of researchers at the VisHub, University of Edinburgh who are off
 
 ## Slack Channel
 
-We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
+We invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
 
 
 
