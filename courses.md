@@ -5,10 +5,9 @@
 [Key Information](#key-information) | [Info Session](#info-session) | [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 
+**The University of Edinburgh is running a _free 5-weeks_ online course that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive visualizations in [The Vistorian](https://vistorian.github.io). This course will not assist you only in your visual network exploration but also in your network data prepration.**
 
-**The University of Edinburgh is running a **free 5-week ** online course that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive visualizations in [The Vistorian](https://vistorian.github.io). This course will not assist you only in your visual network exploration but also in your network data prepration.
-
-The Vistorian provides a set of four dedicated visualizations for network visualizations: the node-link diagram, adjacency matrix, timeline, and map. Each visualization provides a complementary view of your network data.**
+**The Vistorian provides a set of four dedicated visualizations for network visualizations: the node-link diagram, adjacency matrix, timeline, and map. Each visualization provides a complementary view of your network data.**
 
 _Exploratory network analysis_ is suitable for _participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process._ This course provides a hands-on overview of exploratory network analysis techniques including interactive data visualizations with The Vistorian.
 
@@ -45,10 +44,9 @@ This info session will run as following:
 * 5:30-6:00 Questions and discussions (30 minutes) 
 
 ### Info Session Zoom Link: 
-Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:
-    [click here](https://ed-ac-uk.zoom.us/j/83741473017)
-    Meeting ID: 837 4147 3017
-    Passcode: qL0qfgpW
+Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:[click here](https://ed-ac-uk.zoom.us/j/83741473017)
+Meeting ID: 837 4147 3017
+Passcode: qL0qfgpW
   
 ## Registeration
 * Registeration will open on _Thursday 9th December 2021 at 6 pm UK time_ after the info session and link will be provided here.
@@ -62,15 +60,56 @@ Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:
 
 ## Course Schedule
 
-| Week | Date  | Week Topic | Week Oultine |
-|---|---    |---    |---    |
-| 1 | 12th Jan 2022 | Network Data Preparation| * Role of Visualizations in Networks’ Exploration|
-|  |   |  | * Networks fundamentals|
-|  |   |  | * Set of exercises and hands-on experience on:|
-|  |   |  |     * What is your network about? |
-|  |   |  |     * Your network data model   |
-|  |   |  |     * Creating your network tables  |
-|  |   |  | * How to choose your exploration varaibles?|
+1. Week (1) - **Network Data Preparation** _12th Jan 2022_, covers the following topics:
+    * Role of Visualizations in Networks’ Exploration
+    * Set of exercises and hands-on experience on:
+        * What is your network about?
+        * Your network's data model  
+        * Creating your network tables
+    * How to choose your exploration varaibles?
+
+2. Week (2) - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
+    * Data types in your network
+    * Ensuring consistency of your data
+    * Tools to assist in checking data consistency
+    * Common challenges in network visualizations:
+        * What if my network is too large to visualize? 
+        * What if my data contains semi/unstructured data?
+    * Techniques in prepraing your data
+    * Preparing your exploration plan
+
+3. Week (3) - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
+    * Learn how to:
+        * read topological structures in node-link diagrams, 
+        * explore the temporal evolution of your network, 
+        * multiple links, l
+        * inkweight, 
+        * link direction, 
+        * as well as link and node types.
+
+4. Week (4) - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
+    * Learn how to read network structures from an adjacency matrix. This includes:
+        * any temporal evolution of your network, 
+        * multiple links, 
+        * linkweight, 
+        * link-direction, 
+        * as well as link and node types. 
+    * We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
+
+5. Week (5) - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
+    * Timeline/Dynamicego:
+        * How to read time arcs/dynamiceog?
+        * Visual encodings
+        * Ordering and temporal changes
+    * Maps: 
+        * What is Geographical Data?
+        * Geo-exploration of data:When / Why Use a Map?
+    * Interaction and Multiple Views:
+        * How can multiple views support my analysis in:
+            * Static views
+            * Interactive views
+
+
 
 
 
