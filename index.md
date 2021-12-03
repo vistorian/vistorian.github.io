@@ -9,7 +9,7 @@ _[Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document)
 
 **Interactive exploration means to discover and scrutinize your data through interactive queries and multiple complementary perspectives (visualizations).** The idea of exploratory data analysis (EDA) goes back to the [American statistician John Tukey](https://en.wikipedia.org/wiki/John_Tukey).
 
-The Vistorian is an active research project at the [Vishub at the University of Edinburgh](http://visualinteractivedata.github.io) and [Inria, France](http://aviz.fr/). The Vistorian is free to use by everyone. If you're using the Vistorian for work, please cite our [poster](#cite-the-vistorian) and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data. The Vistorian is open source.
+The Vistorian is an active research project at the [Vishub at the University of Edinburgh](http://vishub.net) and [Inria, France](http://aviz.fr/). The Vistorian is free to use by everyone. If you're using the Vistorian for work, please cite our [poster](#cite-the-vistorian) and send us feedback and examples of your work of our gallery. This helps us keeping the Vistorian funded. Similarly, if you find bugs, send us screenshots and descriptions, we're happy to help you with your data. The Vistorian is open source.
 
 # [>> Launch the Vistorian](http://vistorian.online)
 
@@ -18,7 +18,7 @@ The Vistorian is an active research project at the [Vishub at the University of 
 
 The Vistorian provides four [interactive visualizations](visualizations.html) to help explore networks: 
 
-![image](figures/vistorian-visualizations.png)
+![The four visualizations provided by the Vistorian: a node-link diagram, timeline, adjacency matrix, and map view.](figures/vistorian-visualizations.png)
 
 * [Node-link diagram](visualizations.html#node-link): shows networks in the traditional force-directed layout. This visualization is a great start to gain an overview and see the network changing over time. 
 * [Adjacency matrix](visualizations.html#adjacency-matrix): shows your network in a compact table format to help visulize very dense networks. It allows you understand clusters using differnet [matrix serialization methods](https://hal.inria.fr/hal-01326759/document).
@@ -31,7 +31,7 @@ The Vistorian provides four [interactive visualizations](visualizations.html) to
 ## What kinds of networks does it visualize?
 The Vistorian provides visualiztions for the following data in networks:
 
-![image](assets/Images/multiple-links.png)
+![Diagram shwoing how multiple links, link types, link weights, geography, and changes over time are represented in the Vistorian.](assets/Images/multiple-links.png)
 
 
 <br/>
@@ -40,7 +40,7 @@ The Vistorian provides visualiztions for the following data in networks:
 Your data needs to be formatted in tables like shown below. All your data will remain securly on your machine. No data will be send to our server. 
 <br/>
 
-![image](assets/Images/loadData_1.png)
+![Screenshot showing a table of data, with columns labelled "Index", "Sender", "Location_sender", "Qualification", "Receiver", "Location_receiver" and "Date"](assets/Images/loadData_1.png)
 
 Learn more about [formatting data for The Vistorian](formattingdata).
 
@@ -58,5 +58,5 @@ We provide [detailed tutorials](gettingstarted.html) as well as a [live workshop
 
 The Vistorian is an ongoing reserch project. It is open source. If you wish to contribute or find issues, get in contact with us.
 
-* Contact: [vistorian@inria.fr](vistorian@inria.fr)
+* Contact: [vistorian@inria.fr](mailto:vistorian@inria.fr)
 * sign up for the mailing List: [vistorian@googlegroups.com](https://groups.google.com/forum/#!forum/vistorian/join)
