@@ -4,6 +4,7 @@
 
 [Key Information](#key-information)[Info Session](#info-session) | [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
+![](figures/vistorian-visualizations.png)
 
 The Vistorian team is running a free online course that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.
 Exploratory network analysis is suitable for participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process. 
