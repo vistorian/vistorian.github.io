@@ -7,7 +7,8 @@
 ![](figures/vistorian-visualizations.png)
 
 The Vistorian team is running a **free hand-on online course** that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.
-Exploratory network analysis is suitable for participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process. 
+Exploratory network analysis is suitable for participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process.
+
 We will be using [The Vistorian](https://vistorian.github.io), an online tool that provides four visualizations for networks: node-link diagrams, adjacency matrices, a timeline, and a map. Each visualization provides a complementary view of your network data. This course will assist you in visual network exploration as well as in prepareing your network data.
 
 The course includes **one 2-hour long session per week for 5 weeks (Jan 12-Feb 9, 2022)** and potentially more time at home to prepare and work with your own data.
