@@ -45,8 +45,8 @@ This info session will run as following:
 * 5:30-6:00 Questions and discussions (30 minutes) 
 
 ### Info Session Zoom Link: 
-    Join Zoom Meeting on Dec 9, 2021 05:00 PM London
-    https://ed-ac-uk.zoom.us/j/83741473017
+Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:
+    [click here](https://ed-ac-uk.zoom.us/j/83741473017)
     Meeting ID: 837 4147 3017
     Passcode: qL0qfgpW
   
@@ -86,18 +86,16 @@ We are a group of researchers at the VisHub, University of Edinburgh:
 
 ## Slack Channel
 
-We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-tlf3g2rp-I3WVfEYRwBmgp~DEMY4ubw">The Vistorian Slack Channel</a> 
+We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w">The Vistorian Slack Channel</a> 
+
 
 
 # FAQs
-
-### Who is eligible?
-While the tutorial is open to anyone with an interest in data visualization (especially dynamic networks), most benefits will be to those with question(s) in mind who would like to address through interactivity, bookmarks, states restoration , notes and states exchange.
 
 ### How does the Vistorian handle my data? 
 While The Vistorian is a web application, i.e., it runs in your browser, your data will remain on your machine and will not be transmitted to any other machine. Consequently, you do not need any login but also you cannot share your visualizations with colleagues. 
 
 ### Are you gathering any usage data?
-By default, we do not track your usage of the system. As part of our ongoing research, we we provide an opt-in option for us to anonymously track your usage and anoymously analyze these usage data. This does not include your network data. More information can be found on our [research page](vistorianLab.html). 
+Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data.
 
 

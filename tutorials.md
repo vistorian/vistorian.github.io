@@ -66,7 +66,7 @@ You can book an individual appointment with The Vistorian team to discuss your d
 
 ## Slack Channel
 
-We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-tlf3g2rp-I3WVfEYRwBmgp~DEMY4ubw">The Vistorian Slack Channel</a> 
+We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w">The Vistorian Slack Channel</a> 
 
 
 # FAQs
