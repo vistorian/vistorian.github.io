@@ -22,16 +22,36 @@ By the end of the course, you will be able to:
 
 The course combines brief lectures with workshop-style activities and space for discussions and individual support The course will include case-studies and discussions about exploratory network research.
 
-## Key Information
 
+## Prerequisites and requirements. 
+* No technical or programming skills. The course is primarily tailored towards scholars in the humanities.
+* No pre-knowledge in network analysis of terminology. We start with the very basics and introduce all terminology necessary for the course. 
+* We expect participants to be working with their own network data during the duration of the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
+* Your data should not be too large as any visualization of large data sets is challenging in itself. An ideal size for the course is up to 500 links in your network. Ideally, your networks has fewer links to make best use of the activities and visualizations.
+* Your dataset can contain any of the following aspects: 
+    * Geographic information (such as place names). No coordinates are required. 
+    * Temporal information such as the precise time a relationship is active (e.g., a day) or their start and end date. 
+    * Multiple links between the same two nodes (such as individual letters sent between two people
+    * Directed links (such as a letter send from person A to person B) or undirected links
+    * Weighted links (such as strength of a social relationship)
+    * Different types links (such as different types of social relationships) 
+    * Different types of nodes.
+* Software requirements: 
+    * No specific software needs to be installed
+    * Any software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
+    * For visualization, we will use a web application that runs in your browser. 
+
+
+## Key Information
 * The course is free of charge and open to everybody to register. 
-* We have a limited number of seats of  20-30 participants and priority for those who have their own dataset to explore; even if it isn’t fully prepared and formatted.
-* Once you have been accepted, you will be sent an email containing the information needed to join.
-* _For 5 weeks, we meet every Wednesday from 3:00 to 5:00 PM UK time_.
-* A session consists of some explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
-The course is run online, using MS Teams (download here).
-* For the first session, you don’t have to prepare anything. The only thing you need is your data in any format you have. We will explain how to format your data if you want to use your own data in the subsequent sessions.
-* Between sessions, there might be smaller homework tasks to do to stay on pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for this before committing to the course since the course has a limited number of places and we want every participant to take full advantage of the course.  The time allocated depends on the size of your data; varying from 1-4 hours.
+* We have a limited number of seats of  20 participants and priority for those who have their own dataset to explore; even if it isn’t fully prepared and formatted.
+* For 5 weeks, we meet every Wednesday from 3:00 to 5:00 PM UK time.
+* Each of these sessions consists of some theoretical explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
+* The course is run online, using MS Teams [(download here)](https://www.microsoft.com/en-gb/microsoft-teams/download-app).
+* We encourage everyone to bring their own data they want to create networks from.
+* We will explain how to format your data if you want to use your own data in the subsequent sessions.
+* If you do not have own data at the moment, we can provide you with 
+* Between sessions, there might be smaller homework tasks to last the pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for this before committing to the course As the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
 
 ## Info session
 Those session are offered to give an overview about the course and answer your questions. It will take place on  _Thursday 9th AND _Thursday 16th December from 5:00-6:00 PM UK time_
@@ -46,8 +66,8 @@ This info session will run as following:
 ### Info Session Zoom Link: 
 Join our Zoom Meeting on Dec 9, 2021 05:00 PM London through the following link:[click here](https://ed-ac-uk.zoom.us/j/83741473017)
 Meeting ID: 837 4147 3017
-Passcode: qL0qfgpW
-  
+Meeting password will be sent to  registered participants. To attend this info session please sign-up for it through this [form link](https://forms.office.com/r/Wh019m3NNa) 
+
 ## Registeration
 * Registeration will open on _Thursday 9th December 2021 at 6 pm UK time_ after the info session and link will be provided here.
 * Applicants who have their own data to visualize will be prioritized.
@@ -116,8 +136,8 @@ Passcode: qL0qfgpW
 
 ## Who are we?
 
-We are a group of researchers at the VisHub, University of Edinburgh: 
-* [Mashael AlKadi](http://www.mashael.me/) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>(main contact), PhD Student, VisHub, University of Edinburgh
+We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
+* [Mashael AlKadi](http://www.mashael.me/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
 * [Benjamin Bach](https://vishub.net/bach), Reader, VisHub, University of Edinburgh
 * [Uta Hinrichs](http://utahinrichs.de/), Reader, VisHub, University of Edinburgh
 * [James Scott-Brown](http://jamesscottbrown.com/), Post-doc, VisHub, University of Edinburgh
@@ -125,7 +145,7 @@ We are a group of researchers at the VisHub, University of Edinburgh:
 
 ## Slack Channel
 
-We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w">The Vistorian Slack Channel</a> 
+We are delighted to invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
 
 
 
