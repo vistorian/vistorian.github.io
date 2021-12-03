@@ -131,7 +131,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
 If you have any questions, don't hestitate to reach out. We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
 
 * [Mashael AlKadi](http://www.mashael.me/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
-* [Benjamin Bach](https://vishub.net/bach), Reader, VisHub, University of Edinburgh
+* [Benjamin Bach](https://vishub.net/bach), Lecturer, VisHub, University of Edinburgh
 * [Uta Hinrichs](http://utahinrichs.de/), Reader, VisHub, University of Edinburgh
 * [James Scott-Brown](http://jamesscottbrown.com/), Post-doc, VisHub, University of Edinburgh
 
