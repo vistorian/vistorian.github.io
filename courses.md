@@ -75,7 +75,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
 
 ## Course Schedule
 
-**1. Week - Network Data Preparation** _12th Jan 2022_, covers the following topics:
+1. Week - **Network Data Preparation** _12th Jan 2022_, covers the following topics:
     * Role of Visualizations in Network Exploration
     * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
         * What is your network about?
@@ -83,7 +83,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * Properly format your data tables
     * How to choose your exploration varaibles?
 
-**2. Week - Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
+2. Week - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
     * Data types in your network
     * Ensuring consistency of your data
     * Tools to assist in checking data consistency
@@ -93,7 +93,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
     * Techniques in prepraing your data
     * Preparing your exploration plan
 
-**3. Week - Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
+3. Week - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
     * Learn how to:
         * read topological structures in node-link diagrams, 
         * explore the temporal evolution of your network, 
@@ -102,7 +102,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * link direction, 
         * as well as link and node types.
 
-**4. Week - Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
+4. Week - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
     * Learn how to read network structures from an adjacency matrix. This includes:
         * any temporal evolution of your network, 
         * multiple links, 
@@ -111,7 +111,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * as well as link and node types. 
     * We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
 
-**5. Week - Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
+5. Week - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
     * Timeline visualization:
         * How to read time arcs/dynamiceog?
         * Visual encodings
