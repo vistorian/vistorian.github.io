@@ -151,6 +151,7 @@ We invite you to The Vistorian slack channel for questions, open discussions on 
 While The Vistorian is a web application, i.e., it runs in your browser, your data will remain on your machine and will not be transmitted to any other machine. Consequently, you do not need any login but also you cannot share your visualizations with colleagues. 
 
 ### Are you gathering any usage data?
-Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data.
+Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data. <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EQkbeqU1UsZKtMq1BrugeFIBwBllQyMOWdFHqjD9Xz1Thg?e=aPkLi6">Participant Consent Form</a>
+<a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EY4jjGPdS0dFmdVPOnVI75AB2IT30pQf9PGTTrvRpNq7hw?e=swSIkb">Participant Information Sheet</a>
 
 
