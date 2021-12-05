@@ -1,8 +1,8 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Online Course on Visual Network Exploration
+# Online 5-Weeks Course on Visual Network Exploration
 
-[Key Information](#key-information)[Info Session](#info-session) | [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+[Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 ![](figures/vistorian-visualizations.png)
 
@@ -13,7 +13,8 @@ We will be using [The Vistorian](https://vistorian.github.io), an online tool th
 
 The course includes **one 2-hour long session per week for 5 weeks (Jan 12-Feb 9, 2022)** and potentially more time at home to prepare and work with your own data.
 
-By the end of the course, you will be able to:
+
+
 * **Structure your network data** and prepare it for visualization with the Vistorian.
 * **Define goals of your exploration** and what you aim to learn about your network data using visualizations.
 * **Know a range of network visualization techniques**, throug theory and exploration. 
@@ -21,10 +22,12 @@ By the end of the course, you will be able to:
 
 The course combines **brief lectures** with **hands-on activities** and space for **discussions** and **individual support**. The course will include case-studies and discussions about exploratory network research.
 
-We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December from 5:00-6:00 PM UK time_. The session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. [Join here](https://ed-ac-uk.zoom.us/j/83741473017). Meeting password: XXXXXXXXXXXXXXX
+## Info Sessions
+
+We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December from 5:00-6:00 PM UK time_. The session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. [Join here](https://ed-ac-uk.zoom.us/j/83741473017). Meeting password: qL0qfgpW
 
 
-## Prerequisites and requirements: 
+## Prerequisites and requirements
 * **No technical or programming** skills are required. The course is primarily tailored towards scholars in the humanities.
 * **No pre-knowledge in network analysis** of terminology is required. We start with the very basics and introduce all terminology necessary for the course. 
 * We expect participants to be **working with their own network** data during the duration of the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
@@ -56,8 +59,8 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
 
 
 
-## Course Registeration
-* Registration link will take you to a form which will take between 5-15min: XXXXX
+## Registeration
+* Registration link will take you to a form which will take between 5-15min: [click here to register](https://forms.office.com/r/qAnvASgRyJ)
 * Applicants who have their own data to visualize will be prioritized.
 * The course might be offered again in future, depending on demand and funding support. 
 * By registering to the course you:
