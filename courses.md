@@ -1,76 +1,82 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Online 5-Weeks Course on Visual Network Exploration
+# 5-Weeks Online Course on Interactive Visual Network Exploration
 
 [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 ![](figures/vistorian-visualizations.png)
 
-The Vistorian team is running a **free hands-on online course** that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.
-Exploratory network analysis is suitable for participants working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process.
+**The Vistorian team is running a *free, hands-on online course* that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.**
+Exploratory network analysis is suitable for those working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process.
 
-We will be using [The Vistorian](https://vistorian.github.io), an online tool that provides four visualizations for networks: node-link diagrams, adjacency matrices, a timeline, and a map. Each visualization provides a complementary view of your network data. This course will assist you in visual network exploration as well as in prepareing your network data.
+We will use [The Vistorian](https://vistorian.github.io), an online tool that provides interaction visualizations for networks: **node-link diagrams, adjacency matrices, a timeline, and a map**. Each visualization provides a complementary view onto network data. This course will assist you in visual network exploration as well as in prepareing your network data.
 
-The course includes **one 2-hour long session per week for 5 weeks (Jan 12-Feb 9, 2022)** and potentially more time at home to prepare and work with your own data.
+The course includes **a 2-hour session per week for 5 weeks (Jan 12-Feb 9, 2022)** and may require potentially more time at home to prepare and work with your data. 
 
+During the course, you will learn to
+1. **structure your network data** and prepare it for visualization with the Vistorian.
+1. **define goals of your exploration** and what you aim to learn about your network data using visualizations.
+1. **know a range of network visualizations**, through theory and hands-on use. 
+1. **use different types of interactive visualizations** to explore your data.
 
+The course combines **brief lectures** with **hands-on activities**, **discussions**, **individual support**, and networking possibilities. The course includes case-studies and discussions about exploratory network research.
 
-* **Structure your network data** and prepare it for visualization with the Vistorian.
-* **Define goals of your exploration** and what you aim to learn about your network data using visualizations.
-* **Know a range of network visualization techniques**, throug theory and exploration. 
-* **Use different types of interactive visualizations** and conduct basic exploratory analysis.
+**Check this websites for eventual updates and additional details**.
 
-The course combines **brief lectures** with **hands-on activities** and space for **discussions** and **individual support**. The course will include case-studies and discussions about exploratory network research.
+## Info Session
 
-## Info Sessions
+We run 2 **open info sessions** on 
+* **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
+* **Thursday 16th December 2021 (5-6pm UK)**.
 
-We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December from 5:00-6:00 PM UK time_. The session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. [Join here](https://ed-ac-uk.zoom.us/j/83741473017). Meeting password: qL0qfgpW
+Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Meeting password will be sent to registered participants. To attend this info session please sign-up through this link [https://forms.office.com/r/Wh019m3NNa](https://forms.office.com/r/Wh019m3NNa).
 
+## Course Prerequisites and Requirements
 
-## Prerequisites and requirements
-* **No technical or programming** skills are required. The course is primarily tailored towards scholars in the humanities.
+* **No technical or programming skills** are required. The course is primarily tailored towards scholars in the humanities and those starting to explore their network data.
 * **No pre-knowledge in network analysis** of terminology is required. We start with the very basics and introduce all terminology necessary for the course. 
-* We expect participants to be **working with their own network** data during the duration of the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
+* **We expect participants to be working with their own network** data during the course as the course will help you working with that data set. If you do not have your own dataset, we can provide you with demo data.
 * Your **data should not be too large** as any visualization of large data sets is challenging in itself. An ideal size for the course is up to 500 links in your network. Ideally, your networks has fewer links to make best use of the activities and visualizations.
 * **Your dataset can contain any of the following aspects:**
-    * Geographic information (such as place names). No coordinates are required. 
-    * Temporal information such as the precise time a relationship is active (e.g., a day) or their start and end date. 
-    * Multiple links between the same two nodes (such as individual letters sent between two people
-    * Directed links (such as a letter send from person A to person B) or undirected links
-    * Weighted links (such as strength of a social relationship)
-    * Different types links (such as different types of social relationships) 
-    * Different types of nodes.
+    * _Geographic information_ (such as place names). No coordinates are required. 
+    * _Temporal information_ such as the precise time a relationship is active (e.g., a day) or their start and end date. 
+    * _Multiple links between the same two two nodes_ (such as individual letters sent between two people
+    * _Directed links_ (such as a letter send from person A to person B) or undirected links
+    * _Weighted links_ (such as strength of a social relationship)
+    * _Different types of links_ (such as different types of social relationships) 
+    * _Different types of nodes_.
 * **Software requirements:** 
-    * No specific software needs to be installed
-    * Any software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
-    * For visualization, we will use a web application that runs in your browser. 
-
+    * No specific visualization software needs to be installed for this course. 
+    * You need a webbrowser. Note that none of your data will be tranmitted to any of our servers. Your data stays locally in your browser.
+    * You also need software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
 
 ## Key Information:
-* The course is **free of charge and open to everybody** to register. You do not have to be based in the UK. 
-* We have a **limited number of 20 places**. Priority will be given to those who bring their own dataset to explore; even if it isn’t fully prepared and formatted.
+
+* The course is **free of charge and open to everybody**. You do not have to be based in the UK. 
+* We have a **limited number of 20 places**. Priority will be given to those who bring their own dataset as the course benefits will be highest (even if your data are not fully prepared and formatted).
 * For **5 weeks, we meet every Wednesday from 3pm to 5pm (UK time)**.
 * Each of these sessions consists of some theoretical explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
-* The course runs online, **using Zoom**
-* We encourage everyone to **bring their own data** they want to create networks from.
+* The course runs online, **using Zoom** (see link below)
+* We encourage everyone to **bring their own data**.
 * We **will explain how to format your data** if you want to use your own data in the subsequent sessions.
 * If you do not have own data at the moment, we can provide you with demo data. However, you will get the most out of this course if you bring own data. 
-* Between sessions, **there might be smaller homework tasks** to last the pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for this before committing to the course As the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
+* Between sessions, **there might be smaller homework tasks** to last the pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for these tasks before committing to the course as the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
 
 
+## Course Registeration
 
-## Registeration
-* Registration link will take you to a form which will take between 5-15min: [click here to register](https://forms.office.com/r/qAnvASgRyJ)
+* The registration link will take you to a form which will take between 5-15min to complete: [click here to register](https://forms.office.com/r/qAnvASgRyJ). The requested information is important for us to prioritize the detailed course contents and methods.
 * Applicants who have their own data to visualize will be prioritized.
 * The course might be offered again in future, depending on demand and funding support. 
 * By registering to the course you:
-    * consent to the ethics form provided both here and in the registeration form.
+    * must consent to the ethics form provided in the registeration form.
     * plan to attend to all 5 sessions.
     * ensure that you have read all of the key information mentioned above.
 
-## What to prepare before the course? 
-* You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. 
-* We would ask each participant to prepare a 3min pitch to introduce themself to the other participants and the course organisers. Please prepare around 3 slides with the following information
+## What to Prepare Before the Course? 
+
+* You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. However, this is not a requirement as we will teach you how to format your data.
+* We would ask each participant to prepare **a 3min pitch to introduce themself** to the other participants and the course organisers. Please prepare around 3 slides with the following information
   * Your general background and research
   * The data set you are working with (we acknowledge that you may not want to disclose too much information about this. In that case, keep this part short and high level)
   * Any challenges you have faced working with the data set (e.g., previous tools you have used) and your specific research questions. 
@@ -78,7 +84,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
 
 ## Course Schedule
 
-1. Week - **Network Data Preparation** _12th Jan 2022_, covers the following topics:
+### Week 1 - Network Data Preparation _12th Jan 2022_, covers the following topics:
     * Role of Visualizations in Network Exploration
     * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
         * What is your network about?
@@ -86,7 +92,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * Properly format your data tables
     * How to choose your exploration varaibles?
 
-2. Week - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
+### Week 2 - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
     * Data types in your network
     * Ensuring consistency of your data
     * Tools to assist in checking data consistency
@@ -96,7 +102,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
     * Techniques in prepraing your data
     * Preparing your exploration plan
 
-3. Week - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
+### Week 3 - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
     * Learn how to:
         * read topological structures in node-link diagrams, 
         * explore the temporal evolution of your network, 
@@ -105,7 +111,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * link direction, 
         * as well as link and node types.
 
-4. Week - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
+### Week 4 - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
     * Learn how to read network structures from an adjacency matrix. This includes:
         * any temporal evolution of your network, 
         * multiple links, 
@@ -114,7 +120,7 @@ We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December fr
         * as well as link and node types. 
     * We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
 
-5. Week - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
+### Week 5 - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
     * Timeline visualization:
         * How to read time arcs/dynamiceog?
         * Visual encodings
@@ -142,8 +148,6 @@ If you have any questions, don't hestitate to reach out. We are a group of resea
 ## Slack Channel
 
 We invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
-
-
 
 # FAQs
 
