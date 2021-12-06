@@ -13,6 +13,10 @@ The Vistorian is an active research project at the [Vishub at the University of 
 
 # [>> Launch the Vistorian](http://vistorian.online)
 
+We are currently working an updated version Vistorian 2.0 (release mid Jan 2022) with:
+* an easier data uploading routine, and 
+* updated visualization features. 
+
 <br/>
 ## Why the Vistorian?
 
