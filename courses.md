@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# 5-Weeks Online Course on Interactive Visual Network Exploration
+# Free 5-Weeks Online Course on Interactive Visual Network Exploration
 
 [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
