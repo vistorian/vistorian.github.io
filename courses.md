@@ -85,54 +85,53 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 ## Course Schedule
 
 ### Week 1 - Network Data Preparation _12th Jan 2022_, covers the following topics:
-    * Role of Visualizations in Network Exploration
-    * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
-        * What is your network about?
-        * Your network's data model  
-        * Properly format your data tables
-    * How to choose your exploration varaibles?
+* Role of Visualizations in Network Exploration
+* Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
+  * What is your network about?
+  * Your network's data model  
+  * Properly format your data tables
+* How to choose your exploration varaibles?
 
 ### Week 2 - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
-    * Data types in your network
-    * Ensuring consistency of your data
-    * Tools to assist in checking data consistency
-    * Common challenges in network visualizations:
-        * What if my network is too large to visualize? 
-        * What if my data contains semi/unstructured data?
-    * Techniques in prepraing your data
-    * Preparing your exploration plan
+* Data types in your network
+* Ensuring consistency of your data
+* Tools to assist in checking data consistency
+* Common challenges in network visualizations:
+  * What if my network is too large to visualize? 
+  * What if my data contains semi/unstructured data?
+* Techniques in prepraing your data
+* Preparing your exploration plan
 
 ### Week 3 - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
-    * Learn how to:
-        * read topological structures in node-link diagrams, 
-        * explore the temporal evolution of your network, 
-        * multiple links, 
-        * linkweight, 
-        * link direction, 
-        * as well as link and node types.
+* Learn how to:
+  * read topological structures in node-link diagrams, 
+  * explore the temporal evolution of your network, 
+  * multiple links, 
+  * linkweight, 
+  * link direction, 
+  * as well as link and node types.
 
 ### Week 4 - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
-    * Learn how to read network structures from an adjacency matrix. This includes:
-        * any temporal evolution of your network, 
-        * multiple links, 
-        * linkweight, 
-        * link-direction, 
-        * as well as link and node types. 
-    * We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
+* Learn how to read network structures from an adjacency matrix. This includes:
+  * any temporal evolution of your network, 
+  * multiple links, 
+  * linkweight, 
+  * link-direction, 
+  * as well as link and node types. 
+* We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
 
 ### Week 5 - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
-    * Timeline visualization:
-        * How to read time arcs/dynamiceog?
-        * Visual encodings
-        * Ordering and temporal changes
-    * Map visualization: 
-        * What is Geographical Data?
-        * Geo-exploration of data:When / Why Use a Map?
-    * Interaction and Multiple Views:
-        * How can multiple views support my analysis in:
-            * Static views
-            * Interactive views
-
+* Timeline visualization:
+  * How to read time arcs/dynamiceog?
+  * Visual encodings
+  * Ordering and temporal changes
+* Map visualization: 
+  * What is Geographical Data?
+  * Geo-exploration of data:When / Why Use a Map?
+* Interaction and Multiple Views:
+  * How can multiple views support my analysis in:
+  * Static views
+  * Interactive views
 
 
 ## Who are we?
