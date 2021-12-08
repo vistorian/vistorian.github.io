@@ -157,4 +157,4 @@ While The Vistorian is a web application, i.e., it runs in your browser, your da
 ### Are you gathering any usage data?
 Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data. You can find detailed description of the ethics forms here:
 * <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EQkbeqU1UsZKtMq1BrugeFIBwBllQyMOWdFHqjD9Xz1Thg?e=aPkLi6">Participant Consent Form</a>
-* <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EY4jjGPdS0dFmdVPOnVI75AB2IT30pQf9PGTTrvRpNq7hw?e=swSIkb">Participant Information Sheet</a>
+* <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EUQscy2FydpHo_Dh2cCb9LgBPS7NMqcmbzxFKC9kqGgeeg?e=nEkUQE">Participant Information Sheet</a>
