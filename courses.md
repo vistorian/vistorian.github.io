@@ -29,7 +29,8 @@ We run 2 **open info sessions** on
 * **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
 * **Thursday 16th December 2021 (5-6pm UK)**.
 
-Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Meeting password will be sent to registered participants. To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
+Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Passcode: qL0qfgpW . To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
+
 
 ## Course Prerequisites and Requirements
 
@@ -138,7 +139,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 
 If you have any questions, don't hesitate to reach out. We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
 
-* [Mashael AlKadi](http://www.mashael.me/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
+* [Mashael AlKadi](https://www.linkedin.com/in/mashael-alkadi-%D9%85%D8%B4%D8%A7%D8%B9%D9%84-%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A-a9579040/?originalSubdomain=sa/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
 * [Benjamin Bach](https://vishub.net/bach), Lecturer, VisHub, University of Edinburgh
 * [Uta Hinrichs](http://utahinrichs.de/), Reader, VisHub, University of Edinburgh
 * [James Scott-Brown](http://jamesscottbrown.com/), Post-doc, VisHub, University of Edinburgh
