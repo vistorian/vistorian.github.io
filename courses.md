@@ -2,14 +2,14 @@
 
 # Free 5-Weeks Online Course on Interactive Visual Network Exploration
 
-[Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registeration](#registeration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+[Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 ![](figures/vistorian-visualizations.png)
 
 **The Vistorian team is running a *free, hands-on online course* that teaches the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.**
 Exploratory network analysis is suitable for those working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process.
 
-We will use [The Vistorian](https://vistorian.github.io), an online tool that provides interaction visualizations for networks: **node-link diagrams, adjacency matrices, a timeline, and a map**. Each visualization provides a complementary view onto network data. This course will assist you in visual network exploration as well as in prepareing your network data.
+We will use [The Vistorian](https://vistorian.github.io), an online tool that provides interaction visualizations for networks: **node-link diagrams, adjacency matrices, a timeline, and a map**. Each visualization provides a complementary view onto network data. This course will assist you in visual network exploration as well as in preparing your network data.
 
 The course includes **a 2-hour session per week for 5 weeks (Jan 12-Feb 9, 2022)** and may require potentially more time at home to prepare and work with your data. 
 
@@ -29,7 +29,7 @@ We run 2 **open info sessions** on
 * **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
 * **Thursday 16th December 2021 (5-6pm UK)**.
 
-Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Meeting password will be sent to registered participants. To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
+Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Meeting password will be sent to registered participants. To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
 
 ## Course Prerequisites and Requirements
 
@@ -47,7 +47,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
     * _Different types of nodes_.
 * **Software requirements:** 
     * No specific visualization software needs to be installed for this course. 
-    * You need a webbrowser. Note that none of your data will be tranmitted to any of our servers. Your data stays locally in your browser.
+    * You need a webbrowser. Note that none of your data will be transmitted to any of our servers. Your data stays locally in your browser.
     * You also need software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
 
 ## Key Information:
@@ -63,20 +63,20 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 * Between sessions, **there might be smaller homework tasks** to last the pace with the course (e.g., complete data cleaning, complete data formatting, upload your data into the Vistorian, etc.). We suggest reserving the necessary time for these tasks before committing to the course as the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
 
 
-## Course Registeration
+## Course Registration
 
 * The registration link will take you to a form which will take between 5-15min to complete: [click here to register](https://forms.office.com/r/qAnvASgRyJ). The requested information is important for us to prioritize the detailed course contents and methods.
 * Applicants who have their own data to visualize will be prioritized.
 * The course might be offered again in future, depending on demand and funding support. 
 * By registering to the course you:
-    * must consent to the ethics form provided in the registeration form.
+    * must consent to the ethics form provided in the registration form.
     * plan to attend to all 5 sessions.
     * ensure that you have read all of the key information mentioned above.
 
 ## What to Prepare Before the Course? 
 
 * You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. However, this is not a requirement as we will teach you how to format your data.
-* We would ask each participant to prepare **a 3min pitch to introduce themself** to the other participants and the course organisers. Please prepare around 3 slides with the following information
+* We would ask each participant to prepare **a 3min pitch to introduce themselves** to the other participants and the course organisers. Please prepare around 3 slides with the following information
   * Your general background and research
   * The data set you are working with (we acknowledge that you may not want to disclose too much information about this. In that case, keep this part short and high level)
   * Any challenges you have faced working with the data set (e.g., previous tools you have used) and your specific research questions. 
@@ -86,11 +86,11 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 
 ### Week 1 - Network Data Preparation _12th Jan 2022_, covers the following topics:
 * Role of Visualizations in Network Exploration
-* Set of exercises and hands-on experience to help you defining what is the network in your data and what are your reserch questions:
+* Set of exercises and hands-on experience to help you defining what is the network in your data and what are your research questions:
   * What is your network about?
   * Your network's data model  
   * Properly format your data tables
-* How to choose your exploration varaibles?
+* How to choose your exploration variables?
 
 ### Week 2 - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
 * Data types in your network
@@ -136,7 +136,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 
 ## Who are we?
 
-If you have any questions, don't hestitate to reach out. We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
+If you have any questions, don't hesitate to reach out. We are a group of researchers at the VisHub, University of Edinburgh who are offering this course: 
 
 * [Mashael AlKadi](http://www.mashael.me/) (main contact) <a href="mailto: m.alkadi@sms.ed.ac.uk">Email us</a>, PhD Student, VisHub, University of Edinburgh
 * [Benjamin Bach](https://vishub.net/bach), Lecturer, VisHub, University of Edinburgh
@@ -146,7 +146,7 @@ If you have any questions, don't hestitate to reach out. We are a group of resea
 
 ## Slack Channel
 
-We invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use explorative and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
+We invite you to The Vistorian slack channel for questions, open discussions on the Vistorian and on how can we use exploratory and interactive visualizations, and updates, please join us on : <a href="https://join.slack.com/t/vistorian/shared_invite/zt-zo1w94tf-dkrbkqsRQqOTxavI3R~m_w" target="_blank" >The Vistorian Slack Channel</a> 
 
 # FAQs
 
@@ -157,5 +157,3 @@ While The Vistorian is a web application, i.e., it runs in your browser, your da
 Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data. You can find detailed description of the ethics forms here:
 * <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EQkbeqU1UsZKtMq1BrugeFIBwBllQyMOWdFHqjD9Xz1Thg?e=aPkLi6">Participant Consent Form</a>
 * <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EY4jjGPdS0dFmdVPOnVI75AB2IT30pQf9PGTTrvRpNq7hw?e=swSIkb">Participant Information Sheet</a>
-
-
