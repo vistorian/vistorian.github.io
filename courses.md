@@ -122,7 +122,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 
 ### Week 5 - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
 * Timeline visualization:
-  * How to read time arcs/dynamiceog?
+  * How to read time arcs/dynamicego?
   * Visual encodings
   * Ordering and temporal changes
 * Map visualization: 
