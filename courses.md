@@ -29,7 +29,7 @@ We run 2 **open info sessions** on
 * **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
 * **Thursday 16th December 2021 (5-6pm UK)**.
 
-Both sessions are the same. Sessions run from 5-6pm UK time. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Passcode: qL0qfgpW . To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
+Both sessions are the same. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. Passcode: qL0qfgpW . To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
 
 
 ## Course Prerequisites and Requirements
@@ -48,7 +48,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
     * _Different types of nodes_.
 * **Software requirements:** 
     * No specific visualization software needs to be installed for this course. 
-    * You need a webbrowser. Note that none of your data will be transmitted to any of our servers. Your data stays locally in your browser.
+    * You need a web browser. Note that none of your data will be transmitted to any of our servers. Your data stays locally in your browser.
     * You also need software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
 
 ## Key Information:
@@ -77,7 +77,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 ## What to Prepare Before the Course? 
 
 * You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. However, this is not a requirement as we will teach you how to format your data.
-* We would ask each participant to prepare **a 3min pitch to introduce themselves** to the other participants and the course organisers. Please prepare around 3 slides with the following information
+* We would ask each participant to prepare **a 3 mintues pitch to introduce themselves** to the other participants and the course organisers. Please prepare around 3 slides with the following information
   * Your general background and research
   * The data set you are working with (we acknowledge that you may not want to disclose too much information about this. In that case, keep this part short and high level)
   * Any challenges you have faced working with the data set (e.g., previous tools you have used) and your specific research questions. 
@@ -90,7 +90,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your research questions:
   * What is your network about?
   * Your network's data model  
-  * Properly format your data tables
+  * Properly formatting your data tables
 * How to choose your exploration variables?
 
 ### Week 2 - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
