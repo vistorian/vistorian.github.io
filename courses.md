@@ -99,7 +99,7 @@ Both sessions are the same. Sessions run from 5-6pm UK time. Each session will w
 * Common challenges in network visualizations:
   * What if my network is too large to visualize? 
   * What if my data contains semi/unstructured data?
-* Techniques in prepraing your data
+* Techniques in preparing your data
 * Preparing your exploration plan
 
 ### Week 3 - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
