@@ -31,6 +31,8 @@ We run 2 **open info sessions** on
 
 Both sessions are the same. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. **Passcode: qL0qfgpW** . To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
 
+_Click here to download_ the <a href="/Info%20Session%20on%20The%20Interactive%20Visual%20Network%20Exploration%20Course.pdf">Info Session Slides</a>
+
 
 ## Course Prerequisites and Requirements
 
