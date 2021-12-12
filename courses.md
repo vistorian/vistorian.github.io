@@ -158,3 +158,16 @@ While The Vistorian is a web application, i.e., it runs in your browser, your da
 Please refer to the ethics forms approved by the ethics committee at University of Edinburgh for a detailed description on how we handle your data. You can find detailed description of the ethics forms here:
 * <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EQkbeqU1UsZKtMq1BrugeFIBwBllQyMOWdFHqjD9Xz1Thg?e=aPkLi6">Participant Consent Form</a>
 * <a href="https://uoe-my.sharepoint.com/:b:/g/personal/s2002120_ed_ac_uk/EUQscy2FydpHo_Dh2cCb9LgBPS7NMqcmbzxFKC9kqGgeeg?e=nEkUQE">Participant Information Sheet</a>
+
+### If we do not download software, does that mean The Vistorian will hold and have access to our data?
+The Vistorian stores all of your data on the user's own machine. As The Vistorian is a web application, i.e., it runs in your browser, your data will remain on your machine and will not be transmitted to any other machine. 
+
+### Can The Vistorian handle data held in a GEDCOM file?
+The current version does not support GEDCOM files. This feature might be added in the near future, but as a workaround GEDCOM files can be converted to CSV and used with the Vistorian.
+
+### Can I join the course without my own dataset? Will you have a demo dataset to play with? As I minted to collect network data soon but would like to see what visualization I can do.
+Yes, a demo dataset shall be provided to participants who do not have their own dataset. Priority is for those who have their own dataset to work on, however we will keep in consideration participants with/without datasets.
+
+### Is it possible to work on a view of 1000 links of a larger graph or are there efficiency limitations elsewhere? E.g loading the graph and running algorithms on it.
+The Vistorian can handle up to 5000 links graphs, what matters actually is the number of links. However, it might degrade the interactivity and response as the graph size goes up to such a number. Due the fact that all graph data is stored on the user’s machine (browser’s local storage) which has a limited space.
+
