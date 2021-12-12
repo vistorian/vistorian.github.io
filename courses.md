@@ -23,7 +23,7 @@ The course combines **brief lectures** with **hands-on activities**, **discussio
 
 **Check this websites for eventual updates and additional details**.
 
-## Info Session
+## Info Sessions
 
 We run 2 **open info sessions** on 
 * **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
