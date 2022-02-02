@@ -14,6 +14,7 @@ Content on this page is split into
 - application example (link weight: 1,2,3)
 
 ## Data Cleaning Strategies
+- 
 
 ## Reducing the size of your network
 
@@ -24,7 +25,33 @@ Content on this page is split into
 
 ## Projection
 
+- 
+
+## Visual Patterns
+- Highly connected nodes
+- Clusters
+- Bridges (connect clusters)
+- Neighbors
+- Paths
+- Motifs
+- Multiple links
+- Attributes
+
 ## Exploration Questions
+
+- What are other central nodes?
+- What are the isolated nodes?
+- Are the central nodes connected or not?
+- Does the network has clusters? 
+- How are these clusters? 
+- Are clusters connected? 
+- What is the distribution of specific link types?
+- How does the network evolve over time? 
+- When do specific link types occur in time?
+- How do communities form?
+- ....
+
+
 
 
 
