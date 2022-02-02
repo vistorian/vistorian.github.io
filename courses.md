@@ -87,6 +87,9 @@ _Click here to download_ the <a href="/Info%20Session%20on%20The%20Interactive%2
 
 ## Course Schedule
 
+Session zoom link: [https://ed-ac-uk.zoom.us/j/82222194588](https://ed-ac-uk.zoom.us/j/82222194588)
+PW: uB1kNvB4
+
 ### Week 1 - Network Data Preparation _12th Jan 2022_, covers the following topics:
 * Role of Visualizations in Network Exploration
 * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your research questions:
