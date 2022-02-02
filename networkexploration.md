@@ -7,7 +7,8 @@ Content on this page is split into
 2. Data Cleaning -> check for consistency in your data table
 3. Reducing the size of my network 
 4. Projection
-5. Visual Exploration -> a set of questions you can ask yourself when exploring a network through a visualization 
+5. Visual Patters
+6. Exploration Questions
 
 ## Data Cleaning Strategies
 
@@ -22,7 +23,7 @@ Content on this page is split into
 
 ## Projection
 
-- 
+- *coming soon* 
 
 ## Visual Patterns
 
