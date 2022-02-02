@@ -9,14 +9,11 @@ Content on this page is split into
 4. Projection
 5. Visual Exploration -> a set of questions you can ask yourself when exploring a network through a visualization 
 
-## Shaping the data
-
-- application example (link weight: 1,2,3)
-
 ## Data Cleaning Strategies
-- 
 
-## Reducing the size of your network
+- *coming soon* 
+
+## Strategies for reducing the size of your network
 
 - by node type
 - by link type
@@ -28,6 +25,9 @@ Content on this page is split into
 - 
 
 ## Visual Patterns
+
+These are visual patterns that you could look out in your network visualization. These visual patterns describe information in your network.
+
 - Highly connected nodes
 - Clusters
 - Bridges (connect clusters)
@@ -35,7 +35,8 @@ Content on this page is split into
 - Paths
 - Motifs
 - Multiple links
-- Attributes
+- Node and link colors and widths (i.e., node and link attributes)
+- ...
 
 ## Exploration Questions
 
@@ -49,7 +50,8 @@ Content on this page is split into
 - How does the network evolve over time? 
 - When do specific link types occur in time?
 - How do communities form?
-- ....
+- Links incoming, outgoing from a specific node
+- ...
 
 
 
