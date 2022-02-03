@@ -12,7 +12,7 @@ Content on this page is split into
 
 ## Data Cleaning Strategies
 
-- *coming soon* 
+- *coming soon, including Python* 
 
 ## Strategies for reducing the size of your network
 
