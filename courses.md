@@ -2,7 +2,7 @@
 
 # Free 5-Weeks Online Course on Interactive Visual Network Exploration
 
-[Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+[Course Material](#course-material) |  [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 ![](figures/vistorian-visualizations.png)
 
@@ -22,6 +22,15 @@ During the course, you will learn to
 The course combines **brief lectures** with **hands-on activities**, **discussions**, **individual support**, and networking possibilities. The course includes case-studies and discussions about exploratory network research.
 
 **Check this websites for eventual updates and additional details**.
+## Course Material
+
+Please find here the link to each session's slides:
+1. Session (1): [Network Data Prepration](https://drive.google.com/file/d/1F8UTC0kZJBqWnGmngjhNMqcf3Fr0FzS4/view?usp=sharing)
+2. Session (2): [Extra Session on Network Data Prepration](https://drive.google.com/file/d/10TUvroMRxcz9X-7qd8SOu7aUnwbmGDkX/view?usp=sharing)
+3. Session (3): [Data Shaping Techniques and Challanges](https://drive.google.com/file/d/1Ptv2wXVLPo8sjs90jCmu4Vit_KJf0Z0c/view?usp=sharing)
+4. Session (4): [Visual Exploration of Networks with Node-link Diagrams](https://drive.google.com/file/d/1xawqGL9lSmAgGQEHqEUS9KsmRneBLl8t/view?usp=sharing)
+5. Session (5): Visual Exploration of Networks with Adjacency Matrix
+6. Session (6) _Last Session_: Visual Exploration of Networks with Timeline, Map, and Parallel View 
 
 ## Info Sessions
 
