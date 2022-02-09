@@ -29,7 +29,7 @@ Please find here the link to each session's slides:
 2. Session (2): [Extra Session on Network Data Prepration](https://drive.google.com/file/d/10TUvroMRxcz9X-7qd8SOu7aUnwbmGDkX/view?usp=sharing)
 3. Session (3): [Data Shaping Techniques and Challanges](https://drive.google.com/file/d/1Ptv2wXVLPo8sjs90jCmu4Vit_KJf0Z0c/view?usp=sharing)
 4. Session (4): [Visual Exploration of Networks with Node-link Diagrams](https://drive.google.com/file/d/1xawqGL9lSmAgGQEHqEUS9KsmRneBLl8t/view?usp=sharing)
-5. Session (5): Visual Exploration of Networks with Adjacency Matrix
+5. Session (5): [Visual Exploration of Networks with Adjacency Matrix](https://drive.google.com/file/d/1CubD9vvXPZT-pCUfYvcHe5pl2wz3m27W/view?usp=sharing)
 6. Session (6) _Last Session_: Visual Exploration of Networks with Timeline, Map, and Parallel View 
 
 ## Info Sessions
