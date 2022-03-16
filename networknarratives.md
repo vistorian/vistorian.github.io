@@ -1,5 +1,11 @@
 # Guided Tours with Network Narratives
 
+NetworkNarratives is a module of the Vistorian, providing a set of guided tours in the form of annotated slideshows to help you exploring your network. Find an introductory video here:
+
+You can launch NetworkNarratives from TheVistorian side menu where you launch the individual visualizations. 
+
+Below, are the tours currently implmented. You can select these tours from the side menu in Network Narratives. Some tours require you to select a subgraph or a node. 
+
 ## Network Overview 
 Network Overview describes an entire network. It starts
 with four introductory slides, covering the geographic extent
@@ -11,6 +17,7 @@ about node centralities and the overall community structure (number of
 clusters).
 
 ## Subgraph Overview 
+
 Subgraph Overview is similar to Network Overview but fo-
 cuses on a specific subgraph. It shows the subgraph’s size and
 the percentage of the network’s nodes it comprises, important
@@ -18,7 +25,9 @@ nodes, density, and important links to the rest of the network. After
 selecting the templates, a user is asked to select a subgraph using a
 lasso selection tool.
 
-## Community Exploration explores and compares clusters in
+## Community Exploration 
+
+This walkthrough explores and compares clusters in
 the network. It shows their sizes, connections, and important
 nodes. For example, the Most connected cluster displays the cluster
 that has the most connections with the others. For community detec-
@@ -27,7 +36,9 @@ community detection algorithms can easily be included and used for
 comparison (e.g., k-means with different values for k) and shown on
 different slides (e.g., one slide per value of k).
 
-## Centrality Exploration explores nodes based on different
+## Centrality Exploration 
+
+This walkthrough explores nodes based on different
 centrality measures (e.g., degree or betweenness). For exam-
 ple, we compute the node with the Highest centrality for both
 Betweenness centrality and Closeness centrality. Possible extensions
@@ -41,15 +52,9 @@ connected node in each, and finally shows links between the two sub-
 graphs (e.g., Number of links, their Total link weight, and the Strongest
 link among them).
 
-## Compare Two Nodes shows the links between the two nodes,
-compares their connectivities and total link weights, and
-finally shows the common neighbors. For example, general
-statistics such as Connectivity ranking and Total link weight of the
-two nodes are compared. Neighboring nodes that connect both of the
-selected nodes are shown in the last slide (Common neighbors) of the
-walkthrough.
+## Ego-Network explores 
 
-## Ego-Network explores the network around a selected node
+This walkthrough explores the network around a selected node
 and its neighbors. The walkthrough starts with the selected
 node and its position within the entire network. The template
 then explores the node’s direct neighborhood (nodes, links, strong
@@ -61,9 +66,6 @@ bined weights along each path, and the minimum link weight
 within each path. This walkthrough was motivated by Archaeologist’s
 desire to explore historical travel costs between cities.
 
-## Follow a Path requires a selection of a set of connected nodes.
-The template follows the path, explaining details about each
-node and its neighbors, and provides overall statistics of all
-the nodes in the path. This template was motivated by Archaeologist’s
-interest in nodes along geographic features such as rivers, main roads,
-or political boundaries
+## Temporal Network Exploration
+
+<in progress>
