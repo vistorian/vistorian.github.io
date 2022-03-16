@@ -68,4 +68,4 @@ desire to explore historical travel costs between cities.
 
 ## Temporal Network Exploration
 
-<in progress>
+...in progress.
