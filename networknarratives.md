@@ -4,7 +4,7 @@
 
 NetworkNarratives is a module to the Vistorian, providing a set of guided tours in the form of annotated slideshows to help you exploring your network. Chosing from  a set of tours, you can click through facts about your network with a simple click. 
 
-![Find an introductory video here]()
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbbC131ZstM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 You can launch NetworkNarratives direclty from TheVistorian side menu where you launch the individual visualizations. 
 
