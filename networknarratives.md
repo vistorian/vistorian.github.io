@@ -1,8 +1,16 @@
 # Guided Tours with Network Narratives
 
-NetworkNarratives is a module of the Vistorian, providing a set of guided tours in the form of annotated slideshows to help you exploring your network. Find an introductory video here:
+![](assets/nn.png)
 
-You can launch NetworkNarratives from TheVistorian side menu where you launch the individual visualizations. 
+NetworkNarratives is a module to the Vistorian, providing a set of guided tours in the form of annotated slideshows to help you exploring your network. Chosing from  a set of tours, you can click through facts about your network with a simple click. 
+
+![Find an introductory video here]()
+
+You can launch NetworkNarratives direclty from TheVistorian side menu where you launch the individual visualizations. 
+
+<img src="assets/vistorian-nn.png" hight="200px">
+
+# Available Tours
 
 Below, are the tours currently implmented. You can select these tours from the side menu in Network Narratives. Some tours require you to select a subgraph or a node. 
 
