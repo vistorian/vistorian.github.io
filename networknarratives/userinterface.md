@@ -1,15 +1,15 @@
 # Network Narratives User Interface
 
-![](ui-blank.png)
 
+Network Narratives shows four different views, explained in the following
+
+* **[Slide view (Visualizations and Captions)](#slide-view-visualization-and-captions)**
+* **[Navigation Bar](#navigation-bar)**
+* **[Tours Menu (Tours and Tour Overview)](#tours-menu)**
+
+![](ui-blank.png)
 ![](ui-explained.png)
 
-Network Narratives shows five different views, explained in the following
-
-* [Views](#views)
-* [Slide view (Visualizations and Captions)](#slide-view-visualizations-and-captions)
-* [Navigation Bar](#navigation-bar)
-* [Tours Menu (Tours and Tour Overview](#tours-menu)
 
 ## Slide view: Visalization and Captions
 ![](ui-visualization.png)
@@ -28,6 +28,7 @@ Below the visualization view sit the **captions** explaining you what you see on
 
 The navitation bar is the heart of the Network Narratives user interface and is best imagined as a **remove control**.. It helps you navigate between slides in your tour ("slide-deck") as well as sections. More info on the [structure of a tour can be found here](../networknarratives#tours).
 
+* **A progress bar** indicates progress through the currently selected tour.
 * **Previous slide:** brings you to the previous slide in your tour
 * **Next slide:** brings you to the next slide in your tour
 * **Previous section:** jumps to the previous section in the tour. A section is a collection of slides about a similar topic that helps structure the tour.
@@ -47,13 +48,27 @@ Some tours can be selected by default since they will explain you facts about th
 * selecting a node (e.g., [Ego-network](tours@ego-network-exporation)), or 
 * selecting a set of nodes, i.e., a subgraph (e.g., [Subgraph Exploration](tours/subgraph-exploration)) 
 
-To select nodes, click a node or draw a lasso around a set of nodes in the [visualization view](#slide-view-visualizations-and-captions).
+To select nodes, click a node or draw a lasso around a set of nodes in the [visualization view](#slide-view-visualization-and-captions).
 
 ### Tour overview and bookmarks.
 
-Clicking a slide inside the tour overview
+The tour overview shows the tours sections and slides as a tree, as in a file browser. Sections group slides of similar content and help structure a tour. You can click each slide in the tour to directly jump to that slide or use the [navigation bar](#navigation-bar) to naviate through the slides in their linear sequence. 
+
+A plus sign besides a tour indicated a _de-tour_, inserting similar slides to learn more about the fact shown at the respective slides (see also [Navigation Bar](#navigation-bar)). Newly inserted slides are addedd to your overview.  
+
+If you click on the **Bookmarks tab**, you see a list of all [bookmarked slides](#slide-view-visualization-and-captions).
 
 ### Editing tours
+
+You can edit tours, by adding and removing individual slides a well as filtering slides about specific facts you are most interested in, e.g., 
+* geograpgy
+* statistics
+* weight
+* density
+* connectivity
+* outliers
+* node-neighbors
+* overview
 
 
 
