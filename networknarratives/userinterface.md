@@ -1,7 +1,7 @@
 # Network Narratives User Interface
 
 
-Network Narratives shows four different views, explained in the following
+Network Narratives shows four different views, explained on this page.
 
 * **[Slide view (Visualizations and Captions)](#slide-view-visualization-and-captions)**
 * **[Navigation Bar](#navigation-bar)**
@@ -21,7 +21,7 @@ The visualization view shows an interactive nodelink diagram of your network. Du
 * The **gray arrows to the left and right of this view allow you to navigate** to the next and previous slides respectively.   
 * You can **bookmark slides** you find important throug the small bookmark icon on the bottom left of the visualization view. 
 
-Below the visualization view sit the **captions** explaining you what you see on this particular slide. 
+Below the visualization view sit the **captions** explaining you what you see on this particular slide. These are textual explanations. Wherever required, the captions show a link to Wikipedia, explaining concepts mentioned in a caption.
 
 ## Navigation Bar
 ![](ui-navbar.png)
