@@ -1,4 +1,5 @@
-[Tours](#tours) | [User Interface](#user-interface) | [Help & Support](#help--support)
+[Tours](networknarratives/tours) | [User Interface](networknarratives/userinterface)| [Help & Support](#help--support)
+
 
 # Guided Tours with Network Narratives
 
