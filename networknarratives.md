@@ -21,8 +21,11 @@ Learn more about the user interface **[here](networknarratives/userinterface)**
 
 # Tours
 
-Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
+![](networknarratives/tours.png)
 
+A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. 
+
+Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
 
 # Help & Support 
 
