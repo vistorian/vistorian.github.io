@@ -1,8 +1,16 @@
-# Available Tours
+# Tours in Network Narratives
+
+* [Network Overview](#network-overview)
+* [Subgraph overview](#subgraph-overview)
+* [Community Exploration](#community-exploration)
+* [Centrality Exploration](#centrality-exploration)
+* [Ego-Network Exploration](#ego-network-exploration)
+* [Temporal Network Exploration](#temporal-network-exploration)
 
 Below, are the tours currently implmented. You can select these tours from the side menu in Network Narratives. Some tours require you to select a subgraph or a node. 
 
-## Tour: Network Overview 
+
+## Network Overview 
 Network Overview describes an entire network. It starts
 with four introductory slides, covering the geographic extent
 (skipped for non-geographic networks), the number of nodes
@@ -12,7 +20,7 @@ weakest links in the network. A third section provides some details
 about node centralities and the overall community structure (number of
 clusters).
 
-## Tour: Subgraph Overview 
+## Subgraph Overview 
 
 Subgraph Overview is similar to Network Overview but fo-
 cuses on a specific subgraph. It shows the subgraph’s size and
@@ -21,7 +29,7 @@ nodes, density, and important links to the rest of the network. After
 selecting the templates, a user is asked to select a subgraph using a
 lasso selection tool.
 
-## Tour: Community Exploration 
+## Community Exploration 
 
 This walkthrough explores and compares clusters in
 the network. It shows their sizes, connections, and important
@@ -32,7 +40,7 @@ community detection algorithms can easily be included and used for
 comparison (e.g., k-means with different values for k) and shown on
 different slides (e.g., one slide per value of k).
 
-## Tour: Centrality Exploration 
+## Centrality Exploration 
 
 This walkthrough explores nodes based on different
 centrality measures (e.g., degree or betweenness). For exam-
@@ -48,7 +56,7 @@ connected node in each, and finally shows links between the two sub-
 graphs (e.g., Number of links, their Total link weight, and the Strongest
 link among them).
 
-## Tour: Ego-Network explores 
+## Ego-Network Exploration
 
 This walkthrough explores the network around a selected node
 and its neighbors. The walkthrough starts with the selected
@@ -62,6 +70,6 @@ bined weights along each path, and the minimum link weight
 within each path. This walkthrough was motivated by Archaeologist’s
 desire to explore historical travel costs between cities.
 
-## Tour: Temporal Network Exploration
+## Temporal Network Exploration
 
 ...in progress.
