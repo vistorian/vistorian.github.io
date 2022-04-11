@@ -1,3 +1,5 @@
+**[Tours](#tours)** | **[User Interface](#user-interface)**.
+
 # Guided Tours with Network Narratives
 
 ![](assets/nn.png)
@@ -15,7 +17,6 @@ You can launch NetworkNarratives direclty from The Vistorian side menu where you
 
 # Tours
 
-
 A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. A tour consists of
 * slides, showing a single fact about your network (e.g., the most connected node), and 
 * sections, grouping slides of a specific topic (e.g., centrality measures). 
@@ -32,7 +33,7 @@ You can use the [Navigation Bar](networknarratives/userinterface.html#navigation
 Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
 
 
-# Interface
+# User Interface
 
 ![Screenshot of the user interface](networknarratives/ui-blank.png)
 
