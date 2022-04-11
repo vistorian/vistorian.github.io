@@ -7,24 +7,24 @@ NetworkNarratives is a Vistorian modules that provides a set of **automatically 
 ## [>> Watch the video (3:29)](https://www.youtube.com/watch?v=qbbC131ZstM)
 
 
-## Launching Network Narratives
+# Launching Network Narratives
 
 You can launch NetworkNarratives direclty from TheVistorian side menu where you launch the individual visualizations. 
 
 <img src="assets/vistorian-nn.png" height="300px">
 
-## Interface
+# Interface
 
 ![Screenshot of the user interface](networknarratives/ui-blank.png)
 
 Learn more about the user interface **[here](networknarratives/userinterface)**
 
-## Tous
+# Tours
 
 Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
 
 
-## Help & Support 
+# Help & Support 
 
 To get a 30min introduction and help you get set with your data, please book a 30min slot on [Calenderly](https://calendly.com/js-b/network-naratives-initial-interview?month=2022-03). We will follow up for a time that is convenient for a 2nd interview. 
 
