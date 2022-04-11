@@ -9,17 +9,18 @@ NetworkNarratives is a Vistorian modules that provides a set of **automatically 
 
 # Launching Network Narratives
 
-You can launch NetworkNarratives direclty from TheVistorian side menu where you launch the individual visualizations. 
+You can launch NetworkNarratives direclty from The Vistorian side menu where you launch the individual visualizations. 
 
 <img src="assets/vistorian-nn.png" height="300px">
 
 # Tours
 
-![](networknarratives/tours.png)
 
 A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. A tour consists of
 * slides, showing a single fact about your network (e.g., the most connected node), and 
 * sections, grouping slides of a specific topic (e.g., centrality measures). 
+
+![](networknarratives/tours.png)
 
 Slides in a tour are calculated by Network Narratives once a tour has been selected. 
 
