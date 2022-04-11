@@ -23,7 +23,16 @@ Learn more about the user interface **[here](networknarratives/userinterface)**
 
 ![](networknarratives/tours.png)
 
-A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. 
+A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. A tour consists of
+* slides, showing a single fact about your network (e.g., the most connected node), and 
+* sections, grouping slides of a specific topic (e.g., centrality measures). 
+
+Slides in a tour are calculated by Network Narratives once a tour has been selected. 
+
+You can use the [Navigation Bar](networknarratives/userinterface.html#navigation-bar) to navigate between slides. 
+
+* Some slides propose **detours**, i.e., by including similar slides on demand, e.g., to learn more about a specific topic fact shown on a slide. 
+* Other slides link to **related tours**, e.g., to learn more about the [ego network](networknarratives/tours.html#ego-network-exploration) of a node mentioned at that slide.
 
 Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
 
