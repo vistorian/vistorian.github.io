@@ -26,16 +26,16 @@ Below the visualization view sit the **captions** explaining you what you see on
 ## Navigation Bar
 ![](ui-navbar.png)
 
-The navitation bar is the heart of the Network Narratives user interface and is best imagined as a **remove control**.. It helps you navigate between slides in your tour ("slide-deck") as well as sections. More info on the [structure of a tour can be found here](../networknarratives#tours).
+The navigation bar is the heart of the Network Narratives user interface and is best imagined as a **remote control**. It helps you navigate between slides in your tour ("slide-deck") as well as sections. More info on the [structure of a tour can be found here](../networknarratives#tours).
 
-* **A progress bar** indicates progress through the currently selected tour.
+* **A progress bar** indicates progress through the currently selected tour, out of all the slides in this tour.
 * **Previous slide:** brings you to the previous slide in your tour
 * **Next slide:** brings you to the next slide in your tour
-* **Previous section:** jumps to the previous section in the tour. A section is a collection of slides about a similar topic that helps structure the tour.
-* **Next section:** jumps tpo the next section in your tour. A section is a collection of slides about a similar topic that helps structure the tour.
-* **More about [...] (left button):** this button **will insert detailed slides related to the current slide** in your tour. Click this button if you want to learn about similar facts in your network as you see on the current slide. For example, if your current slide shows about _the most connected node_, clicking the button will insert slides into your tour to describe the 2nd and 3rd most connected node. 
+* **Previous section:** jumps to the previous section in the tour. A section is a collection of slides about a similar topic that helps [structure the tour](../networknarratives.html#tours).
+* **Next section:** jumps tpo the next section in your tour. A section is a collection of slides about a similar topic that helps [structure the tour](../networknarratives.html#tours).
+* **More about [...] (left button):** this button **will insert detailed slides related to the current slide** in your tour, creating [detour](../networknarratives.html#tours) Click this button if you want to learn about similar facts in your network as you see on the current slide. For example, if your current slide shows about _the most connected node_, clicking the button will insert slides into your tour to describe the 2nd and 3rd most connected node. 
 * **More about [...] (right button):** this button will also insert **similar slides to the fact you currently see**. For exmaple, if your current slide is about _the most connected node_, clicking this button will show you more information about in-betweenness centrality.
-* **Related tours:** shows you related to the tour you currently see.  
+* **Related tours:** shows [related tours](../networknarratives.html#tours) to the tour you currently see.  
     
 ## Tours Menu
 ![](ui-menu.png)
