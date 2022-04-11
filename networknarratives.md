@@ -41,6 +41,6 @@ Learn more about the user interface **[here](networknarratives/userinterface)**.
 
 # Help & Support 
 
-[Get in touch](https://calendly.com/js-b/network-naratives-initial-interview?month=2022-03) to schedule a 1-1 session to help you get set with your data. We will follow up for a time that is convenient for a 2nd interview. A [Partcicipant Information Sheet is optional if you would like to support our research and can be found here](https://docs.google.com/document/d/1t3eCX8xEGhfWX_dAsHZoTFMYa234VOZantDzy4R-RxE/edit?usp=sharing). 
+[Get in touch](https://calendly.com/js-b/network-naratives-initial-interview?month=2022-03) to schedule a 1-1 session to help you get set with your data. A [Partcipant Information Sheet is optional if you would like to support our research and can be found here](https://docs.google.com/document/d/1t3eCX8xEGhfWX_dAsHZoTFMYa234VOZantDzy4R-RxE/edit?usp=sharing). 
 
 
