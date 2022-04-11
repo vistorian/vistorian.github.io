@@ -11,7 +11,7 @@ Network Narratives shows four different views, explained in the following
 ![](ui-explained.png)
 
 
-## Slide view: Visalization and Captions
+## Slide view: Visualization and Captions
 ![](ui-visualization.png)
 
 The visualization view shows an interactive nodelink diagram of your network. During the tour, the visalization view remains fully interactive, allowing to hover nodes and pan and zoom. During the tour, Network Narratives will highlight nodes and links relevant to the current fact on your side.
