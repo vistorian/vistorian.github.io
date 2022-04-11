@@ -13,12 +13,6 @@ You can launch NetworkNarratives direclty from TheVistorian side menu where you 
 
 <img src="assets/vistorian-nn.png" height="300px">
 
-# Interface
-
-![Screenshot of the user interface](networknarratives/ui-blank.png)
-
-Learn more about the user interface **[here](networknarratives/userinterface)**.
-
 # Tours
 
 ![](networknarratives/tours.png)
@@ -35,6 +29,14 @@ You can use the [Navigation Bar](networknarratives/userinterface.html#navigation
 * Other slides link to **related tours**, e.g., to learn more about the [ego network](networknarratives/tours.html#ego-network-exploration) of a node mentioned at that slide.
 
 Find out which **[tours](networknarratives/tours)** Network Narratives provides with.
+
+
+# Interface
+
+![Screenshot of the user interface](networknarratives/ui-blank.png)
+
+Learn more about the user interface **[here](networknarratives/userinterface)**.
+
 
 # Help & Support 
 
