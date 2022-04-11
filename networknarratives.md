@@ -17,7 +17,7 @@ You can launch NetworkNarratives direclty from TheVistorian side menu where you 
 
 ![Screenshot of the user interface](networknarratives/ui-blank.png)
 
-Learn more about the user interface **[here](networknarratives/userinterface)**
+Learn more about the user interface **[here](networknarratives/userinterface)**.
 
 # Tours
 
