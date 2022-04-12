@@ -56,7 +56,7 @@ The tour overview shows the tours sections and slides as a tree, as in a file br
 
 A plus sign besides a tour indicated a _de-tour_, inserting similar slides to learn more about the fact shown at the respective slides (see also [Navigation Bar](#navigation-bar)). Newly inserted slides are addedd to your overview.  
 
-If you click on the **Bookmarks tab**, you see a list of all [bookmarked slides](#slide-view-visualization-and-captions).
+If you click on the **Bookmarks tab** (just above the tour outline), you see a list of all [bookmarked slides](#slide-view-visualization-and-captions).
 
 ### Editing tours
 
