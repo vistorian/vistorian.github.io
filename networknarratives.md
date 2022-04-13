@@ -19,7 +19,7 @@ You can launch NetworkNarratives direclty from The Vistorian side menu where you
 # Tours
 
 A tour in Network Narratives is best imagined as a slide-deck. Each slide tells you something about your network. A tour consists of
-* slides, showing a single fact about your network (e.g., the most connected node), and 
+* slides, showing a single fact about your network (e.g., a piece of information such as the most connected node, or the network density), and 
 * sections, grouping slides of a specific topic (e.g., centrality measures). 
 
 ![](networknarratives/tours.png)
