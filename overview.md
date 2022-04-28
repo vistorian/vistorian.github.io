@@ -34,7 +34,7 @@
 
 9/ The Vistorian is a stand-alone open source application. Your personal network data is kept safely in your browser's local storage. No account is required. No personal data is transmitted to our servers. 
 
-10. The Vistorian is developed by 
+10/ The Vistorian is developed by 
 * The VisHub lab at The University of Edinburgh, UK
 * Inria, FR
 * Microsoft Research, Redmond, WA
