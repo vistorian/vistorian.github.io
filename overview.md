@@ -1,6 +1,6 @@
 # The Vistorian in a Nutshell
 
-![](figures/v-opening-1.png)
+![](figures/v-opening.png)
 1/ The Vistorian is an open online application for the interactive exploration of multivariate, temporal, and geographical networks. 
 
 ![](assets/Images/multiple-links.png)
@@ -39,7 +39,7 @@
 * Inria, FR
 * Microsoft Research, Redmond, WA
 
-![](figures/v-opening-2.png
+![](figures/v-opening2.png
 )
 11/ Learn more on our blog and start your session today!
 
