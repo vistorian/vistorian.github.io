@@ -4,7 +4,7 @@
 
 [The Vistorian](http://vistorian.net) is an online tool for **interactive exploration** of dynamic, multivariate, and geographic networks. 
 
-[![](https://img.youtube.com/vi/lr9Kfo-3y5g/0.jpg)](https://www.youtube.com/watch?v=lr9Kfo-3y5g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lr9Kfo-3y5g" title="The Vistorian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _[Marie Boucher Dataset](https://hal.archives-ouvertes.fr/hal-02508730/document) Explored Using The Vistorian, courtesy of Dr. Nicole Dufournaud_
 
