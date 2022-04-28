@@ -23,8 +23,9 @@
 
 ![](figures/v-nodelink.png)
 **4/** The **(1) Node Link Diagram** colors links by link type and their weight through line thinkness. It provides * an interactive time-range slider to navigate a temporal network
-* interactive filtering mechanisms,
 * interactive highlighting
+* a time range slider to explore network evolution over time
+* interactive filtering mechanisms,
 * pan and zoom, and 
 * interactive styling functions
 <br/><br/>
