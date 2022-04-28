@@ -33,15 +33,15 @@
 
 
 ![](figures/v-matrix.png)
-**5/** The **(2) Adjacency Matrix** view shows nodes in your network as rows and columns of a table while using table cells to show if two nodes are linked. Ordering of rows and columns in the matrix is algorithmically optimzed to reveal network structures as such clusters and highly connected nodes. 
+**5/** The **(2) Adjacency Matrix** shows nodes in your network as rows and columns of a table while using table cells to show if two nodes are linked. Ordering of rows and columns in the matrix is algorithmically optimzed to reveal network structures as such clusters and highly connected nodes. 
 <br/><br/>
 
 ![](figures/v-timeline.png)
-**6/** The **(3) timeline** view shows the evolution of a temporal network over time, layed out on a timeline from left to right. Rows in the view show the individual views in your network while links are shown as arcs between two rows at their respective time along the horizontal timeline. Clicking a node in a row shows the nodes immediate neighbors only, for clarity.
+**6/** The **(3) timeline** shows the evolution of a temporal network over time, layed out on a timeline from left to right. Rows in the view show the individual nodes in your network while links are shown as arcs between two rows at their respective time along the horizontal timeline. Clicking a node in a row shows the nodes immediate neighbors only, for clarity.
 <br/><br/>
 
 ![](figures/v-map.png)
-**7/** A **(4) map** with nodes and linkes overlaid on a geographic map, if nodes and geographic positions. An interactive slider can set a visual distance parameter to explore nodes with the same geographic locations.
+**7/** The **(4) map** shows nodes and linkes overlaid on a geographic map, if nodes have a geographic positions. An interactive slider can set a visual distance parameter to explore nodes with the same geographic locations.
 <br/><br/>
 
 ![](figures/v-sidebyside.png)
