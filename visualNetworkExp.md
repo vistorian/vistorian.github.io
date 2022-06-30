@@ -4,7 +4,7 @@
  
 [(1)Network Data Prepration](#(1)Network-Data-Prepration) | [(2)Extra Session on Network Data Prepration](#(2)Extra-Session-on-Network-Data-Prepration) | [(3)Data Shaping Techniques and Challenges](#(3)Data-Shaping-Techniques-and-Challenges) | [(4) Exploring with Node-link diagrams](#(4)-Exploring-with-Node-link-diagrams) | [(5)Exploring with Adjacency Matrix](#(5)Exploring-with-Adjacency-Matrix)| [(6)Exploring with Timeline, Map, and Coordinated View](#(6)Exploring-with-Timeline,-Map,-and-Coordinated-View) 
 
-In this page you can find material related to our course on **Visual Exploration of Networks**. For full details about the course, please visit the course's [info page](/networkexploration.md).
+In this page you can find material related to our course on **Visual Exploration of Networks**. For full details about the course, please visit the course's [info page](/courses.md).
 
 **Course Goals**
 1. Structure your network data and prepare it for visualization with the Vistorian.

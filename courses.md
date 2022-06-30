@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="assets/styles/style.css">
 
-# Free 5-Weeks Online Course on Interactive Visual Network Exploration
+# Free 6-Weeks Online Course on Interactive Visual Network Exploration
 
 [Course Material](#course-material) |  [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Course Schedule](#course-schedule) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
@@ -24,13 +24,15 @@ The course combines **brief lectures** with **hands-on activities**, **discussio
 **Check this websites for eventual updates and additional details**.
 ## Course Material
 
+The outline and description of all weeks content can be found here [Visual Network Exploration Course Outline and Material](/visualNetworkExp.md)
+
 Please find here the link to each session's slides:
-1. Session (1): [Network Data Prepration](https://drive.google.com/file/d/1F8UTC0kZJBqWnGmngjhNMqcf3Fr0FzS4/view?usp=sharing)
-2. Session (2): [Extra Session on Network Data Prepration](https://drive.google.com/file/d/10TUvroMRxcz9X-7qd8SOu7aUnwbmGDkX/view?usp=sharing)
-3. Session (3): [Data Shaping Techniques and Challanges](https://drive.google.com/file/d/1Ptv2wXVLPo8sjs90jCmu4Vit_KJf0Z0c/view?usp=sharing)
-4. Session (4): [Visual Exploration of Networks with Node-link Diagrams](https://drive.google.com/file/d/1xawqGL9lSmAgGQEHqEUS9KsmRneBLl8t/view?usp=sharing)
-5. Session (5): [Visual Exploration of Networks with Adjacency Matrix](https://drive.google.com/file/d/1CubD9vvXPZT-pCUfYvcHe5pl2wz3m27W/view?usp=sharing)
-6. Session (6) _Last Session_: Visual Exploration of Networks with Timeline, Map, and Parallel View 
+1. Session (1): [Network Data Prepration](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(1)%20Network%20Data%20Preparation.pdf)
+2. Session (2): [Extra Session on Network Data Prepration](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(2)%20Extra%20Session%20on%20Data%20Preparation%20.pdf)
+3. Session (3): [Data Shaping Techniques and Challanges](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(3)%20Data%20Shaping%20Techniques%20and%20Challenges.pdf)
+4. Session (4): [Visual Exploration of Networks with Node-link Diagrams](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(4)%20Exploring%20Network%20with%20Node-links.pdf)
+5. Session (5): [Visual Exploration of Networks with Adjacency Matrix](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(5)%20Exploring%20Network%20with%20Adjacency%20Matrix.pdf)
+6. Session (6) _Last Session_: [Visual Exploration of Networks with Timeline, Map, and Parallel View](/networkExp_courseMaterial/INE%20Course%20_%20Week%20(6)%20Exploring%20Network%20with%20maps%2C%20timeline%20and%20multiview.pdf)
 
 ## Info Sessions
 
@@ -70,7 +72,7 @@ _Click here to download_ the <a href="/Info%20Session%20on%20The%20Interactive%2
 
 * The course is **free of charge and open to everybody**. You do not have to be based in the UK. 
 * We have a **limited number of 20 places**. Priority will be given to those who bring their own dataset as the course benefits will be highest (even if your data are not fully prepared and formatted).
-* For **5 weeks, we meet every Wednesday from 3pm to 5pm (UK time)**.
+* For **6 weeks, we meet every Wednesday from 3pm to 5pm (UK time)**.
 * Each of these sessions consists of some theoretical explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
 * The course runs online, **using Zoom** (see link below)
 * We encourage everyone to **bring their own data**.
@@ -103,7 +105,7 @@ _Click here to download_ the <a href="/Info%20Session%20on%20The%20Interactive%2
 Session zoom link: [https://ed-ac-uk.zoom.us/j/82222194588](https://ed-ac-uk.zoom.us/j/82222194588)
 PW: uB1kNvB4
 
-### Week 1 - Network Data Preparation _12th Jan 2022_, covers the following topics:
+### Week 1 : Network Data Preparation _12th Jan 2022_, covers the following topics:
 * Role of Visualizations in Network Exploration
 * Set of exercises and hands-on experience to help you defining what is the network in your data and what are your research questions:
   * What is your network about?
@@ -111,7 +113,7 @@ PW: uB1kNvB4
   * Properly formatting your data tables
 * How to choose your exploration variables?
 
-### Week 2 - **Data Shaping Techniques and Challenges** _19th Jan 2022_, covers the following topics:
+### Weeks (2-3) : **Data Shaping Techniques and Challenges** _19th/26th Jan 2022_, covers the following topics:
 * Data types in your network
 * Ensuring consistency of your data
 * Tools to assist in checking data consistency
@@ -121,7 +123,7 @@ PW: uB1kNvB4
 * Techniques in preparing your data
 * Preparing your exploration plan
 
-### Week 3 - **Visualizing and Analyzing your Data using _Nodelinks_** _26th Jan 2022_, covers the following topics:
+### Week 4 : **Visualizing and Analyzing your Data using _Nodelinks_** _2nd Feb 2022_, covers the following topics:
 * Learn how to:
   * read topological structures in node-link diagrams, 
   * explore the temporal evolution of your network, 
@@ -130,7 +132,7 @@ PW: uB1kNvB4
   * link direction, 
   * as well as link and node types.
 
-### Week 4 - **Visualizing and Analyzing your Data using _Matrix_** _2nd Feb 2022_, covers the following topics:
+### Week 5 : **Visualizing and Analyzing your Data using _Matrix_** _9thnd Feb 2022_, covers the following topics:
 * Learn how to read network structures from an adjacency matrix. This includes:
   * any temporal evolution of your network, 
   * multiple links, 
@@ -139,7 +141,7 @@ PW: uB1kNvB4
   * as well as link and node types. 
 * We will also explain matrix ordering algorithms that help you reveal clusters and highly-connected nodes.
 
-### Week 5 - **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _9th Feb 2022_, covers the following topics:
+### Week 6 : **Visualizing and Analyzing your Data using Timeline, Map, and Multiple-Views** _16th Feb 2022_, covers the following topics:
 * Timeline visualization:
   * How to read time arcs/dynamicego?
   * Visual encodings
