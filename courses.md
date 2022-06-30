@@ -34,9 +34,13 @@ Please find here the link to each session's slides:
 
 ## Info Sessions
 
+<<<<<<< HEAD
 We run 2 **open info sessions** on 
 * **Friday 10th December 2021 (4-5pm UK)**, and a repetition on 
 * **Thursday 16th December 2021 (5-6pm UK)**.
+=======
+We run 2 **open info sessions** on  _Thursday 9th AND _Thursday 16th December from 5:00-6:00 PM UK time_. The session will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. [Join here](https://ed-ac-uk.zoom.us/j/83741473017). Meeting password: **qL0qfgpW**
+>>>>>>> 34a8fb59c06976de1850ac10b87e026c2a38d0d0
 
 Both sessions are the same. Each session will walk you through the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/83741473017)**. **Passcode: qL0qfgpW** . To attend this info session please sign-up through this link [https://forms.office.com/r/ez0mpKSc6W](https://forms.office.com/r/ez0mpKSc6W).
 
