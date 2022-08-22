@@ -2,7 +2,6 @@
 
 [Link Tables](#link-tables) | [Node Tables](#node-tables) | [Location Tables](#location-tables) | [Finding the right format](#finding-the-right-format) | [Formatting Time](#formatting-time) | [Issues with Data Files and Formating](https://vistorian.github.io/formattingdata.html#Troubleshooting-Issues-with-Data-Formatting-and-Dataset-Files)
 
-
 The Vistorian imports data formatted in tables in `csv` format (**c**omma **s**eparated **v**alues, https://en.wikipedia.org/wiki/Comma-separated_values) files. Each csv contains one table. You can export `csv`-files from 
 * MS Excel ([File > Save As > Select file type 'CSV'](https://support.office.com/en-ie/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)) 
 * Apple's Numbers (File -> Export to -> CSV),
@@ -11,7 +10,15 @@ The Vistorian imports data formatted in tables in `csv` format (**c**omma **s**e
 
 If you have edited or compiled your data files manually, you can use the free online tool [CSVLint](https://csvlint.io) to check if your CSV file is properly formatted. 
 
-This page explains what information you can put in your CSV files so The Vistorian can visualize it. There are some rules to follow where which information goes.
+This page explains what information you can put in your CSV files so The Vistorian can visualize it. There are some rules to follow where which information goes. Once you have formatted your network into one or more tables, you can upload them through the import wizard in the Vistorian.
+
+A table for a simple network with link types can look like so: 
+
+| PersonA  | PersonB | Relation type |
+|----------|---------|---------------|
+| Bob      | Anton   | Work          |
+| Bob      | Charles | Friends       |
+| Charles  | Maria   | Work          |
 
 ## Troubleshooting Issues with Data Formatting and Dataset Files
  For issues and errors related to data files formatting and upload please check our [troubleshooting page](https://vistorian.github.io/Troubleshooting.html##-Issues-related-to-Data-Formats-and-Dataset-Filename:).
