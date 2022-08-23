@@ -20,6 +20,8 @@ weakest links in the network. A third section provides some details
 about node centralities and the overall community structure (number of
 clusters).
 
+![Network Overview-Geo](https://user-images.githubusercontent.com/1230497/186126310-5fa8d881-d178-4751-83a0-8d09678525e1.png)
+
 ## Subgraph Overview 
 
 Subgraph Overview is similar to Network Overview but fo-
@@ -28,6 +30,9 @@ the percentage of the network’s nodes it comprises, important
 nodes, density, and important links to the rest of the network. After
 selecting the templates, a user is asked to select a subgraph using a
 lasso selection tool.
+
+![Subgraph Overview-Geo](https://user-images.githubusercontent.com/1230497/186126377-c0769492-f27d-4c0a-9cf9-bfd4cdc04d89.png)
+
 
 ## Community Exploration 
 
@@ -39,6 +44,9 @@ tion, we use the algorithm by Newman [49]. More advanced multiple
 community detection algorithms can easily be included and used for
 comparison (e.g., k-means with different values for k) and shown on
 different slides (e.g., one slide per value of k).
+
+![Community Exploration-Geo](https://user-images.githubusercontent.com/1230497/186126451-414060a5-885c-4813-99c7-8ae31fec3f40.png)
+
 
 ## Centrality Exploration 
 
@@ -56,6 +64,9 @@ connected node in each, and finally shows links between the two sub-
 graphs (e.g., Number of links, their Total link weight, and the Strongest
 link among them).
 
+![Centrality Exploration-Geo](https://user-images.githubusercontent.com/1230497/186126400-a51fd748-62fb-4c2b-8ac5-52d0a34e161b.png)
+
+
 ## Ego-Network Exploration
 
 This walkthrough explores the network around a selected node
@@ -69,6 +80,9 @@ selected nodes. The walkthrough reports on path length, com-
 bined weights along each path, and the minimum link weight
 within each path. This walkthrough was motivated by Archaeologist’s
 desire to explore historical travel costs between cities.
+
+![Ego-network Analysis-Geo](https://user-images.githubusercontent.com/1230497/186126427-2d914e3c-1c62-445a-82b1-d0789ab531bc.png)
+
 
 ## Temporal Network Exploration
 
