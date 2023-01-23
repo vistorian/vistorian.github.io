@@ -2,13 +2,13 @@
 
 # Free Online Course on Network Formation for Visual Exploration Purposes
 
-[Course Structure](#course-structure) | [Course Material](#course-material) |  [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Course Schedule and Meeting Link](#course-schedule-and-meeting-link) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+[Course Structure](#course-structure) | [Course Schedule and Meeting Link](#course-schedule-and-meeting-link) | [Course Material](#course-material) |   [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 
 **The Vistorian team is running a *free, hands-on online course* that teaches how to form and create your network data for visual exploration purposes. The sessions will cover in addition the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.**
 Exploratory network analysis is suitable for those working or planning to work with qualitative, quantitative, or mixed-methods research, at any stage of their research process.
 
-We will use [The Vistorian](https://vistorian.github.io), an online tool that provides interaction visualizations for networks: **node-link diagrams, adjacency matrices, a timeline, and a map**. Each visualization provides a complementary view onto network data. This course will assist you in visual network exploration as well as in preparing your network data.
+We will use [The Vistorian](https://vistorian.net/), an online tool that provides interaction visualizations for networks: **node-link diagrams, adjacency matrices, a timeline, and a map**. Each visualization provides a complementary view onto network data. This course will assist you in visual network exploration as well as in preparing your network data.
 
 ## Course Structure
 
@@ -29,6 +29,7 @@ We run 2 **open info sessions** on
 * **Friday 27th January 2023 (4-5pm UK)**, and a repetition on 
 * **Monday 30th January 2023 (5-6pm UK)**.
 Both sessions are the same and will walk you throught the course, demo the Vistorian, and give you the opportunity to meet us and discuss questions before signing up. **[Join an info session on zoom](https://ed-ac-uk.zoom.us/j/87942430223)**. **Passcode: 0VKrju4z** .
+
 
 
 ## Course Schedule and Meeting Link
@@ -84,10 +85,59 @@ The session covers the following topics:
 The outline and description of all weeks content is as follow: _content will be updated on weekly basis_
 
 Please find here the link to each session's slides:
-1. Session (1): [Network Visual Exploration for Concept & Tool Learners]()
-2. Session (2): [Network Visual Exploration for Data Collectors]()
-3. Session (3): [Network Visual Exploration for Guided Exploration]()
-4. Session (4): [Network Visual Exploration for Free-Form Exploration]()
+1. Session (1): [Network Visual Exploration for Concept & Tool Learners]
+2. Session (2): [Network Visual Exploration for Data Collectors]
+3. Session (3): [Network Visual Exploration for Guided Exploration]
+4. Session (4): [Network Visual Exploration for Free-Form Exploration]
+
+
+## Course Prerequisites and Requirements
+
+* **No technical or programming skills** are required. The course is primarily tailored towards scholars in the humanities and those starting to explore their network data.
+* **No pre-knowledge in network analysis** of terminology is required. We start with the very basics and introduce all terminology necessary for the course. 
+* **We expect participants to be working with their own network** data during the course as the course will help you working with that dataset. If you do not have your own dataset, we can provide you with demo data.
+* Your **data should not be too large** as any visualization of large data sets is challenging in itself. An ideal size for the course is up to 500 links in your network. Ideally, your networks has fewer links to make best use of the activities and visualizations.
+* **Your dataset can contain any of the following aspects:**
+    * _Geographic information_ (such as place names). No coordinates are required. 
+    * _Temporal information_ such as the precise time a relationship is active (e.g., a day) or their start and end date. 
+    * _Multiple links between the same two two nodes_ (such as individual letters sent between two people
+    * _Directed links_ (such as a letter send from person A to person B) or undirected links
+    * _Weighted links_ (such as strength of a social relationship)
+    * _Different types of links_ (such as different types of social relationships) 
+    * _Different types of nodes_.
+* **Software requirements:** 
+    * No specific visualization software needs to be installed for this course. 
+    * You need a web browser. Note that none of your data will be transmitted to any of our servers. Your data stays locally in your browser.
+    * You also need software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
+
+## Key Information:
+
+* The course is **free of charge and open to everybody**. You do not have to be based in the UK. 
+* We have a **limited number of 20 places**. Priority will be given to those who bring their own dataset as the course benefits will be highest (even if your data are not fully prepared and formatted).
+* For **4 weeks, we meet every Wednesday from 3pm to 5pm (UK time)**.
+* Each of these sessions consists of some theoretical explanations (lasting roughly 30 minutes), some hands-on activities, and time for discussion.  
+* The course runs online, **using Zoom** (link to be provided)
+* We encourage everyone to **bring their own data**.
+* We **will explain how to format your data** if you want to use your own data in the subsequent sessions.
+* If you do not have own data at the moment, we can provide you with demo data. However, you will get the most out of this course if you bring own data. 
+* After each sessions, **you can start working on your own data**  prior to the 1-to-1 session. This enables us to make use of individualled meetings to discuss any obstacls faced and assist you to reach your goal t. We suggest reserving the necessary time for such task before committing to the course as the course has a limited number of places and we want every participant to take full advantage of the course. The time you want to allocate will depend on what it takes you to properly format your data within a table such as Excel.
+
+
+## Course Registration
+
+* The registration link will take you to a form which will take between 5-15min to complete: [click here to register](https://forms.office.com/e/5yGFH0nNdR). The requested information is important for us to prioritize the detailed course contents and methods.
+* By registering to the course you:
+    * must consent to the ethics form provided in the registration form.
+    * plan to attend to a single 1-to-1 session.
+    * ensure that you have read all of the key information mentioned above.
+
+## What to Prepare Before the Course? 
+
+* You should have a dataset that you want to visualize. Ideally, this data set is already formatted in some machine readable format such as a table in Excel or a CSV file. However, this is not a requirement as we will teach you how to format your data.
+* We would ask each participant to prepare **a 3 mintues pitch to introduce themselves** to the other participants and the course organisers. Please prepare around 3 slides with the following information
+  * Your general background and research
+  * The data set you are working with (we acknowledge that you may not want to disclose too much information about this. In that case, keep this part short and high level)
+  * Any challenges you have faced working with the data set (e.g., previous tools you have used) and your specific research questions. 
 
 ## Who are we?
 
