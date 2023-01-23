@@ -2,7 +2,7 @@
 
 # Free Online Course on Network Formation for Visual Exploration Purposes
 
-[Course Structure](#course-structure) | [Course Schedule and Meeting Link](#course-schedule-and-meeting-link) | [Course Material](#course-material) |   [Info Sessions](#info-sessions) | [Prerequisites and requirements](#prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
+[Course Structure](#course-structure) | [Course Schedule and Meeting Link](#course-schedule-and-meeting-link) | [Course Material](#course-material) |   [Info Sessions](#info-sessions) | [Prerequisites and requirements](#course-prerequisites-and-requirements) |  [Key Information](#key-information)| [Registration](#registration) | [Who are we?](#who-are-we)| [Slack Channel](#slack-channel) | [FAQs](#faqs)
 
 
 **The Vistorian team is running a *free, hands-on online course* that teaches how to form and create your network data for visual exploration purposes. The sessions will cover in addition the basics of exploring temporal, geographical, and multivariate network data (e.g., social networks) through interactive network visualizations.**
@@ -110,7 +110,7 @@ Please find here the link to each session's slides:
     * You need a web browser. Note that none of your data will be transmitted to any of our servers. Your data stays locally in your browser.
     * You also need software that allows you to edit tables such as Excel or spreadsheets in Google Drive. 
 
-## Key Information:
+## Key Information
 
 * The course is **free of charge and open to everybody**. You do not have to be based in the UK. 
 * We have a **limited number of 20 places**. Priority will be given to those who bring their own dataset as the course benefits will be highest (even if your data are not fully prepared and formatted).
