@@ -7,7 +7,7 @@
 
 Are you performing network analysis or wanting to learn about network exploration using interactive visualisations? Do you have network data you want to visualise and explore? Are you thinking about collecting network data (e.g., from letters, social networks, language models, etc.) and want to learn about the potential of visual exploration? 
 
-As part of our ongoing research on supporting network analysis and exploration through visualizations,  **the VisHub team at the University of Edinburgh (https://vishub.net) is running *a free 1-to-1 online coaching Program on network visualization***, to help you understand and perform visual exploration with your network data. This program will support participants through 1-to-1 sessions to support a flexible and self-regulated learning style. *Sessions will take place during February and mid of March 2023*.
+As part of our ongoing research on supporting network analysis and exploration through visualizations,  **the VisHub team at the University of Edinburgh [https://vishub.net](https://vishub.net) is running *a free 1-to-1 online coaching Program on network visualization***, to help you understand and perform visual exploration with your network data. This program will support participants through 1-to-1 sessions to support a flexible and self-regulated learning style. *Sessions will take place during February and mid of March 2023*.
 
 ## Who is this program for? 
 
