@@ -2,10 +2,6 @@
 
 # Getting Started
 
-## Demo datasets to download:
-* [Marie Boucher CSV File](https://drive.google.com/file/d/1Os_1D7xQEQHN_hujn8lf1qRVTwHTl8yV/view?usp=sharing)
-* [les miserables CSV File](https://drive.google.com/file/d/11cSkZ9TYX7B1mq8gSIuKwEjahlEEmRH8/view?usp=sharing)
-
 ## Preparing data
 
 The Vistorian can import three data formats:
