@@ -1,14 +1,18 @@
 # Vistorian Team
 
+In the order of when they joined and worked on the project.
+
 * [Benjamin Bach](http://benjbach.me), Inria & University of Edinburgh (bbach@ed.ac.uk)
-* Alexis Pister, University of Edinburgh,
-* Xinhuan Shu, University of Newcastle,
-* Mashael AlKadi, University of Edinburgh
 * Jean-Daniel Fekete, Inria
-* Catherine Plaisant, University of Maryland
-* Vanesssa Serrano, Ramon Llull University
-* [Nathalie Henry Riche](https://www.microsoft.com/en-us/research/people/nath/), Microsoft Research
 * Nicole Dufournaud, EHESS
+* [Nathalie Henry Riche](https://www.microsoft.com/en-us/research/people/nath/), Microsoft Research
+* Vanesssa Serrano, Ramon Llull University
+* Catherine Plaisant, University of Maryland
+* James Scott-Brown, University of Edinburgh 
+* Mashael AlKadi, University of Edinburgh
+* Xinhuan Shu, University of Newcastle
+* Alexis Pister, University of Edinburgh
+
 
 
 # Mailing lists
