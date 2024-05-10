@@ -65,8 +65,7 @@ Below, a list of patterns we can find in this network.
 
 # Circular Node-link Diagram and Arc Diagram
 
-![image](assets/Images/circular-nodelink.png)
-![image](assets/Images/arcDiagram.png)
+|![image](assets/Images/circular-nodelink.png)|![image](assets/Images/arcDiagram.png)|
 
 Circular node-link diagrams and arc diagrams show nodes in a network along a linear ordering on a circle with straight lines (Circular node-link) or along a vertical line with arcs (Arc diagram) respectively. 
 
@@ -149,7 +148,7 @@ Matrices contain potentially a [variety of patterns](https://hal.inria.fr/hal-01
 
 # Time Arcs
 
-![image](assets/Images/timeline.png)
+![image](assets/Images/time-arcs.png)
 
 The time arcs show nodes as vertical list (top left) and time along the horizontal axis. Arcs represent links between two nodes at different locations. Link direction is indicated by the clock-wise direction of arcs. I.e., an arc bending to the left side goes from a lower node in the list to an upper one; an arc bending right goes from a node higher in the list to a lower one.
 
