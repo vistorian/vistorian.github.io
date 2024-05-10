@@ -1,9 +1,12 @@
 # Visualizations
 
 * [Node-link Diagram](#node-link)
-* [Time Arcs](#time-arcs)
+* [Circular Node-link Diagram and Arc Diagram](#arc-diagram)
 * [Adjacency Matrix](#adjacency-matrix)
-* [Map](#map)
+* [Time Arcs](#time-arcs)
+* [Adjacent-node List](#adjacent-nodes-list)
+* [Incident-link List](#incident-links-list)
+* [Geographic Map](#map)
 
 # Node-link Diagram
 
