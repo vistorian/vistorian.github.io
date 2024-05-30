@@ -56,8 +56,8 @@ We provide [detailed tutorials](gettingstarted.html) as well as a [live workshop
 
 ## Join 
 
-* Join our mailing list: [vistorian@googlegroups.com](https://groups.google.com/forum/#!forum/vistorian/join).
-* The Vistorian is open source. Get in touch with us if you are interested in contributing.
+* Join our mailing list: [vistorian-community](https://groups.google.com/u/1/g/vistorian-community).
+<!-- * The Vistorian is open source. Get in touch with us if you are interested in contributing. -->
 
 <br/>
 ## Cite The Vistorian
@@ -66,7 +66,7 @@ We provide [detailed tutorials](gettingstarted.html) as well as a [live workshop
 <br/>
 ## Support
 
-The Vistorian is an ongoing reserch project. It is open source. If you wish to contribute or find issues, get in contact with us.
+The Vistorian is an ongoing research project. It is open source. If you wish to contribute or find issues, get in contact with us.
 
-* Contact: [vistorian@inria.fr](mailto:vistorian@inria.fr)
-* sign up for the mailing List: [vistorian@googlegroups.com](https://groups.google.com/forum/#!forum/vistorian/join)
+* Contact: [vistorian@googlegroups.com](mailto:vistorian@googlegroups.com)
+<!-- * sign up for the mailing list: [vistorian-community@googlegroups.com](https://groups.google.com/u/1/g/vistorian-community) -->
