@@ -10,9 +10,9 @@ You can contribute to the Vistorian in the following ways and any contribution i
 * collaborate with us on research projects that involve the Vistorian (in any domain, but specifically data visualization).
 
 ## How can I help developing the Vistorian?
-The Vistorian is an open-source project hosted at GitHub with several repositories involved. Please get in touch with us if you are planning to help with the development (vistorian@googlegroups.com).
+The Vistorian is an open-source project hosted at GitHub with several repositories involved. Please get in touch with us if you are planning to help with the development ([vistorian@googlegroups.com](mailto:vistorian@googlegroups.com)).
 
-To setup the code locally, read the instructions in the [readme file](https://github.com/networkcube/vistorian-web/blob/master/README.md) in the vistorian-web repository.
+To setup the code locally, read the instructions in the README file in the [vistorian](https://github.com/vistorian/vistorian) repository.
 
 ## Developing for the Vistorian
 
